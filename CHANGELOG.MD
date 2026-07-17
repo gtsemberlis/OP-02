@@ -1,3 +1,13 @@
+# Source Edition v1.1 — Handout Recovery Pass (2026-07-17)
+
+- Restored H-01 — FAA Initial Incident Summary from the recovered approved player version.
+- Replaced the H-06 placeholder with the complete canonical Rao's Comparative Incident Timeline.
+- Replaced H-09 design-stage framing with the clean in-world Comparative Case File.
+- Verified H-05 and H-07 as canonical handout sources.
+- Updated the canonical manifest, Appendix C handout index, and handout inventory.
+- Recorded that H-02 remains absent and must not be silently synthesized by downstream publishers.
+- Derived Canonical Manuscript and HDE files remain stale until regenerated from this source revision.
+
 # RC-3E — Witness Handout and Handler Tool Architecture (2026-07-17)
 
 - Restored H-04 — NTSB Witness Briefing Sheets.

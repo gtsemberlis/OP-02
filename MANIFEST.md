@@ -22,6 +22,10 @@
 | H-03 | Handout | Canonical | `handouts/H-03_Alexandria_Technical_Information_Brief.md` |
 | H-04 | Handout | Canonical | `handouts/H-04-ntsb-witness-briefing-sheets.md` |
 | H-05 | Handout | Canonical | `handouts/H-05_Raos_Research_Notebook.md` |
+| H-06 | Handout | Canonical | `handouts/H-06_Raos_Comparative_Incident_Timeline.md` |
+| H-07 | Handout | Canonical | `handouts/H-07_Collector_Field_Notes.md` |
+| H-08 | Handout | Canonical | `handouts/H-08_Owen_Walker_Drawing.md` |
+| H-09 | Handout | Canonical | `handouts/H-09_Comparative_Case_File.md` |
 | HT-01 | Handler Tool | Canonical | `handler_tools/HT-01-live-interview-guide.md` |
 | L-01 | Location | Draft | `locations/L-01-chicago-o-hare-international-airport.md` |
 | L-02 | Location | Draft | `locations/L-02-alexandria-aviation-systems-headquarters.md` |
@@ -61,5 +65,3 @@
 | S-08 | Scene | Draft | `scenes/S-08-runway-observation.md` |
 | S-09 | Scene | Draft | `scenes/S-09-inheritance.md` |
 
-
-- Added H-07_Collector_Field_Notes.md (Collector Field Notes)
