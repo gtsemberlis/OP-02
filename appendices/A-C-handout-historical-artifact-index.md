@@ -16,6 +16,10 @@ related_objects:
 - H-03
 - H-04
 - H-05
+- H-09
+- H-08
+- H-07
+- H-06
 - A-01
 - A-02
 - A-03
@@ -43,6 +47,10 @@ Provide separate production and running indexes for canonical operational Artifa
 | H-03 | Alexandria Technical Information Brief | A-03 — Alexandria Technical Overview | S-04 — Alexandria Systems Review | Corporate engineering brief |
 | H-04 | NTSB Witness Briefing Sheets | None — administrative briefing packet | S-06 — Independent Witnesses | Five separate NTSB briefing sheets |
 | H-05 | Rao's Research Notebook | A-05 — Dr. Rao's Research Notebook | S-05 — Independent Analysis | Ten notebook pages plus inside back cover |
+| H-06 | Rao's Comparative Incident Timeline | A-04 — Runway Obstruction Event Summary | S-05 — Independent Analysis | Internal chronological engineering working document |
+| H-07 | Collector Field Notes | A-07 — Collector Notebook Fragments | S-07 — Competing Observers | Eight recovered handwritten notebook fragments |
+| H-08 | Owen Walker's Drawing | A-06 — Owen Walker's Drawing | S-06 — Independent Witnesses | Full-page image facsimile |
+| H-09 | Comparative Case File | A-09 — Comparative Case File | S-09 — Inheritance | Restrained Program reference file and case index |
 
 ### Operational Artifacts
 
@@ -68,6 +76,10 @@ Current canonical handout sources:
 - `handouts/H-03_Alexandria_Technical_Information_Brief.md`
 - `handouts/H-04-ntsb-witness-briefing-sheets.md`
 - `handouts/H-05_Raos_Research_Notebook.md`
+- `handouts/H-06_Raos_Comparative_Incident_Timeline.md`
+- `handouts/H-07_Collector_Field_Notes.md`
+- `handouts/H-08_Owen_Walker_Drawing.md`
+- `handouts/H-09_Comparative_Case_File.md`
 
 This appendix is an index only. Individual Artifact and Handout files remain authoritative.
 

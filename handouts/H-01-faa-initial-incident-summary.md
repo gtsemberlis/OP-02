@@ -20,29 +20,19 @@ related_objects:
 - L-01
 ---
 
-# H-01 — FAA Initial Incident Summary
+H-01 — FAA Initial Incident Summary (Player Version)
 
-## Document Type
+FEDERAL AVIATION ADMINISTRATION
+Office of Aviation Safety
 
-Federal Aviation Administration initial incident summary.
+INITIAL INCIDENT SUMMARY
 
-## In-World Author
+Incident Number: FAA-2025-0310-ORD-2147
+Classification: Active Investigation
+Date Issued: March 10, 2025
+Prepared By: Air Traffic Safety Investigation Division
 
-Federal Aviation Administration, Office of Aviation Safety, Air Traffic Safety Investigation Division.
-
-## Player Version
-
-# FEDERAL AVIATION ADMINISTRATION
-## Office of Aviation Safety
-
-**INITIAL INCIDENT SUMMARY**
-
-**Incident Number:** FAA-2025-0310-ORD-2147  
-**Classification:** Active Investigation  
-**Date Issued:** March 10, 2025  
-**Prepared By:** Air Traffic Safety Investigation Division
-
-### Incident Overview
+Incident Overview
 
 At approximately 09:42 CDT on March 10, 2025, a commercial passenger aircraft conducting a scheduled arrival into Chicago O'Hare International Airport (ORD) executed a hard landing following an automated runway obstruction alert generated during final approach.
 
@@ -52,61 +42,61 @@ Emergency response procedures were initiated immediately following landing.
 
 The runway was temporarily closed pending inspection.
 
-### Aircraft Information
+Aircraft Information
 
-**Operator:** Midwest Air (Fictional)
+Operator: Midwest Air (Fictional)
 
-**Aircraft Type:** Airbus A321-271NX
+Aircraft Type: Airbus A321-271NX
 
-**Registration:** N472MW
+Registration: N472MW
 
-**Origin:** New York (JFK)
+Origin: New York (JFK)
 
-**Destination:** Chicago O'Hare (ORD)
+Destination: Chicago O'Hare (ORD)
 
-**Passengers:** 176
+Passengers: 176
 
-**Crew:** 6
+Crew: 6
 
-### Environmental Conditions
+Environmental Conditions
 
-**Visibility:** Greater than 10 statute miles
+Visibility: Greater than 10 statute miles
 
-**Cloud Ceiling:** Broken, 7,500 feet
+Cloud Ceiling: Broken, 7,500 feet
 
-**Wind:** 270° at 9 knots
+Wind: 270° at 9 knots
 
-**Runway Surface:** Dry
+Runway Surface: Dry
 
-**Weather advisories:** None
+Weather advisories: None
 
 No meteorological conditions have been identified that would reasonably account for the reported event.
 
-### Timeline
+Timeline
 
-**09:41:32**
+09:41:32
 
 Aircraft established on final approach.
 
-**09:41:54**
+09:41:54
 
 Alexandria Runway Safety System issued automated runway obstruction alert.
 
 Alert confidence exceeded operational notification threshold.
 
-**09:41:56**
+09:41:56
 
 FAA Air Traffic Control confirmed receipt of automated alert.
 
 Go-around instruction transmitted.
 
-**09:42:01**
+09:42:01
 
 Flight crew acknowledged instruction.
 
 Cockpit reported conflicting visual conditions during approach.
 
-**09:42:14**
+09:42:14
 
 Aircraft touched down.
 
@@ -114,31 +104,28 @@ Landing classified as "hard landing."
 
 Aircraft remained under positive control throughout.
 
-**09:42:38**
+09:42:38
 
 Airport Rescue and Fire Fighting units responded.
 
-**09:45–10:21**
+09:45–10:21
 
 Runway inspection completed.
 
 No physical obstruction located.
 
-### Initial Findings
+Initial Findings
 
 At the time of publication:
 
 Air Traffic Control procedures appear to have been followed appropriately.
-
 Flight crew actions appear consistent with established operating procedures.
-
 Airport response was conducted in accordance with standard emergency protocols.
-
 Initial runway inspection identified no object or condition corresponding to the automated obstruction warning.
 
 The origin of the warning remains under investigation.
 
-### Agencies Participating
+Agencies Participating
 
 Federal Aviation Administration
 
@@ -150,7 +137,7 @@ Midwest Air
 
 Alexandria Aviation Systems
 
-### Current Status
+Current Status
 
 Investigation remains active.
 
@@ -158,30 +145,4 @@ No determination regarding probable cause has been made.
 
 Additional technical analysis is ongoing.
 
-**END OF INITIAL INCIDENT SUMMARY**
-
-## GM Annotation
-
-H-01 establishes the initiating event through an authentic institutional perspective. It provides the investigators with a stable factual baseline while refusing to interpret the impossible element for them.
-
-Details likely to matter in play include:
-
-- The warning exceeded the system's operational notification threshold.
-- Air Traffic Control and the flight crew followed established procedure.
-- Clear weather and a dry runway remove several ordinary explanations.
-- No physical obstruction was recovered despite the warning.
-- Alexandria appears as a participating technical party, not as an accused organization.
-
-Distribute only the Player Version. Do not highlight or annotate individual clues.
-
-## Related Artifact
-
-A-02 — O'Hare Incident Summary
-
-## Distribution Conditions
-
-Available through the investigators' FAA/NTSB liaison authority during S-01.
-
-## Presentation Notes
-
-Render as a restrained federal incident document. It must remain usable as a prop without modification. Avoid clue highlighting, decorative redactions, supernatural styling, or game-facing labels in the Player Version.
+END OF INITIAL INCIDENT SUMMARY
