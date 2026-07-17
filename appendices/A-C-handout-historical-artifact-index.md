@@ -13,86 +13,68 @@ source_path: appendices/A-C-handout-historical-artifact-index.md
 tags: []
 related_objects:
 - H-01
-- H-02
 - H-03
 - H-04
 - H-05
-- H-06
-- H-07
-- H-08
-- H-09
+- A-01
+- A-02
+- A-03
+- A-04
+- A-05
+- A-06
+- A-07
+- A-08
+- A-09
 ---
 
 # A-C — Handout / Historical Artifact Index
 
 ## Purpose
 
-Provide a production and running index for every canonical handout, evidence document, and historical artifact associated with OP-01. This appendix identifies what each object represents, when it enters play, and how it should be presented without replacing the full artifact source object.
+Provide separate production and running indexes for canonical operational Artifacts and player-facing Handouts. Artifact records govern custody, discovery, access, and investigative significance. Handout records contain the complete in-world documents or facsimiles that may be given to players.
 
-## Canonical Index
+## Canonical Content
 
-| Reference | Artifact | Artifact Type | First Appearance | Default Presentation |
+### Player Handouts
+
+| Reference | Handout | Related Artifact | First Appearance | Default Presentation |
 |---|---|---|---|---|
-| H-01 | Initial Program Briefing | Operational briefing document | S-01 — Initial Assignment | Restrained federal briefing packet |
-| H-02 | O'Hare Incident Summary | Official aviation incident summary | S-01 — Cold Open: O'Hare Hard Landing | Preliminary factual incident report |
-| H-03 | Alexandria Technical Overview | Corporate technical briefing | S-02 — Alexandria Headquarters | Clean technical diagrams and concise explanatory copy |
-| H-04 | Runway Obstruction Event Summary | Alexandria internal incident chronology | S-04 — Alexandria Internal Investigation | Tabular incident ledger |
-| H-05 | Dr. Rao's Research Notebook | Handwritten scientific research notebook | S-03 — Dr. Ananya Rao | Selected notebook pages or complete facsimile excerpts |
-| H-06 | Owen Walker's Drawing | Civilian drawing / observational artifact | S-06 — Witness Interviews | Ordinary age-appropriate crayon drawing |
-| H-07 | Collector Notebook Fragments | Recovered field notebook / historical artifact | S-07 — The Collectors | Worn handwritten fragments without explanatory annotations |
-| H-08 | Alexandria Runway Observation Record | Controlled experiment record | S-08 — Runway Observation | Synchronized plots, timestamps, statements, and chronology |
-| H-09 | Comparative Case File | Program comparative analysis file | S-09 — Comparative Assessment & Debrief | Incomplete archival case extracts |
+| H-01 | FAA Initial Incident Summary | A-02 — O'Hare Incident Summary | S-01 — Cold Open: O'Hare Hard Landing | Restrained federal incident document |
+| H-03 | Alexandria Technical Information Brief | A-03 — Alexandria Technical Overview | S-04 — Alexandria Systems Review | Corporate engineering brief |
+| H-04 | NTSB Witness Briefing Sheets | None — administrative briefing packet | S-06 — Independent Witnesses | Five separate NTSB briefing sheets |
+| H-05 | Rao's Research Notebook | A-05 — Dr. Rao's Research Notebook | S-05 — Independent Analysis | Ten notebook pages plus inside back cover |
 
-## Handout Classification
+### Operational Artifacts
 
-### Operational Documents
-
-- **H-01 — Initial Program Briefing**
-- **H-02 — O'Hare Incident Summary**
-- **H-03 — Alexandria Technical Overview**
-- **H-04 — Runway Obstruction Event Summary**
-- **H-08 — Alexandria Runway Observation Record**
-- **H-09 — Comparative Case File**
-
-These objects present institutional records, technical findings, or formal investigative material. Their visual design should remain restrained and credible.
-
-### Personal and Observational Artifacts
-
-- **H-05 — Dr. Rao's Research Notebook**
-- **H-06 — Owen Walker's Drawing**
-
-These objects derive their value from personal authorship. Preserve irregularity, incompleteness, and human context rather than making them look like designed exposition.
-
-### Historical Artifact
-
-- **H-07 — Collector Notebook Fragments**
-
-H-07 is the operation's principal historical artifact. Its age, repairs, mixed notation, and accumulated observations establish prior knowledge without identifying a complete organization or explaining the phenomenon.
+| Reference | Artifact | Artifact Type | First Appearance | Player Handout |
+|---|---|---|---|---|
+| A-01 | Initial Program Briefing | Operational briefing document | S-01 — Initial Assignment | Not yet restored |
+| A-02 | O'Hare Incident Summary | Official aviation incident summary | S-01 — Cold Open: O'Hare Hard Landing | H-01 |
+| A-03 | Alexandria Technical Overview | Corporate technical briefing | S-02 — Alexandria Headquarters | Not yet restored |
+| A-04 | Runway Obstruction Event Summary | Alexandria internal incident chronology | S-04 — Alexandria Internal Investigation | Not yet restored |
+| A-05 | Dr. Rao's Research Notebook | Handwritten scientific research notebook | S-03 — Dr. Ananya Rao | Not yet restored |
+| A-06 | Owen Walker's Drawing | Civilian drawing / observational artifact | S-06 — Witness Interviews | Not yet restored |
+| A-07 | Collector Notebook Fragments | Recovered field notebook / historical artifact | S-07 — The Collectors | Not yet restored |
+| A-08 | Alexandria Runway Observation Record | Controlled experiment record | S-08 — Runway Observation | Not yet restored |
+| A-09 | Comparative Case File | Program comparative analysis file | S-09 — Comparative Assessment & Debrief | Not yet restored |
 
 ## Source Objects
 
-The canonical source for each handout is its corresponding file in `artifacts/`:
+Artifact reference records are stored in `artifacts/` using the `A-##` namespace. Complete player-facing documents are stored in `handouts/` using the `H-##` namespace.
 
-- `H-01-initial-program-briefing.md`
-- `H-02-o-hare-incident-summary.md`
-- `H-03-alexandria-technical-overview.md`
-- `H-04-runway-obstruction-event-summary.md`
-- `H-05-dr-rao-s-research-notebook.md`
-- `H-06-owen-walker-s-drawing.md`
-- `H-07-collector-notebook-fragments.md`
-- `H-08-alexandria-runway-observation-record.md`
-- `H-09-comparative-case-file.md`
+Current canonical handout sources:
 
-This appendix is an index only. Artifact content, access conditions, custody, and presentation requirements remain authoritative in the individual source objects.
+- `handouts/H-01-faa-initial-incident-summary.md`
+- `handouts/H-03_Alexandria_Technical_Information_Brief.md`
+- `handouts/H-04-ntsb-witness-briefing-sheets.md`
+- `handouts/H-05_Raos_Research_Notebook.md`
+
+This appendix is an index only. Individual Artifact and Handout files remain authoritative.
 
 ## GM Guidance
 
-Prepare only the artifacts likely to appear in the next session. Do not distribute a document merely because it exists in the Source Edition; investigators must still satisfy the access conditions defined in its source object.
-
-Physical or digital presentation should support credibility, not announce supernatural importance. Avoid decorative redactions, artificial distressing, occult typography, or visual emphasis that tells players which details matter.
-
-H-05, H-06, and H-07 benefit most from being shown as physical-style facsimiles. H-01 through H-04, H-08, and H-09 can be presented effectively as tablet-readable documents.
+Prepare only Handouts the investigators have earned access to. Do not distribute an Artifact record as though it were an in-world document. Player-facing presentation should support credibility without announcing supernatural importance.
 
 ## Refresh Rule
 
-Regenerate this appendix whenever an artifact is added, removed, renamed, reclassified, or assigned a different first appearance. The individual artifact files remain the source of truth.
+Regenerate this appendix whenever an Artifact or Handout is added, removed, renamed, linked, or assigned a different first appearance.

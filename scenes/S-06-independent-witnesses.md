@@ -18,8 +18,12 @@ related_objects:
 - N-09
 - N-10
 - N-11
+- N-14
 - N-12
-- H-06
+- A-06
+- H-04
+- HT-01
+- N-14
 - S-07
 ---
 
@@ -43,7 +47,7 @@ L-04 — NTSB Field Office
 
 ## Participants
 
-N-06 Karen Delgado; N-08 Emily Chen; N-09 Lisa Morales; N-10 Robert Gallagher; N-11 Sarah Walker; N-12 Owen Walker
+N-06 Karen Delgado; N-08 Emily Chen; N-09 Maria Alvarez; N-10 Daniel Price; N-11 Sarah Walker; N-12 Owen Walker; N-14 Lucas Bennett
 
 ## Estimated Runtime
 
@@ -69,7 +73,7 @@ Independent Corroboration
 
 ## Evidence Available
 
-H-06 — Owen Walker's Drawing; witness statements
+H-04 — NTSB Witness Briefing Sheets; A-06 — Owen Walker's Drawing; witness statements
 
 ## Likely Investigator Approaches
 
@@ -95,8 +99,12 @@ No witness solves the case; together they eliminate coincidence.
 - N-09
 - N-10
 - N-11
+- N-14
 - N-12
-- H-06
+- A-06
+- H-04
+- HT-01
+- N-14
 - S-07
 
 ## Prerequisites (Optional)

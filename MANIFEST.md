@@ -8,15 +8,21 @@
 | A-D | Appendix | Draft | `appendices/A-D-location-index.md` |
 | A-E | Appendix | Draft | `appendices/A-E-npc-index.md` |
 | A-F | Appendix | Draft | `appendices/A-F-mechanical-reference.md` |
-| H-01 | Artifact | Draft | `artifacts/H-01-initial-program-briefing.md` |
-| H-02 | Artifact | Draft | `artifacts/H-02-o-hare-incident-summary.md` |
-| H-03 | Artifact | Draft | `artifacts/H-03-alexandria-technical-overview.md` |
-| H-04 | Artifact | Draft | `artifacts/H-04-runway-obstruction-event-summary.md` |
-| H-05 | Artifact | Draft | `artifacts/H-05-dr-rao-s-research-notebook.md` |
-| H-06 | Artifact | Draft | `artifacts/H-06-owen-walker-s-drawing.md` |
-| H-07 | Artifact | Draft | `artifacts/H-07-collector-notebook-fragments.md` |
-| H-08 | Artifact | Draft | `artifacts/H-08-alexandria-runway-observation-record.md` |
-| H-09 | Artifact | Draft | `artifacts/H-09-comparative-case-file.md` |
+| A-G | Appendix | Canonical | `appendices/A-G-handler-tool-index.md` |
+| A-01 | Artifact | Draft | `artifacts/A-01-initial-program-briefing.md` |
+| A-02 | Artifact | Draft | `artifacts/A-02-o-hare-incident-summary.md` |
+| A-03 | Artifact | Draft | `artifacts/A-03-alexandria-technical-overview.md` |
+| A-04 | Artifact | Draft | `artifacts/A-04-runway-obstruction-event-summary.md` |
+| A-05 | Artifact | Draft | `artifacts/A-05-dr-rao-s-research-notebook.md` |
+| A-06 | Artifact | Draft | `artifacts/A-06-owen-walker-s-drawing.md` |
+| A-07 | Artifact | Draft | `artifacts/A-07-collector-notebook-fragments.md` |
+| A-08 | Artifact | Draft | `artifacts/A-08-alexandria-runway-observation-record.md` |
+| A-09 | Artifact | Draft | `artifacts/A-09-comparative-case-file.md` |
+| H-01 | Handout | Published | `handouts/H-01-faa-initial-incident-summary.md` |
+| H-03 | Handout | Canonical | `handouts/H-03_Alexandria_Technical_Information_Brief.md` |
+| H-04 | Handout | Canonical | `handouts/H-04-ntsb-witness-briefing-sheets.md` |
+| H-05 | Handout | Canonical | `handouts/H-05_Raos_Research_Notebook.md` |
+| HT-01 | Handler Tool | Canonical | `handler_tools/HT-01-live-interview-guide.md` |
 | L-01 | Location | Draft | `locations/L-01-chicago-o-hare-international-airport.md` |
 | L-02 | Location | Draft | `locations/L-02-alexandria-aviation-systems-headquarters.md` |
 | L-03 | Location | Draft | `locations/L-03-dr-rao-s-office.md` |
@@ -30,11 +36,12 @@
 | N-06 | NPC | Draft | `npcs/N-06-karen-delgado.md` |
 | N-07 | NPC | Draft | `npcs/N-07-mark-reynolds.md` |
 | N-08 | NPC | Draft | `npcs/N-08-emily-chen.md` |
-| N-09 | NPC | Draft | `npcs/N-09-lisa-morales.md` |
-| N-10 | NPC | Draft | `npcs/N-10-robert-bob-gallagher.md` |
+| N-09 | NPC | Canonical | `npcs/N-09-maria-alvarez.md` |
+| N-10 | NPC | Canonical | `npcs/N-10-daniel-price.md` |
 | N-11 | NPC | Draft | `npcs/N-11-sarah-walker.md` |
 | N-12 | NPC | Draft | `npcs/N-12-owen-walker.md` |
 | N-13 | NPC | Draft | `npcs/N-13-the-collectors.md` |
+| N-14 | NPC | Canonical | `npcs/N-14-lucas-bennett.md` |
 | FM-CONVENTIONS | Front Matter | Canonical | `publication/FM-CONVENTIONS-editorial-conventions.md` |
 | FM-COVER | Front Matter | Canonical | `publication/FM-COVER-cover-page.md` |
 | FM-EDITORIAL-PHILOSOPHY | Front Matter | Canonical | `publication/FM-EDITORIAL-PHILOSOPHY-editorial-philosophy.md` |
@@ -53,3 +60,6 @@
 | S-07 | Scene | Draft | `scenes/S-07-competing-observers.md` |
 | S-08 | Scene | Draft | `scenes/S-08-runway-observation.md` |
 | S-09 | Scene | Draft | `scenes/S-09-inheritance.md` |
+
+
+- Added H-07_Collector_Field_Notes.md (Collector Field Notes)

@@ -16,7 +16,7 @@ related_objects:
 - N-06
 - N-07
 - N-08
-- H-02
+- A-02
 - S-02
 ---
 
@@ -66,7 +66,7 @@ Verification
 
 ## Evidence Available
 
-H-02 — O'Hare Incident Summary
+A-02 — O'Hare Incident Summary
 
 ## Likely Investigator Approaches
 
@@ -90,7 +90,7 @@ Primary clue: independent corroboration. Main transition: Program briefing and A
 - N-06
 - N-07
 - N-08
-- H-02
+- A-02
 - S-02
 
 ## Prerequisites (Optional)

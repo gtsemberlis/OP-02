@@ -14,8 +14,8 @@ tags: []
 related_objects:
 - S-01
 - S-09
-- H-01
-- H-09
+- A-01
+- A-09
 - N-01
 ---
 
@@ -34,7 +34,7 @@ Active secure briefing, archival, and debriefing environment.
 The Program Secure Briefing Facility frames Operation Airspace at the institutional level. It is where investigators receive the assignment, compare their conclusions against preserved precedent, and convert incomplete understanding into an operational recommendation.
 
 ## Operational Function
-L-05 supports the initial briefing, Handler contact, final debrief, and access to H-09 — Comparative Case File.
+L-05 supports the initial briefing, Handler contact, final debrief, and access to A-09 — Comparative Case File.
 
 ## Physical Description
 An intentionally unremarkable federal workspace: controlled entry, plain conference room, secure communications, locked storage, and archival material kept out of public systems. Nothing advertises the Program's true function.
@@ -54,8 +54,8 @@ The facility is quiet, controlled, and deliberately free of theatrical secrecy. 
 - The Investigators
 
 ## Associated Artifacts
-- H-01 — Initial Program Briefing
-- H-09 — Comparative Case File
+- A-01 — Initial Program Briefing
+- A-09 — Comparative Case File
 
 ## Associated Scenes
 - S-01 — Initial Assignment

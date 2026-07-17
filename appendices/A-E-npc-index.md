@@ -25,6 +25,7 @@ related_objects:
 - N-11
 - N-12
 - N-13
+- N-14
 ---
 
 # A-E — NPC Index
@@ -42,11 +43,12 @@ Quick reference to every canonical NPC in Operation Airspace.
 | N-06 | Karen Delgado | NTSB | Lead Investigator |
 | N-07 | Mark Reynolds | FAA | Operations |
 | N-08 | Emily Chen | Airline | Flight Crew |
-| N-09 | Lisa Morales | Passenger | Witness |
-| N-10 | Robert "Bob" Gallagher | Passenger | Witness |
+| N-09 | Maria Alvarez | Passenger | Injured Witness |
+| N-10 | Daniel Price | Passenger | Frequent Flyer Witness |
 | N-11 | Sarah Walker | Passenger | Witness |
 | N-12 | Owen Walker | Passenger | Witness |
 | N-13 | The Collectors | Unknown | Adversarial Group |
+| N-14 | Lucas Bennett | Passenger | Aviation-Enthusiast Witness |
 
 ## GM Guidance
 

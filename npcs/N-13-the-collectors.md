@@ -13,8 +13,8 @@ source_path: npcs/N-13-the-collectors.md
 tags: []
 related_objects:
 - S-07
-- H-05
-- H-07
+- A-05
+- A-07
 - L-02
 - N-03
 - N-05
@@ -88,7 +88,7 @@ Soft body armor (Armor 3); 9mm pistol; utility knife; flashlight; lock picks; fi
 Observation, recovery, preservation, withdrawal. They never test POW to avoid panic from ordinary combat. They abandon equipment, vehicles, or money before recovered knowledge. They disengage when preservation is no longer possible.
 
 ## Known Individuals
-**Collector Alpha:** Deceased. Carries H-07. Clothing and boots show extraordinary long-term maintenance.  
+**Collector Alpha:** Deceased. Carries A-07. Clothing and boots show extraordinary long-term maintenance.  
 **Collector Bravo:** Escaped. Provides security and withdraws without unnecessary fire.  
 **Collector Charlie:** Escaped. Primarily responsible for document recovery.
 

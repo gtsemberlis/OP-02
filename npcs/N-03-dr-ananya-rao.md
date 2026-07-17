@@ -14,7 +14,7 @@ tags: []
 related_objects:
 - L-03
 - L-02
-- H-05
+- A-05
 - S-03
 - S-04
 - S-07
@@ -71,7 +71,7 @@ She separates observation, pattern, hypothesis, and conclusion. Her first questi
 Thoughtful, precise, patient, and comfortable with uncertainty. She rarely interrupts and changes her conclusions immediately when evidence changes.
 
 ## Under Pressure
-Rao speaks less, writes more, repeats measurements, reviews timelines, and removes unsupported claims. After direct observation, her first meaningful action is updating H-05.
+Rao speaks less, writes more, repeats measurements, reviews timelines, and removes unsupported claims. After direct observation, her first meaningful action is updating A-05.
 
 ## Investigative Utility
 Models rigorous scientific thinking when explanation becomes elusive. Investigators should trust how she thinks, not expect her to possess answers.

@@ -14,7 +14,7 @@ tags: []
 related_objects:
 - L-01
 - S-06
-- H-06
+- A-06
 - N-12
 ---
 
@@ -42,7 +42,7 @@ Surviving passenger and Owen Walker's mother.
 An approachable woman in her mid-thirties with light brown hair usually in a ponytail and comfortable travel clothing. Her attention remains focused on Owen.
 
 ## Operational Role
-Provides parental context and establishes the safe environment in which H-06 is created and discovered.
+Provides parental context and establishes the safe environment in which A-06 is created and discovered.
 
 ## Biography
 A patient elementary teacher and resilient parent. Following her husband's death, she and Owen developed a close relationship built on honesty and routine.
@@ -58,4 +58,4 @@ Open, polite, direct, and reassuring. She checks Owen's comfort before continuin
 Explains Owen's normal behavior, how he processes stress, and why he draws before talking.
 
 ## Operational Notes
-Never portray Sarah as melodramatic, suspicious, or aware that H-06 is significant. Her attention is exactly where it should be: on Owen.
+Never portray Sarah as melodramatic, suspicious, or aware that A-06 is significant. Her attention is exactly where it should be: on Owen.

@@ -16,7 +16,7 @@ related_objects:
 - N-03
 - N-04
 - N-06
-- H-08
+- A-08
 - S-07
 - S-09
 ---
@@ -67,7 +67,7 @@ Controlled Verification
 
 ## Evidence Available
 
-H-08 — Alexandria Runway Observation Record
+A-08 — Alexandria Runway Observation Record
 
 ## Likely Investigator Approaches
 
@@ -91,7 +91,7 @@ Truth: a living invisible ecology exists. Hazard: perception and institutional r
 - N-03
 - N-04
 - N-06
-- H-08
+- A-08
 - S-07
 - S-09
 

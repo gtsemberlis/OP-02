@@ -1,3 +1,22 @@
+# RC-3E — Witness Handout and Handler Tool Architecture (2026-07-17)
+
+- Restored H-04 — NTSB Witness Briefing Sheets.
+- Introduced the `Handler Tool` semantic type and `handler_tools/` namespace.
+- Restored HT-01 — Live Interview Guide as GM-facing material.
+- Canonicalized witness names: Daniel Price, Lucas Bennett, Maria Alvarez, Emily Chen, Sarah Walker, and Owen Walker.
+- Replaced obsolete witness records N-09 and N-10 and added N-14.
+- Updated S-06, location references, Appendix C, NPC index, schema, manifest, and repository documentation.
+- Confirmed that the witness briefing packet is a Handout, not an operational Artifact.
+
+
+## RC-3B — Artifact / Handout Separation (2026-07-17)
+
+- Renamed operational Artifact references from `H-01`–`H-09` to `A-01`–`A-09`.
+- Added the canonical `Handout` object type and `handouts/` collection.
+- Restored H-01 — FAA Initial Incident Summary in full, verbatim from the approved design archive.
+- Linked A-02 — O'Hare Incident Summary to H-01.
+- Rebuilt Appendix C to index Artifacts and Handouts separately.
+- Derived editions in `canonical_manuscript/` and `hde-shell/` were not regenerated in this source-only release.
 # Changelog
 
 All notable changes to the OP-01 Source Edition are recorded here.
@@ -6,7 +25,7 @@ All notable changes to the OP-01 Source Edition are recorded here.
 
 ### Added
 - Published A-C — Handout / Historical Artifact Index.
-- Added canonical classifications, first appearances, presentation guidance, and source-object references for H-01 through H-09.
+- Added canonical classifications, first appearances, presentation guidance, and source-object references for A-01 through A-09.
 
 
 ## RC-2D — Appendix D
@@ -34,3 +53,10 @@ All notable changes to the OP-01 Source Edition are recorded here.
 - Reconciled appendix scene references with S-01 through S-09.
 - Removed remaining repository placeholder states.
 - Prepared the Source Edition for final release validation.
+
+
+- Added H-07_Collector_Field_Notes.md (Collector Field Notes)
+
+
+## RC-3H
+- Added H-08 Owen Walker's Drawing and image asset.

@@ -14,8 +14,8 @@ tags: []
 related_objects:
 - N-01
 - L-05
-- H-01
-- H-02
+- A-01
+- A-02
 - S-01
 - S-03
 ---
@@ -66,7 +66,7 @@ Assignment
 
 ## Evidence Available
 
-H-01 — Initial Program Briefing
+A-01 — Initial Program Briefing
 
 ## Likely Investigator Approaches
 
@@ -88,8 +88,8 @@ Objectives: verify, characterize, contain, evaluate continuation.
 
 - N-01
 - L-05
-- H-01
-- H-02
+- A-01
+- A-02
 - S-01
 - S-03
 

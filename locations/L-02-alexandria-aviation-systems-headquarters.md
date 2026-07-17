@@ -16,10 +16,10 @@ related_objects:
 - S-03
 - S-04
 - S-07
-- H-03
-- H-04
-- H-05
-- H-07
+- A-03
+- A-04
+- A-05
+- A-07
 - N-02
 - N-03
 - N-04
@@ -67,10 +67,10 @@ Whiteboards, technical diagrams, archived datasets, testing equipment, and proto
 - N-13 — The Collectors
 
 ## Associated Artifacts
-- H-03 — Alexandria Technical Overview
-- H-04 — Runway Obstruction Event Summary
-- H-05 — Dr. Rao's Research Notebook
-- H-07 — Collector Notebook Fragments
+- A-03 — Alexandria Technical Overview
+- A-04 — Runway Obstruction Event Summary
+- A-05 — Dr. Rao's Research Notebook
+- A-07 — Collector Notebook Fragments
 
 ## Associated Scenes
 - S-02 — Alexandria Headquarters

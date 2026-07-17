@@ -14,7 +14,7 @@ tags: []
 related_objects:
 - L-01
 - S-06
-- H-06
+- A-06
 - N-11
 ---
 
@@ -42,7 +42,7 @@ Surviving child witness.
 A cheerful, small seven-year-old with untidy light brown hair, travel clothes, sneakers, and a nearby backpack. He fidgets while adults talk and becomes still when drawing.
 
 ## Operational Role
-Unintentionally creates H-06, an unfiltered visual record of what he remembers.
+Unintentionally creates A-06, an unfiltered visual record of what he remembers.
 
 ## Biography
 An ordinary, imaginative child who processes unfamiliar experiences by drawing. He is not unusually perceptive and has no special relationship to the Unnatural.

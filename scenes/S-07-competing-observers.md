@@ -17,7 +17,7 @@ related_objects:
 - N-03
 - N-05
 - N-13
-- H-07
+- A-07
 - S-05
 - S-08
 ---
@@ -68,7 +68,7 @@ Escalation
 
 ## Evidence Available
 
-H-07 — Collector Notebook Fragments
+A-07 — Collector Notebook Fragments
 
 ## Likely Investigator Approaches
 
@@ -93,7 +93,7 @@ Critical details: no electronics, repaired equipment, handwritten historical rec
 - N-03
 - N-05
 - N-13
-- H-07
+- A-07
 - S-05
 - S-08
 

@@ -14,7 +14,7 @@ tags: []
 related_objects:
 - L-03
 - N-03
-- H-05
+- A-05
 - S-04
 - S-06
 - S-07
@@ -66,7 +66,7 @@ Interpretation
 
 ## Evidence Available
 
-H-05 — Dr. Rao's Research Notebook
+A-05 — Dr. Rao's Research Notebook
 
 ## Likely Investigator Approaches
 
@@ -88,7 +88,7 @@ Core model: harmless life, newly observable, perception itself may have conseque
 
 - L-03
 - N-03
-- H-05
+- A-05
 - S-04
 - S-06
 - S-07

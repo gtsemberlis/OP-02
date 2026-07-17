@@ -16,7 +16,7 @@ related_objects:
 - N-03
 - N-04
 - N-05
-- H-04
+- A-04
 - S-03
 - S-05
 ---
@@ -67,7 +67,7 @@ Technical Verification
 
 ## Evidence Available
 
-H-04 — Runway Obstruction Event Summary
+A-04 — Runway Obstruction Event Summary
 
 ## Likely Investigator Approaches
 
@@ -91,7 +91,7 @@ Conclusion: real signal, uncertain nature, no demonstrated hostile intent.
 - N-03
 - N-04
 - N-05
-- H-04
+- A-04
 - S-03
 - S-05
 

@@ -34,11 +34,11 @@ Provide a quick-reference index to every canonical location and its investigativ
 
 ## Cross-Reference Summary
 
-- **L-01**: H-02, H-08
-- **L-02**: H-03, H-04, H-07
-- **L-03**: H-05
-- **L-04**: H-06
-- **L-05**: H-01, H-09
+- **L-01**: A-02, A-08
+- **L-02**: A-03, A-04, A-07
+- **L-03**: A-05
+- **L-04**: A-06
+- **L-05**: A-01, A-09
 
 ## GM Guidance
 

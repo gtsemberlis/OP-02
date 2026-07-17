@@ -7,6 +7,8 @@ This directory is the canonical Markdown repository for **Operation Airspace**.
 - Files marked `Draft` are schema-complete source objects awaiting canonical population.
 - `publication/` contains the migrated Phase 1 publication and front-matter objects.
 - `assets/` is reserved for referenced images and production assets.
+- `artifacts/` contains operational evidence reference records (`A-##`).
+- `handouts/` contains complete player-facing in-world documents (`H-##`).
 
 See [MANIFEST.md](MANIFEST.md) for the object inventory and [SCHEMA.md](SCHEMA.md) for the frozen v1.0 contracts.
 
@@ -23,4 +25,18 @@ See [MANIFEST.md](MANIFEST.md) for the object inventory and [SCHEMA.md](SCHEMA.m
 
 ## Artifact Population Update
 
-- H-01 through H-09: Published and canonically populated on 2026-07-16.
+- A-01 through A-09: Published and canonically populated on 2026-07-16.
+
+## Handout Architecture Update
+
+- Artifact and Handout namespaces are now separated.
+- A-01 through A-09 remain operational reference objects.
+- H-01 is the restored FAA Initial Incident Summary player document.
+
+
+## Handler Tools
+
+`handler_tools/` contains GM-facing play aids using the `HT-##` namespace. These tools are not in-world documents and must never be included in player-facing evidence packets.
+
+
+- Added H-07_Collector_Field_Notes.md (Collector Field Notes)

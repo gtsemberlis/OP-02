@@ -16,7 +16,7 @@ related_objects:
 - L-01
 - S-01
 - S-06
-- H-06
+- A-06
 - N-11
 - N-12
 ---
@@ -49,7 +49,7 @@ Active liaison for the O'Hare investigation.
 Delgado is an athletic woman in her early forties with dark hair usually tied back, practical professional clothing, sturdy shoes, and an NTSB badge always visible. She carries a notebook but uses it sparingly during interviews. The first impression is someone who listens more carefully than she speaks.
 
 ## Operational Role
-Coordinates witness access, explains accident-investigation procedure, and facilitates the interview sequence. She unknowingly preserves H-06.
+Coordinates witness access, explains accident-investigation procedure, and facilitates the interview sequence. She unknowingly preserves A-06.
 
 ## Biography
 Delgado moved from airline operations to the FAA and then the NTSB because she wanted to understand why accidents occur. She developed a reputation for preserving memory without shaping it.
@@ -79,13 +79,13 @@ Provides NTSB methodology and creates the conditions for honest testimony. Owen'
 ## Operational Knowledge
 **Confirmed:** Accident chronology, witness accounts, human-factors evidence, and NTSB procedure.  
 **Suspects:** An unusual but conventional aviation incident.  
-**Unknown:** The phenomenon, the Program, the Collectors, and the significance of H-06.
+**Unknown:** The phenomenon, the Program, the Collectors, and the significance of A-06.
 
 ## Post-Operation Status
 Continues the official investigation and supports a conventional public report. She may remain a valuable professional contact.
 
 ## Operational Notes
-Never portray Delgado as suspicious, obstructive, or secretly aware of the Unnatural. She treats H-06 as a child's drawing.
+Never portray Delgado as suspicious, obstructive, or secretly aware of the Unnatural. She treats A-06 as a child's drawing.
 
 ## Mechanical Reference
 **Profession:** NTSB Air Safety Investigator  

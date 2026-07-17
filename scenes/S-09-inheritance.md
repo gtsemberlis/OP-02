@@ -15,7 +15,7 @@ related_objects:
 - L-05
 - N-01
 - N-03
-- H-09
+- A-09
 - S-08
 ---
 
@@ -65,7 +65,7 @@ Assessment and Containment
 
 ## Evidence Available
 
-H-09 — Comparative Case File
+A-09 — Comparative Case File
 
 ## Likely Investigator Approaches
 
@@ -88,7 +88,7 @@ Possible outcomes: shutdown, controlled continuation, covert Program stewardship
 - L-05
 - N-01
 - N-03
-- H-09
+- A-09
 - S-08
 
 ## Prerequisites (Optional)

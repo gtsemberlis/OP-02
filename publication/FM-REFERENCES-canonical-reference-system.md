@@ -36,7 +36,7 @@ Canonical references organize recurring people, places, scenes, artifacts, appen
 | S | Scene | S-07 |
 | N | NPC | N-03 |
 | L | Location | L-02 |
-| H | Handout / Historical Artifact | H-06 |
+| H | Handout / Historical Artifact | A-06 |
 | A | Appendix | A-B |
 
 ### Stability Rules

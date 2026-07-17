@@ -40,15 +40,15 @@ related_objects:
 - L-03
 - L-04
 - L-05
-- H-01
-- H-02
-- H-03
-- H-04
-- H-05
-- H-06
-- H-07
-- H-08
-- H-09
+- A-01
+- A-02
+- A-03
+- A-04
+- A-05
+- A-06
+- A-07
+- A-08
+- A-09
 - A-A
 - A-B
 - A-C
@@ -90,7 +90,7 @@ related_objects:
 
 - NPC Registry: N-01 through N-13
 - Location Registry: L-01 through L-05
-- Artifact Registry: H-01 through H-09
+- Artifact Registry: A-01 through A-09
 
 ## Appendices
 

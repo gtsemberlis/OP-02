@@ -15,9 +15,9 @@ related_objects:
 - S-01
 - S-06
 - S-08
-- H-02
-- H-06
-- H-08
+- A-02
+- A-06
+- A-08
 - N-06
 - N-07
 - N-08
@@ -64,19 +64,20 @@ During the runway observation, the same environment becomes unnaturally quiet wi
 - N-06 — Karen Delgado
 - N-07 — Mark Reynolds
 - N-08 — Emily Chen
-- N-09 — Lisa Morales
-- N-10 — Robert “Bob” Gallagher
+- N-09 — Maria Alvarez
+- N-10 — Daniel Price
 - N-11 — Sarah Walker
 - N-12 — Owen Walker
+- N-14 — Lucas Bennett
 - N-02 — Ethan Mercer
 - N-03 — Dr. Ananya Rao
 - N-04 — Kevin Park
 - N-05 — Javier Ortiz
 
 ## Associated Artifacts
-- H-02 — O'Hare Incident Summary
-- H-06 — Owen Walker's Drawing
-- H-08 — Alexandria Runway Observation Record
+- A-02 — O'Hare Incident Summary
+- A-06 — Owen Walker's Drawing
+- A-08 — Alexandria Runway Observation Record
 
 ## Associated Scenes
 - S-01 — Cold Open: O'Hare Hard Landing

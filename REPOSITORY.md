@@ -19,3 +19,16 @@ canonical object-type vocabulary.
 3. Stable identifiers.
 4. Edit the source.
 5. Digital-first navigation.
+
+## Evidence architecture
+
+- `artifacts/`: operational object records, `A-##`.
+- `handouts/`: complete player-facing documents, `H-##`.
+
+
+## Handler Tools
+
+`handler_tools/` contains GM-facing play aids using the `HT-##` namespace. These tools are not in-world documents and must never be included in player-facing evidence packets.
+
+
+- Added H-07_Collector_Field_Notes.md (Collector Field Notes)

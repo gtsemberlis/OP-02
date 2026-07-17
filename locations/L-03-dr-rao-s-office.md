@@ -15,8 +15,8 @@ related_objects:
 - S-03
 - S-04
 - S-07
-- H-04
-- H-05
+- A-04
+- A-05
 - N-03
 - N-02
 - N-04
@@ -38,7 +38,7 @@ Active research office. Later subject to focused interest from the Collectors th
 Dr. Rao's office is the most personal space within Alexandria. It reveals the human cost of sustained intellectual honesty and allows investigators to understand the researcher before judging her conclusions.
 
 ## Operational Function
-L-03 supports the first substantive conversation with Rao, examination of H-05, and recognition that her work has moved beyond routine corporate analysis without abandoning scientific discipline.
+L-03 supports the first substantive conversation with Rao, examination of A-05, and recognition that her work has moved beyond routine corporate analysis without abandoning scientific discipline.
 
 ## Physical Description
 A compact office crowded with whiteboards, printed charts, handwritten calculations, annotated aviation reports, organized stacks of paper, and notebooks. The room is heavily used but not neglected. Every surface reflects active comparison, revision, and documentation.
@@ -62,8 +62,8 @@ A locked cabinet or protected storage area contains private notebooks Rao is not
 - N-13 — The Collectors
 
 ## Associated Artifacts
-- H-05 — Dr. Rao's Research Notebook
-- H-04 — Runway Obstruction Event Summary
+- A-05 — Dr. Rao's Research Notebook
+- A-04 — Runway Obstruction Event Summary
 
 ## Associated Scenes
 - S-03 — Dr. Ananya Rao

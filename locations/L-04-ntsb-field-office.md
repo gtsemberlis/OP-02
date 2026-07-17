@@ -13,8 +13,8 @@ source_path: locations/L-04-ntsb-field-office.md
 tags: []
 related_objects:
 - S-06
-- H-02
-- H-06
+- A-02
+- A-06
 - N-06
 - N-07
 - N-08
@@ -60,14 +60,15 @@ Plain white office paper and crayons are available for Owen while adults speak n
 - N-06 — Karen Delgado
 - N-07 — Mark Reynolds
 - N-08 — Emily Chen
-- N-09 — Lisa Morales
-- N-10 — Robert “Bob” Gallagher
+- N-09 — Maria Alvarez
+- N-10 — Daniel Price
 - N-11 — Sarah Walker
 - N-12 — Owen Walker
+- N-14 — Lucas Bennett
 
 ## Associated Artifacts
-- H-02 — O'Hare Incident Summary
-- H-06 — Owen Walker's Drawing
+- A-02 — O'Hare Incident Summary
+- A-06 — Owen Walker's Drawing
 
 ## Associated Scenes
 - S-06 — Witness Interviews

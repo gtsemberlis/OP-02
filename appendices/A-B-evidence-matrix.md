@@ -12,15 +12,15 @@ revision_note: Appendix B population
 source_path: appendices/A-B-evidence-matrix.md
 tags: []
 related_objects:
-- H-01
-- H-02
-- H-03
-- H-04
-- H-05
-- H-06
-- H-07
-- H-08
-- H-09
+- A-01
+- A-02
+- A-03
+- A-04
+- A-05
+- A-06
+- A-07
+- A-08
+- A-09
 ---
 
 
@@ -31,15 +31,15 @@ Summarize every major piece of evidence, where it is introduced, who controls it
 
 | Artifact | Introduced | Custody | Establishes |
 |---|---|---|---|
-| H-01 Initial Program Briefing | S-01 | Program | Mission scope and objectives |
-| H-02 O'Hare Incident Summary | S-01 | NTSB / Program | Verified initiating event |
-| H-03 Alexandria Technical Overview | S-02 | Alexandria | Sensor-fusion architecture and validation |
-| H-04 Runway Obstruction Event Summary | S-04 | Alexandria | Historical recurrence across locations |
-| H-05 Dr. Rao's Research Notebook | S-03 | Rao / Program | Scientific development of the phenomenon |
-| H-06 Owen Walker's Drawing | S-05 | Walker family / Program copy | Independent child corroboration |
-| H-07 Collector Notebook Fragments | S-06 | Program | Prior organized knowledge of the phenomenon |
-| H-08 Alexandria Runway Observation Record | S-07 | Alexandria / Program | Direct verification |
-| H-09 Comparative Case File | S-08 | Program | Institutional context and precedent |
+| A-01 Initial Program Briefing | S-01 | Program | Mission scope and objectives |
+| A-02 O'Hare Incident Summary | S-01 | NTSB / Program | Verified initiating event |
+| A-03 Alexandria Technical Overview | S-02 | Alexandria | Sensor-fusion architecture and validation |
+| A-04 Runway Obstruction Event Summary | S-04 | Alexandria | Historical recurrence across locations |
+| A-05 Dr. Rao's Research Notebook | S-03 | Rao / Program | Scientific development of the phenomenon |
+| A-06 Owen Walker's Drawing | S-05 | Walker family / Program copy | Independent child corroboration |
+| A-07 Collector Notebook Fragments | S-06 | Program | Prior organized knowledge of the phenomenon |
+| A-08 Alexandria Runway Observation Record | S-07 | Alexandria / Program | Direct verification |
+| A-09 Comparative Case File | S-08 | Program | Institutional context and precedent |
 
 ## GM Use
 Use this matrix to determine when investigators gain access to evidence and how each artifact supports later conclusions.
