@@ -1,0 +1,1414 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>Operation Airspace - Canonical Manuscript</title>
+<style>:root {
+  --paper: #f7f4ee;
+  --ink: #202326;
+  --muted: #71716d;
+  --rule: #bdb6aa;
+  --accent: #6b1f24;
+  --panel: #eee9df;
+  --content: 45rem;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  color: var(--ink);
+  background: var(--paper);
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 18px;
+  line-height: 1.68;
+}
+a { color: var(--accent); text-decoration-thickness: .07em; text-underline-offset: .14em; }
+.site-shell { display: grid; grid-template-columns: 18rem minmax(0, 1fr); min-height: 100vh; }
+.book-nav {
+  position: sticky; top: 0; height: 100vh; overflow: auto;
+  padding: 2.25rem 1.5rem; border-right: 1px solid var(--rule);
+  background: color-mix(in srgb, var(--paper) 94%, black 6%);
+}
+.book-nav .nav-title { font-family: Arial, sans-serif; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; font-size: .75rem; color: var(--muted); margin-bottom: 1.25rem; }
+.book-nav ul { list-style: none; padding: 0; margin: 0; }
+.book-nav li { margin: .35rem 0; line-height: 1.25; }
+.book-nav li ul { padding-left: .8rem; font-size: .88rem; }
+.book-nav a { color: var(--ink); text-decoration: none; }
+.book-nav a:hover { color: var(--accent); }
+.book-main { min-width: 0; }
+
+/* CMP-4: quiet typographic cover. */
+.cover {
+  min-height: 94vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: var(--content);
+  margin: 0 auto;
+  padding: 7rem 2rem 5rem;
+  border-bottom: 1px solid var(--rule);
+}
+.operation-code {
+  margin-bottom: 2.1rem;
+  font-family: Arial, sans-serif;
+  font-size: .72rem;
+  font-weight: 700;
+  letter-spacing: .22em;
+  color: var(--muted);
+}
+.cover h1 {
+  max-width: 12ch;
+  margin: 0;
+  font-size: clamp(3.7rem, 8vw, 6.8rem);
+  line-height: .94;
+  letter-spacing: -.047em;
+}
+.cover .subtitle { margin: 1.45rem 0 0; font-size: 1.42rem; font-style: italic; }
+.edition-block {
+  display: flex;
+  flex-direction: column;
+  gap: .25rem;
+  margin-top: 6.5rem;
+  font-family: Arial, sans-serif;
+  font-size: .72rem;
+  font-weight: 700;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.publication-page {
+  max-width: var(--content);
+  min-height: 70vh;
+  margin: 0 auto;
+  padding: 6rem 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--rule);
+}
+.publication-page h1 { margin: .6rem 0 .2rem; font-size: 2.35rem; line-height: 1.05; }
+.publication-page p { margin: .3rem 0; }
+.publication-label {
+  font-family: Arial, sans-serif;
+  font-size: .7rem;
+  font-weight: 700;
+  letter-spacing: .16em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.publication-details { color: var(--muted); font-family: Arial, sans-serif; font-size: .82rem; line-height: 1.5; }
+.print-toc { display: none; }
+
+article { max-width: var(--content); margin: 0 auto; padding: 4rem 2rem 8rem; }
+article > section > h1 {
+  margin: 6.5rem 0 2.2rem;
+  padding-top: 2.5rem;
+  border-top: 1px solid var(--rule);
+  font-size: 2.65rem;
+  line-height: 1.05;
+  letter-spacing: -.025em;
+}
+article > section:first-child > h1 { margin-top: 0; }
+h2 { margin: 3.15rem 0 1rem; font-size: 1.68rem; line-height: 1.18; letter-spacing: -.012em; }
+h3 { margin: 2.25rem 0 .7rem; font-size: 1.13rem; line-height: 1.25; font-family: Arial, sans-serif; letter-spacing: .025em; }
+p { margin: 0 0 1.12rem; }
+blockquote { margin: 1.9rem 0; padding: .35rem 0 .35rem 1.25rem; border-left: 2px solid var(--accent); color: #3e4142; font-style: italic; }
+blockquote p { margin: .35rem 0; }
+hr { border: 0; border-top: 1px solid var(--rule); margin: 3rem 0; }
+ul, ol { padding-left: 1.35rem; margin-top: .65rem; margin-bottom: 1.35rem; }
+li { margin: .32rem 0; }
+li > p { margin-bottom: .45rem; }
+table { width: 100%; border-collapse: collapse; margin: 1.9rem 0 2.35rem; font-size: .9rem; line-height: 1.42; }
+th { text-align: left; font-family: Arial, sans-serif; font-size: .82rem; letter-spacing: .035em; background: transparent; border-bottom: 1.5px solid var(--ink); }
+th, td { padding: .72rem .68rem; border-left: 0; border-right: 0; border-top: 0; border-bottom: 1px solid var(--rule); vertical-align: top; }
+tbody tr:nth-child(even) { background: color-mix(in srgb, var(--panel) 42%, transparent); }
+code { font-size: .88em; }
+
+.back-to-contents {
+  display: inline-block;
+  margin: -1.35rem 0 2rem;
+  font-family: Arial, sans-serif;
+  font-size: .7rem;
+  font-weight: 700;
+  letter-spacing: .09em;
+  text-transform: uppercase;
+  color: var(--muted);
+  text-decoration: none;
+}
+.back-to-contents:hover { color: var(--accent); }
+.index-link { text-decoration-style: dotted; }
+.chapter-section > h1::before,
+.appendix-section > h1::before {
+  display: block;
+  margin-bottom: .8rem;
+  font-family: Arial, sans-serif;
+  font-size: .7rem;
+  font-weight: 700;
+  letter-spacing: .17em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.chapter-section > h1::before { content: "Operation Chapter"; }
+.appendix-section > h1::before { content: "Appendix"; }
+.appendix-section table td:first-child { font-weight: 700; }
+
+.publication-colophon {
+  max-width: var(--content); margin: 0 auto; padding: 2rem 2rem 4rem;
+  border-top: 1px solid var(--rule); color: var(--muted);
+  font-family: Arial, sans-serif; font-size: .72rem; line-height: 1.45;
+}
+.publication-colophon p { margin: .2rem 0; }
+
+@media (max-width: 980px) {
+  .site-shell { display: block; }
+  .book-nav { position: sticky; top: 0; z-index: 10; width: 100%; height: auto; max-height: 70vh; padding: .75rem 1rem; border-right: 0; border-bottom: 1px solid var(--rule); }
+  .book-nav details { max-height: 64vh; overflow: auto; }
+  .book-nav .nav-title { cursor: pointer; margin: 0; }
+  .book-nav details[open] .nav-title { margin-bottom: .8rem; }
+  .cover { min-height: 82vh; }
+  .publication-page { min-height: auto; gap: 5rem; }
+}
+@media (prefers-color-scheme: dark) {
+  :root { --paper: #171918; --ink: #e9e4da; --muted: #aaa59b; --rule: #4a4945; --accent: #d08c91; --panel: #242724; }
+  blockquote { color: #d4cec4; }
+}
+
+@media print {
+  :root { --paper: #fff; --ink: #111; --muted: #555; --rule: #aaa; --accent: #5b151a; --panel: #eee; }
+  @page:right {
+    size: Letter;
+    margin: .82in .70in .84in .95in;
+    @top-left { content: "Operation Airspace"; font-family: Arial, sans-serif; font-size: 8pt; letter-spacing: .05em; color: #666; }
+    @top-right { content: string(chapter); font-family: Arial, sans-serif; font-size: 8pt; color: #666; }
+    @bottom-center { content: counter(page); font-family: Arial, sans-serif; font-size: 9pt; color: #666; }
+  }
+  @page:left {
+    size: Letter;
+    margin: .82in .95in .84in .70in;
+    @top-left { content: string(chapter); font-family: Arial, sans-serif; font-size: 8pt; color: #666; }
+    @top-right { content: "Operation Airspace"; font-family: Arial, sans-serif; font-size: 8pt; letter-spacing: .05em; color: #666; }
+    @bottom-center { content: counter(page); font-family: Arial, sans-serif; font-size: 9pt; color: #666; }
+  }
+  @page cover { size: Letter; margin: 0; @top-left { content: none; } @top-right { content: none; } @bottom-center { content: none; } }
+  @page publication { size: Letter; margin: .9in; @top-left { content: none; } @top-right { content: none; } @bottom-center { content: none; } }
+  @page contents { size: Letter; margin: .82in .78in .84in; @top-left { content: none; } @top-right { content: none; } }
+  body { background: white; font-size: 10.35pt; line-height: 1.48; orphans: 3; widows: 3; }
+  .site-shell { display: block; }
+  .book-nav { display: none !important; }
+  .cover { page: cover; height: 11in; min-height: 0; padding: 1.35in 1.05in .85in; border: 0; break-after: page; }
+  .operation-code { margin-bottom: .78in; font-size: 8pt; }
+  .cover h1 { font-size: 54pt; max-width: 6.5in; }
+  .cover .subtitle { font-size: 16pt; margin-top: 16pt; }
+  .edition-block { margin-top: 1.45in; font-size: 8pt; }
+  .publication-page { page: publication; min-height: 9.2in; max-width: none; padding: 0; border: 0; break-after: page; }
+  .publication-page h1 { font-size: 25pt; }
+  .publication-details { font-size: 8.5pt; }
+  .print-toc { page: contents; display: block; break-after: page; padding: .15in 0; }
+  .print-toc h1 { font-size: 27pt; margin: 0 0 22pt; }
+  .print-toc ul { list-style: none; padding-left: 0; break-inside: auto; }
+  .print-toc li { margin: 5pt 0; }
+  .print-toc li ul { padding-left: 16pt; font-size: 9.3pt; }
+  .print-toc > ul > li { break-inside: avoid; }
+  .print-toc a::after { content: leader('.') target-counter(attr(href), page); padding-left: 8pt; }
+  .print-toc li ul a::after { font-size: 9pt; }
+  article { max-width: none; padding: 0; }
+  article > section > h1 { string-set: chapter content(); bookmark-level: 1; }
+  article > section > section > h2 { bookmark-level: 2; }
+  article h3 { bookmark-level: 3; }
+  article > section:first-child { break-before: auto; }
+  .chapter-section, .appendix-section { break-before: right; }
+  .chapter-section > h1, .appendix-section > h1 {
+    min-height: 7.25in;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 31pt;
+    line-height: 1.08;
+    break-after: page;
+  }
+  .chapter-section > h1::before, .appendix-section > h1::before { font-size: 7.5pt; margin-bottom: 12pt; }
+  article > section:not(.chapter-section):not(.appendix-section) > h1 { margin: 0 0 22pt; padding-top: 0; border-top: 0; font-size: 27pt; break-before: page; }
+  article > section:first-child > h1 { break-before: auto; }
+  h1, h2, h3 { break-after: avoid-page; }
+  p { orphans: 3; widows: 3; }
+  table, blockquote { break-inside: avoid; }
+  thead { display: table-header-group; }
+  tr { break-inside: avoid; }
+  table { max-width: 100%; font-size: 8.8pt; }
+  th, td { padding: 6.5pt 6pt; }
+  img, svg { max-width: 100%; }
+  a { color: inherit; text-decoration: none; }
+  .back-to-contents { display: none; }
+  .publication-colophon { break-before: page; max-width: none; padding: 0; border: 0; font-size: 8pt; }
+}</style>
+</head>
+<body>
+<div class="site-shell">
+<aside class="book-nav"><details open=""><summary class="nav-title">Contents</summary><ul>
+<li><a href="#operation-overview" id="toc-operation-overview">Operation
+Overview</a>
+<ul>
+<li><a href="#operational-objectives" id="toc-operational-objectives">Operational Objectives</a></li>
+<li><a href="#handler-principles" id="toc-handler-principles">Handler
+Principles</a></li>
+</ul></li>
+<li><a href="#scene-1-cold-open-ohare-hard-landing" id="toc-scene-1-cold-open-ohare-hard-landing">Scene 1 — Cold Open:
+O’Hare Hard Landing</a>
+<ul>
+<li><a href="#scene-flow" id="toc-scene-flow">Scene Flow</a></li>
+<li><a href="#key-information" id="toc-key-information">Key
+Information</a></li>
+</ul></li>
+<li><a href="#scene-2-program-briefing" id="toc-scene-2-program-briefing">Scene 2 — Program Briefing</a>
+<ul>
+<li><a href="#scene-flow-1" id="toc-scene-flow-1">Scene Flow</a></li>
+<li><a href="#key-information-1" id="toc-key-information-1">Key
+Information</a></li>
+</ul></li>
+<li><a href="#scene-3-institutional-coordination" id="toc-scene-3-institutional-coordination">Scene 3 — Institutional
+Coordination</a>
+<ul>
+<li><a href="#scene-flow-2" id="toc-scene-flow-2">Scene Flow</a></li>
+<li><a href="#key-information-2" id="toc-key-information-2">Key
+Information</a></li>
+</ul></li>
+<li><a href="#scene-4-alexandria-systems-review" id="toc-scene-4-alexandria-systems-review">Scene 4 — Alexandria Systems
+Review</a>
+<ul>
+<li><a href="#scene-flow-3" id="toc-scene-flow-3">Scene Flow</a></li>
+<li><a href="#key-information-3" id="toc-key-information-3">Key
+Information</a></li>
+</ul></li>
+<li><a href="#scene-5-dr.-rao-and-independent-analysis" id="toc-scene-5-dr.-rao-and-independent-analysis">Scene 5 — Dr. Rao and
+Independent Analysis</a>
+<ul>
+<li><a href="#scene-flow-4" id="toc-scene-flow-4">Scene Flow</a></li>
+<li><a href="#key-information-4" id="toc-key-information-4">Key
+Information</a></li>
+</ul></li>
+<li><a href="#scene-6-independent-witnesses" id="toc-scene-6-independent-witnesses">Scene 6 — Independent
+Witnesses</a>
+<ul>
+<li><a href="#ways-of-observing" id="toc-ways-of-observing">Ways of
+Observing</a></li>
+<li><a href="#key-information-5" id="toc-key-information-5">Key
+Information</a></li>
+</ul></li>
+<li><a href="#scene-7-the-collectors" id="toc-scene-7-the-collectors">Scene 7 — The Collectors</a>
+<ul>
+<li><a href="#scene-flow-5" id="toc-scene-flow-5">Scene Flow</a></li>
+<li><a href="#key-information-6" id="toc-key-information-6">Key
+Information</a></li>
+</ul></li>
+<li><a href="#scene-8-runway-observation" id="toc-scene-8-runway-observation">Scene 8 — Runway Observation</a>
+<ul>
+<li><a href="#scene-flow-6" id="toc-scene-flow-6">Scene Flow</a></li>
+<li><a href="#key-information-7" id="toc-key-information-7">Key
+Information</a></li>
+</ul></li>
+<li><a href="#scene-9-comparative-assessment-and-debrief" id="toc-scene-9-comparative-assessment-and-debrief">Scene 9 —
+Comparative Assessment and Debrief</a>
+<ul>
+<li><a href="#scene-flow-7" id="toc-scene-flow-7">Scene Flow</a></li>
+<li><a href="#key-information-8" id="toc-key-information-8">Key
+Information</a></li>
+<li><a href="#possible-outcomes" id="toc-possible-outcomes">Possible
+Outcomes</a></li>
+</ul></li>
+<li><a href="#appendix-a-master-timeline" id="toc-appendix-a-master-timeline">Appendix A — Master
+Timeline</a></li>
+<li><a href="#appendix-b-evidence-matrix" id="toc-appendix-b-evidence-matrix">Appendix B — Evidence
+Matrix</a></li>
+<li><a href="#appendix-c-artifact-index" id="toc-appendix-c-artifact-index">Appendix C — Artifact Index</a></li>
+<li><a href="#appendix-d-location-index" id="toc-appendix-d-location-index">Appendix D — Location Index</a></li>
+<li><a href="#appendix-e-npc-index" id="toc-appendix-e-npc-index">Appendix E — NPC Index</a></li>
+<li><a href="#appendix-f-mechanical-reference" id="toc-appendix-f-mechanical-reference">Appendix F — Mechanical
+Reference</a>
+<ul>
+<li><a href="#core-principle" id="toc-core-principle">Core
+Principle</a></li>
+<li><a href="#information-tiers" id="toc-information-tiers">Information
+Tiers</a></li>
+<li><a href="#seven-principles-of-running-airspace" id="toc-seven-principles-of-running-airspace">Seven Principles of
+Running Airspace</a></li>
+</ul></li>
+<li><a href="#canonical-release-declaration" id="toc-canonical-release-declaration">Canonical Release
+Declaration</a></li>
+</ul></details></aside>
+<main class="book-main">
+<section class="cover" id="cover">
+<div class="operation-code">OP-01</div>
+<h1>Operation Airspace</h1>
+<p class="subtitle">A Delta Green Operation</p>
+<div class="edition-block">
+<span>Canonical Manuscript</span>
+<span>Version 1.0</span>
+</div>
+</section>
+<section aria-label="Publication information" class="publication-page">
+<div>
+<p class="publication-label">Publication Information</p>
+<h1>Operation Airspace</h1>
+<p>A Delta Green Operation</p>
+</div>
+<div class="publication-details">
+<p><strong>Edition:</strong> Canonical Manuscript</p>
+<p><strong>Version:</strong> 1.0</p>
+<p><strong>Operation:</strong> OP-01</p>
+<p>Produced by Canonical Manuscript Publisher v1.0.</p>
+<p>The Source Edition remains the canonical representation of this operation.</p>
+</div>
+</section><section class="print-toc"><h1>Contents</h1><ul>
+<li><a href="#operation-overview">Operation
+Overview</a>
+<ul>
+<li><a href="#operational-objectives">Operational Objectives</a></li>
+<li><a href="#handler-principles">Handler
+Principles</a></li>
+</ul></li>
+<li><a href="#scene-1-cold-open-ohare-hard-landing">Scene 1 — Cold Open:
+O’Hare Hard Landing</a>
+<ul>
+<li><a href="#scene-flow">Scene Flow</a></li>
+<li><a href="#key-information">Key
+Information</a></li>
+</ul></li>
+<li><a href="#scene-2-program-briefing">Scene 2 — Program Briefing</a>
+<ul>
+<li><a href="#scene-flow-1">Scene Flow</a></li>
+<li><a href="#key-information-1">Key
+Information</a></li>
+</ul></li>
+<li><a href="#scene-3-institutional-coordination">Scene 3 — Institutional
+Coordination</a>
+<ul>
+<li><a href="#scene-flow-2">Scene Flow</a></li>
+<li><a href="#key-information-2">Key
+Information</a></li>
+</ul></li>
+<li><a href="#scene-4-alexandria-systems-review">Scene 4 — Alexandria Systems
+Review</a>
+<ul>
+<li><a href="#scene-flow-3">Scene Flow</a></li>
+<li><a href="#key-information-3">Key
+Information</a></li>
+</ul></li>
+<li><a href="#scene-5-dr.-rao-and-independent-analysis">Scene 5 — Dr. Rao and
+Independent Analysis</a>
+<ul>
+<li><a href="#scene-flow-4">Scene Flow</a></li>
+<li><a href="#key-information-4">Key
+Information</a></li>
+</ul></li>
+<li><a href="#scene-6-independent-witnesses">Scene 6 — Independent
+Witnesses</a>
+<ul>
+<li><a href="#ways-of-observing">Ways of
+Observing</a></li>
+<li><a href="#key-information-5">Key
+Information</a></li>
+</ul></li>
+<li><a href="#scene-7-the-collectors">Scene 7 — The Collectors</a>
+<ul>
+<li><a href="#scene-flow-5">Scene Flow</a></li>
+<li><a href="#key-information-6">Key
+Information</a></li>
+</ul></li>
+<li><a href="#scene-8-runway-observation">Scene 8 — Runway Observation</a>
+<ul>
+<li><a href="#scene-flow-6">Scene Flow</a></li>
+<li><a href="#key-information-7">Key
+Information</a></li>
+</ul></li>
+<li><a href="#scene-9-comparative-assessment-and-debrief">Scene 9 —
+Comparative Assessment and Debrief</a>
+<ul>
+<li><a href="#scene-flow-7">Scene Flow</a></li>
+<li><a href="#key-information-8">Key
+Information</a></li>
+<li><a href="#possible-outcomes">Possible
+Outcomes</a></li>
+</ul></li>
+<li><a href="#appendix-a-master-timeline">Appendix A — Master
+Timeline</a></li>
+<li><a href="#appendix-b-evidence-matrix">Appendix B — Evidence
+Matrix</a></li>
+<li><a href="#appendix-c-artifact-index">Appendix C — Artifact Index</a></li>
+<li><a href="#appendix-d-location-index">Appendix D — Location Index</a></li>
+<li><a href="#appendix-e-npc-index">Appendix E — NPC Index</a></li>
+<li><a href="#appendix-f-mechanical-reference">Appendix F — Mechanical
+Reference</a>
+<ul>
+<li><a href="#core-principle">Core
+Principle</a></li>
+<li><a href="#information-tiers">Information
+Tiers</a></li>
+<li><a href="#seven-principles-of-running-airspace">Seven Principles of
+Running Airspace</a></li>
+</ul></li>
+<li><a href="#canonical-release-declaration">Canonical Release
+Declaration</a></li>
+</ul></section>
+<article><section class="level1" id="operation-overview">
+<h1>Operation Overview</h1><a class="back-to-contents" href="#cover">Return to contents</a>
+<p>A modern aviation-safety system built by Alexandria Aviation Systems
+begins producing verified runway-obstruction warnings that no human
+observer can explain. The detections survive comparison across radar,
+lidar, optical, infrared, and operational data. One warning contributes
+to a violent hard landing at Chicago O’Hare, leaving injuries and
+fatalities.</p>
+<p>The investigators must determine whether the detections are genuine,
+what is being observed, whether it presents a threat, how knowledge of
+it should be contained, and whether Alexandria can continue operating
+its technology.</p>
+<p>The truth is not a malicious machine or a conventional conspiracy.
+Alexandria has inadvertently developed a way to observe a naturally
+occurring ecology that has always existed outside ordinary human
+perception. The organisms themselves appear harmless. The danger comes
+from perception, institutional reaction, and the consequences of acting
+on evidence that human beings were never equipped to receive.</p>
+<section class="level2" id="operational-objectives">
+<h2>Operational Objectives</h2>
+<ul>
+<li>Verify the anomaly.</li>
+<li>Determine its nature.</li>
+<li>Assess whether it poses a threat.</li>
+<li>Establish a containment or mitigation protocol.</li>
+<li>Evaluate whether Alexandria may continue its work.</li>
+</ul>
+</section>
+<section class="level2" id="handler-principles">
+<h2>Handler Principles</h2>
+<ul>
+<li>Reward observation over interrogation.</li>
+<li>Build confidence through independent corroboration rather than a
+single decisive clue.</li>
+<li>Portray competent institutions as competent.</li>
+<li>Let mechanics deepen understanding rather than gate necessary
+information.</li>
+<li>Keep violence brief and consequential.</li>
+<li>Preserve uncertainty even after confirmation.</li>
+<li>End the operation with judgment, not conquest.</li>
+</ul>
+<hr/>
+</section>
+</section>
+<section class="level1 chapter-section" id="scene-1-cold-open-ohare-hard-landing">
+<h1>Scene 1 — Cold Open: O’Hare Hard Landing</h1><a class="back-to-contents" href="#cover">Return to contents</a>
+<p>A commercial flight makes a violent hard landing at O’Hare after its
+crew responds to a verified runway-obstruction warning that no human
+observer can explain.</p>
+<p><strong>Purpose:</strong> Establish the human cost, institutional
+stakes, and central contradiction: independent systems agreed that
+something occupied the runway.</p>
+<p><strong>Location:</strong> Chicago O’Hare International Airport<br/>
+<strong>Participants:</strong> Karen Delgado, Mark Reynolds, Emily Chen,
+airport and airline personnel<br/>
+<strong>Estimated Runtime:</strong> 20–35 minutes<br/>
+<strong>Investigation Phase:</strong> Verification</p>
+<section class="level2" id="scene-flow">
+<h2>Scene Flow</h2>
+<ol type="1">
+<li>Present the immediate aftermath without revealing the
+phenomenon.</li>
+<li>Allow investigators to review the aircraft, runway response,
+preliminary reports, and surviving crew accounts.</li>
+<li>Establish that the warning was neither a single-sensor error nor
+ordinary pilot confusion.</li>
+<li>Transition to the Program briefing and the Alexandria
+connection.</li>
+</ol>
+</section>
+<section class="level2" id="key-information">
+<h2>Key Information</h2>
+<ul>
+<li>The aircraft received a credible runway-obstruction warning during
+final approach.</li>
+<li>The obstruction was corroborated across systems expected to fail
+independently.</li>
+<li>The evasive response caused the hard landing, injuries, and
+fatalities.</li>
+<li>No physical debris, vehicle, animal, or conventional obstruction was
+recovered.</li>
+</ul>
+<p><strong>Evidence:</strong> O’Hare Incident Summary.</p>
+<p><strong>Handler Guidance:</strong> Keep the scene procedural and
+humane. The incident is frightening because competent people reacted
+reasonably to evidence that should not exist.</p>
+<p><strong>Before Leaving:</strong> Investigators should understand that
+the event is real, consequential, and linked to Alexandria’s
+sensor-fusion platform.</p>
+<hr/>
+</section>
+</section>
+<section class="level1 chapter-section" id="scene-2-program-briefing">
+<h1>Scene 2 — Program Briefing</h1><a class="back-to-contents" href="#cover">Return to contents</a>
+<p>The Program assigns the investigators to determine whether the
+obstruction reports are genuine, dangerous, containable, and compatible
+with Alexandria’s continued operation.</p>
+<p><strong>Purpose:</strong> Define authority, scope, constraints, and
+the Program’s reactive posture.</p>
+<p><strong>Location:</strong> Program Secure Briefing Facility<br/>
+<strong>Participants:</strong> Michael Havel and the investigators<br/>
+<strong>Estimated Runtime:</strong> 15–25 minutes<br/>
+<strong>Investigation Phase:</strong> Assignment</p>
+<section class="level2" id="scene-flow-1">
+<h2>Scene Flow</h2>
+<ol type="1">
+<li>Review the O’Hare event and related anomaly reports.</li>
+<li>State the operational objectives and cover identities.</li>
+<li>Clarify that the Program has no settled explanation.</li>
+<li>Provide access to Alexandria and relevant federal partners.</li>
+</ol>
+</section>
+<section class="level2" id="key-information-1">
+<h2>Key Information</h2>
+<ul>
+<li>O’Hare is one of several geographically separated incidents.</li>
+<li>Three reports involve military airfields; others occurred over the
+Atlantic and in Alaska.</li>
+<li>The common factor is independent multi-modal confirmation.</li>
+<li>The Program wants assessment and containment, not automatic
+destruction.</li>
+</ul>
+<p><strong>Evidence:</strong> Initial Program Briefing.</p>
+<p><strong>Handler Guidance:</strong> Do not portray the Program as
+omniscient. Havel knows the pattern qualifies for attention, not what it
+means. He is calm, patient, and evidence-first.</p>
+<p><strong>Before Leaving:</strong> Investigators should have a clear
+mandate and a reason to begin with Alexandria.</p>
+<hr/>
+</section>
+</section>
+<section class="level1 chapter-section" id="scene-3-institutional-coordination">
+<h1>Scene 3 — Institutional Coordination</h1><a class="back-to-contents" href="#cover">Return to contents</a>
+<p>Investigators enter Alexandria under official aviation-safety cover,
+meet its leadership, and establish access to the system and its
+personnel.</p>
+<p><strong>Purpose:</strong> Present Alexandria as competent and
+non-malicious while exposing the breadth of the anomaly.</p>
+<p><strong>Location:</strong> Alexandria Aviation Systems
+Headquarters<br/>
+<strong>Participants:</strong> Ethan Mercer, Kevin Park, Javier
+Ortiz<br/>
+<strong>Estimated Runtime:</strong> 35–60 minutes<br/>
+<strong>Investigation Phase:</strong> Access and Orientation</p>
+<section class="level2" id="scene-flow-2">
+<h2>Scene Flow</h2>
+<ol type="1">
+<li>Mercer frames Alexandria’s mission and reputational risk.</li>
+<li>Park explains the sensor-fusion architecture and validation
+safeguards.</li>
+<li>Ortiz establishes access limits and internal-security concerns.</li>
+<li>Investigators review the technical overview and identify Dr. Ananya
+Rao as the person closest to the anomaly.</li>
+</ol>
+</section>
+<section class="level2" id="key-information-2">
+<h2>Key Information</h2>
+<ul>
+<li>Alexandria’s system fuses radar, lidar, optical, infrared, and
+operational data.</li>
+<li>The alerts survived internal validation and were not generated by
+one defective modality.</li>
+<li>The company has attempted to reproduce, suppress, and explain the
+results.</li>
+<li>Bird activity around active equipment has changed in subtle but
+repeatable ways.</li>
+</ul>
+<p><strong>Evidence:</strong> Alexandria Technical Overview.</p>
+<p><strong>Handler Guidance:</strong> Alexandria should reward
+professional treatment. Suspicion is reasonable, but evidence should
+steadily undermine the idea of deliberate fraud.</p>
+<p><strong>Before Leaving:</strong> Investigators should understand the
+system well enough to recognize why ordinary malfunction is
+inadequate.</p>
+<hr/>
+</section>
+</section>
+<section class="level1 chapter-section" id="scene-4-alexandria-systems-review">
+<h1>Scene 4 — Alexandria Systems Review</h1><a class="back-to-contents" href="#cover">Return to contents</a>
+<p>Investigators examine raw incidents, internal tests, and physical
+operating conditions to determine whether Alexandria’s anomaly is
+reproducible.</p>
+<p><strong>Purpose:</strong> Convert suspicion into verified evidence
+and introduce the phenomenon’s wider ecology.</p>
+<p><strong>Location:</strong> Alexandria Aviation Systems
+Headquarters<br/>
+<strong>Participants:</strong> Dr. Ananya Rao, Kevin Park, Javier
+Ortiz<br/>
+<strong>Estimated Runtime:</strong> 45–75 minutes<br/>
+<strong>Investigation Phase:</strong> Technical Verification</p>
+<section class="level2" id="scene-flow-3">
+<h2>Scene Flow</h2>
+<ol type="1">
+<li>Compare unrelated obstruction events.</li>
+<li>Review modality timestamps and confidence thresholds.</li>
+<li>Inspect equipment, access logs, and data provenance.</li>
+<li>Observe the bird-avoidance pattern and discuss controlled
+testing.</li>
+</ol>
+</section>
+<section class="level2" id="key-information-3">
+<h2>Key Information</h2>
+<ul>
+<li>The incidents are not copies of one another and do not share a
+simple data-source failure.</li>
+<li>Confidence increases when more modalities are added rather than
+collapsing.</li>
+<li>The anomaly appears in multiple forms and scales.</li>
+<li>Active Alexandria systems correlate with subtle animal
+avoidance.</li>
+</ul>
+<p><strong>Evidence:</strong> Runway Obstruction Event Summary.</p>
+<p><strong>Handler Guidance:</strong> Allow investigators to disprove
+mundane explanations. Failure should cost time or create uncertainty,
+not hide the core truth.</p>
+<p><strong>Before Leaving:</strong> The investigators should accept that
+the system is observing a real external phenomenon.</p>
+<hr/>
+</section>
+</section>
+<section class="level1 chapter-section" id="scene-5-dr.-rao-and-independent-analysis">
+<h1>Scene 5 — Dr. Rao and Independent Analysis</h1><a class="back-to-contents" href="#cover">Return to contents</a>
+<p>Rao shares the private research that has carried her beyond
+Alexandria’s official conclusions and reveals the personal cost of
+sustained exposure.</p>
+<p><strong>Purpose:</strong> Humanize the discovery, establish the
+scientific model, and set up Rao’s later unauthorized action.</p>
+<p><strong>Location:</strong> Dr. Rao’s Office<br/>
+<strong>Participants:</strong> Dr. Ananya Rao<br/>
+<strong>Estimated Runtime:</strong> 35–60 minutes<br/>
+<strong>Investigation Phase:</strong> Interpretation</p>
+<section class="level2" id="scene-flow-4">
+<h2>Scene Flow</h2>
+<ol type="1">
+<li>Rao explains how she separated the anomaly from model behavior.</li>
+<li>She shows notebooks containing sketches, comparisons, and
+speculative biological language.</li>
+<li>Investigators notice obsession, sleep loss, and perceptual fixation
+without incoherence.</li>
+<li>Their treatment of Rao determines whether she later trusts them with
+her notes.</li>
+</ol>
+</section>
+<section class="level2" id="key-information-4">
+<h2>Key Information</h2>
+<ul>
+<li>Rao believes the system is detecting living organisms outside normal
+human perception.</li>
+<li>Large runway forms and smaller plankton-like forms may be part of
+the same ecology.</li>
+<li>The technology may make biological observers fractionally more
+capable of sensing the organisms.</li>
+<li>Rao has begun to perceive traces without looking directly at
+processed output.</li>
+</ul>
+<p><strong>Evidence:</strong> Dr. Rao’s Research Notebook.</p>
+<p><strong>Handler Guidance:</strong> Rao is rational, frightened, and
+obsessed—not a prophetic mad scientist. Her conclusions should be
+testable even when incomplete.</p>
+<p><strong>Before Leaving:</strong> Investigators should possess or know
+how to obtain Rao’s research and understand why she may break
+protocol.</p>
+<hr/>
+</section>
+</section>
+<section class="level1 chapter-section" id="scene-6-independent-witnesses">
+<h1>Scene 6 — Independent Witnesses</h1><a class="back-to-contents" href="#cover">Return to contents</a>
+<p>Investigators interview survivors and observers whose incomplete
+accounts independently support the technical evidence.</p>
+<p><strong>Purpose:</strong> Reward attention, broaden the human
+perspective, and provide non-technical corroboration without a single
+decisive witness.</p>
+<p><strong>Location:</strong> NTSB Field Office<br/>
+<strong>Participants:</strong> Karen Delgado, Emily Chen, Lisa Morales,
+Robert Gallagher, Sarah Walker, Owen Walker<br/>
+<strong>Estimated Runtime:</strong> 45–75 minutes<br/>
+<strong>Investigation Phase:</strong> Independent Corroboration</p>
+<section class="level2" id="ways-of-observing">
+<h2>Ways of Observing</h2>
+<ul>
+<li>The frequent flyer contributes routine and pattern recognition.</li>
+<li>The aviation enthusiast contributes technical awareness and
+communications context.</li>
+<li>The flight attendant contributes professional behavior and crew
+response.</li>
+<li>The injured passenger contributes human cost and emotional
+reality.</li>
+<li>The child contributes unfiltered perception.</li>
+</ul>
+<blockquote>
+<p>Children draw what they see. Adults decide what it means.</p>
+</blockquote>
+</section>
+<section class="level2" id="key-information-5">
+<h2>Key Information</h2>
+<ul>
+<li>The crew reacted to instrument agreement, not a fleeting visual
+impression.</li>
+<li>Several witnesses noticed motion or turbulence inconsistent with an
+empty runway.</li>
+<li>Details align across people who did not coordinate their
+accounts.</li>
+<li>Owen’s drawing resembles the large form inferred from Rao’s
+data.</li>
+</ul>
+<p><strong>Evidence:</strong> Owen Walker’s Drawing and witness
+statements.</p>
+<p><strong>Handler Guidance:</strong> Do not gate the drawing behind a
+perfect question. Reward investigators who notice Owen, his papers, or
+Sarah’s concern. No interview gives the answer; meaning emerges from
+comparing overlapping observations.</p>
+<p><strong>Before Leaving:</strong> Investigators should have human
+corroboration independent of Alexandria.</p>
+<hr/>
+</section>
+</section>
+<section class="level1 chapter-section" id="scene-7-the-collectors">
+<h1>Scene 7 — The Collectors</h1><a class="back-to-contents" href="#cover">Return to contents</a>
+<p>Rao contacts the investigators while hiding from unknown intruders
+seeking her notebooks. The confrontation reveals that another
+organization has prior knowledge of the phenomenon.</p>
+<p><strong>Purpose:</strong> Introduce external pressure, force
+immediate action, and establish historical awareness without resolving
+the Collectors’ identity.</p>
+<p><strong>Location:</strong> Dr. Rao’s office or residence; Alexandria
+if preferred<br/>
+<strong>Participants:</strong> Dr. Ananya Rao, Javier Ortiz, the
+Collectors<br/>
+<strong>Estimated Runtime:</strong> 30–60 minutes<br/>
+<strong>Investigation Phase:</strong> Escalation</p>
+<section class="level2" id="scene-flow-5">
+<h2>Scene Flow</h2>
+<ol type="1">
+<li>Rao makes a frightened but coherent call.</li>
+<li>Investigators arrive as two or three Collectors withdraw.</li>
+<li>A brief confrontation or pursuit occurs; one Collector may die.</li>
+<li>The body and recovered fragments reveal repaired gear, no
+electronics, and field notes about similar observations.</li>
+</ol>
+</section>
+<section class="level2" id="key-information-6">
+<h2>Key Information</h2>
+<ul>
+<li>The Collectors expected handwritten material and avoided electronic
+equipment.</li>
+<li>Their clothing and boots are maintained rather than disposable.</li>
+<li>Their notebook contains diagrams and symbols consistent with
+long-term field observation.</li>
+<li>Nothing recovered identifies a clear sponsor.</li>
+</ul>
+<p><strong>Evidence:</strong> Collector Notebook Fragments.</p>
+<p><strong>Handler Guidance:</strong> Keep combat short and
+consequential. The scene’s purpose is evidence and pressure, not
+defeating the organization.</p>
+<p><strong>Before Leaving:</strong> Rao should be safe or in custody,
+the notebook fragments secured, and the investigators aware they are not
+the first observers.</p>
+<hr/>
+</section>
+</section>
+<section class="level1 chapter-section" id="scene-8-runway-observation">
+<h1>Scene 8 — Runway Observation</h1><a class="back-to-contents" href="#cover">Return to contents</a>
+<p>Investigators authorize or conduct a controlled Alexandria test that
+produces direct multi-modal confirmation of the large runway organism
+and its surrounding ecology.</p>
+<p><strong>Purpose:</strong> Deliver the operation’s experiential climax
+and answer whether the phenomenon is real and immediately hostile.</p>
+<p><strong>Location:</strong> Chicago O’Hare International Airport or
+another controlled airfield<br/>
+<strong>Participants:</strong> Dr. Ananya Rao, Kevin Park, Karen
+Delgado, investigators<br/>
+<strong>Estimated Runtime:</strong> 45–75 minutes<br/>
+<strong>Investigation Phase:</strong> Controlled Verification</p>
+<section class="level2" id="scene-flow-6">
+<h2>Scene Flow</h2>
+<ol type="1">
+<li>Define safety controls and abort conditions.</li>
+<li>Activate the Alexandria system and compare live modalities.</li>
+<li>The large manta-like form resolves across instrumentation while
+smaller forms move around it.</li>
+<li>Human observers may experience partial biological perception,
+followed by a dangerous but avoidable operational moment.</li>
+</ol>
+</section>
+<section class="level2" id="key-information-7">
+<h2>Key Information</h2>
+<ul>
+<li>The phenomenon is physical enough to interact with multiple sensor
+modalities.</li>
+<li>The large organism does not attack and appears indifferent to
+aircraft and humans.</li>
+<li>Smaller organisms cluster or drift around active observation
+zones.</li>
+<li>Observation may increase biological awareness without granting
+reliable normal sight.</li>
+</ul>
+<p><strong>Evidence:</strong> Alexandria Runway Observation Record.</p>
+<p><strong>Handler Guidance:</strong> Reveal enough to confirm, not
+enough to domesticate the mystery. The organisms are harmless; human
+systems create the danger.</p>
+<p><strong>Before Leaving:</strong> Investigators should be able to
+assess threat, containment, and Alexandria’s future.</p>
+<p><strong>Variant:</strong> The test may be refused. Investigators can
+reach a defensible conclusion through accumulated evidence and
+historical comparison.</p>
+<hr/>
+</section>
+</section>
+<section class="level1 chapter-section" id="scene-9-comparative-assessment-and-debrief">
+<h1>Scene 9 — Comparative Assessment and Debrief</h1><a class="back-to-contents" href="#cover">Return to contents</a>
+<p>The investigators compare the operation to incomplete Program
+precedents, decide Alexandria’s disposition, and define what the Program
+inherits from the discovery.</p>
+<p><strong>Purpose:</strong> Turn revelation into an ethical and
+institutional decision rather than a monster-ending.</p>
+<p><strong>Location:</strong> Program Secure Briefing Facility<br/>
+<strong>Participants:</strong> Michael Havel, investigators, optional
+Dr. Ananya Rao<br/>
+<strong>Estimated Runtime:</strong> 30–60 minutes<br/>
+<strong>Investigation Phase:</strong> Assessment and Containment</p>
+<section class="level2" id="scene-flow-7">
+<h2>Scene Flow</h2>
+<ol type="1">
+<li>Review the verified evidence and unresolved risks.</li>
+<li>Havel provides a comparative file showing earlier
+independent-confirmation cases.</li>
+<li>Investigators recommend shutdown, controlled continuation,
+concealment, protection, or a mixed protocol.</li>
+<li>Record consequences for Rao, Alexandria, the Collectors, and future
+operations.</li>
+</ol>
+</section>
+<section class="level2" id="key-information-8">
+<h2>Key Information</h2>
+<ul>
+<li>The Program has encountered adjacent patterns but not a complete
+explanation.</li>
+<li>No evidence proves the organisms are hostile.</li>
+<li>Alexandria’s technology can reveal them and may alter human or
+animal perception.</li>
+<li>Containment is primarily informational, procedural, and
+institutional.</li>
+</ul>
+<p><strong>Evidence:</strong> Comparative Case File.</p>
+<p><strong>Handler Guidance:</strong> Treat the decision as genuinely
+open. Each option protects something and endangers something else. The
+operation ends when the investigators make and communicate a defensible
+recommendation.</p>
+</section>
+<section class="level2" id="possible-outcomes">
+<h2>Possible Outcomes</h2>
+<ul>
+<li>Alexandria is shut down and its work suppressed.</li>
+<li>Alexandria continues under strict controls.</li>
+<li>The Program quietly assumes stewardship of the technology.</li>
+<li>Rao is protected, detained, hospitalized, recruited, or separated
+from the research.</li>
+<li>The operation closes with an unresolved institutional
+compromise.</li>
+</ul>
+<hr/>
+</section>
+</section>
+<section class="level1 appendix-section" id="appendix-a-master-timeline">
+<h1>Appendix A — Master Timeline</h1><a class="back-to-contents" href="#cover">Return to contents</a>
+<table>
+<colgroup>
+<col style="width: 50%"/>
+<col style="width: 50%"/>
+</colgroup>
+<thead>
+<tr class="header">
+<th>Time</th>
+<th>Event</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Years prior</td>
+<td>Naturally occurring aerial organisms exist unnoticed by
+humanity.</td>
+</tr>
+<tr class="even">
+<td>Prior months</td>
+<td>Alexandria’s sensor-fusion platform begins producing repeatable
+anomaly detections.</td>
+</tr>
+<tr class="odd">
+<td>Following validation</td>
+<td>Additional historical incidents are identified across multiple
+locations.</td>
+</tr>
+<tr class="even">
+<td>Before the operation</td>
+<td>Dr. Ananya Rao privately documents recurring patterns.</td>
+</tr>
+<tr class="odd">
+<td>Before the operation</td>
+<td>The Collectors become aware of Rao’s research.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th>Scene</th>
+<th>Event</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>O’Hare hard landing and initial verification.</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Program briefing and assignment.</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Alexandria access and technical orientation.</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Systems review eliminates conventional explanations.</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Rao presents her scientific interpretation.</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Witnesses independently corroborate the anomaly.</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>Collector intrusion reveals prior organized knowledge.</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>Controlled observation confirms the phenomenon.</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td>Program debrief and operational recommendation.</td>
+</tr>
+</tbody>
+</table>
+<p>Time in <em>Airspace</em> represents progress rather than a
+countdown. The operation accumulates understanding.</p>
+<hr/>
+</section>
+<section class="level1 appendix-section" id="appendix-b-evidence-matrix">
+<h1>Appendix B — Evidence Matrix</h1><a class="back-to-contents" href="#cover">Return to contents</a>
+<table>
+<colgroup>
+<col style="width: 25%"/>
+<col style="width: 25%"/>
+<col style="width: 25%"/>
+<col style="width: 25%"/>
+</colgroup>
+<thead>
+<tr class="header">
+<th>Artifact</th>
+<th>Introduced</th>
+<th>Default Custody</th>
+<th>Establishes</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Initial Program Briefing</td>
+<td><a class="index-link" href="#scene-2-program-briefing">Scene 2</a></td>
+<td>Program</td>
+<td>Mission scope and objectives</td>
+</tr>
+<tr class="even">
+<td>O’Hare Incident Summary</td>
+<td><a class="index-link" href="#scene-1-cold-open-ohare-hard-landing">Scene 1</a></td>
+<td>NTSB / Program</td>
+<td>Verified initiating event</td>
+</tr>
+<tr class="odd">
+<td>Alexandria Technical Overview</td>
+<td><a class="index-link" href="#scene-3-institutional-coordination">Scene 3</a></td>
+<td>Alexandria</td>
+<td>Sensor architecture and validation</td>
+</tr>
+<tr class="even">
+<td>Runway Obstruction Event Summary</td>
+<td><a class="index-link" href="#scene-4-alexandria-systems-review">Scene 4</a></td>
+<td>Alexandria</td>
+<td>Recurrence across locations</td>
+</tr>
+<tr class="odd">
+<td>Dr. Rao’s Research Notebook</td>
+<td><a class="index-link" href="#scene-5-dr.-rao-and-independent-analysis">Scene 5</a></td>
+<td>Rao / Program</td>
+<td>Scientific interpretation</td>
+</tr>
+<tr class="even">
+<td>Owen Walker’s Drawing</td>
+<td><a class="index-link" href="#scene-6-independent-witnesses">Scene 6</a></td>
+<td>Walker family / Program copy</td>
+<td>Independent visual corroboration</td>
+</tr>
+<tr class="odd">
+<td>Collector Notebook Fragments</td>
+<td><a class="index-link" href="#scene-7-the-collectors">Scene 7</a></td>
+<td>Program</td>
+<td>Prior organized knowledge</td>
+</tr>
+<tr class="even">
+<td>Alexandria Runway Observation Record</td>
+<td><a class="index-link" href="#scene-8-runway-observation">Scene 8</a></td>
+<td>Alexandria / Program</td>
+<td>Direct verification</td>
+</tr>
+<tr class="odd">
+<td>Comparative Case File</td>
+<td><a class="index-link" href="#scene-9-comparative-assessment-and-debrief">Scene 9</a></td>
+<td>Program</td>
+<td>Institutional context and precedent</td>
+</tr>
+</tbody>
+</table>
+<p>No single artifact solves the investigation. Confidence emerges
+through independent corroboration.</p>
+<p>The evidence answers seven escalating questions:</p>
+<ol type="1">
+<li>Did something happen?</li>
+<li>Can conventional explanations account for it?</li>
+<li>Is there a consistent pattern?</li>
+<li>What is being observed?</li>
+<li>Is anyone else aware?</li>
+<li>Can it be verified?</li>
+<li>What should be done?</li>
+</ol>
+<hr/>
+</section>
+<section class="level1 appendix-section" id="appendix-c-artifact-index">
+<h1>Appendix C — Artifact Index</h1><a class="back-to-contents" href="#cover">Return to contents</a>
+<table>
+<colgroup>
+<col style="width: 25%"/>
+<col style="width: 25%"/>
+<col style="width: 25%"/>
+<col style="width: 25%"/>
+</colgroup>
+<thead>
+<tr class="header">
+<th>Artifact</th>
+<th>Type</th>
+<th>First Appearance</th>
+<th>Presentation</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Initial Program Briefing</td>
+<td>Operational briefing</td>
+<td><a class="index-link" href="#scene-2-program-briefing">Scene 2</a></td>
+<td>Restrained federal packet</td>
+</tr>
+<tr class="even">
+<td>O’Hare Incident Summary</td>
+<td>Aviation report</td>
+<td><a class="index-link" href="#scene-1-cold-open-ohare-hard-landing">Scene 1</a></td>
+<td>Preliminary factual report</td>
+</tr>
+<tr class="odd">
+<td>Alexandria Technical Overview</td>
+<td>Corporate briefing</td>
+<td><a class="index-link" href="#scene-3-institutional-coordination">Scene 3</a></td>
+<td>Clean diagrams and concise copy</td>
+</tr>
+<tr class="even">
+<td>Runway Obstruction Event Summary</td>
+<td>Internal chronology</td>
+<td><a class="index-link" href="#scene-4-alexandria-systems-review">Scene 4</a></td>
+<td>Tabular incident ledger</td>
+</tr>
+<tr class="odd">
+<td>Dr. Rao’s Research Notebook</td>
+<td>Scientific notebook</td>
+<td><a class="index-link" href="#scene-5-dr.-rao-and-independent-analysis">Scene 5</a></td>
+<td>Handwritten facsimile excerpts</td>
+</tr>
+<tr class="even">
+<td>Owen Walker’s Drawing</td>
+<td>Civilian artifact</td>
+<td><a class="index-link" href="#scene-6-independent-witnesses">Scene 6</a></td>
+<td>Ordinary child’s drawing</td>
+</tr>
+<tr class="odd">
+<td>Collector Notebook Fragments</td>
+<td>Historical artifact</td>
+<td><a class="index-link" href="#scene-7-the-collectors">Scene 7</a></td>
+<td>Worn handwritten fragments</td>
+</tr>
+<tr class="even">
+<td>Runway Observation Record</td>
+<td>Experiment record</td>
+<td><a class="index-link" href="#scene-8-runway-observation">Scene 8</a></td>
+<td>Plots, timestamps, and chronology</td>
+</tr>
+<tr class="odd">
+<td>Comparative Case File</td>
+<td>Program archive</td>
+<td><a class="index-link" href="#scene-9-comparative-assessment-and-debrief">Scene 9</a></td>
+<td>Incomplete archival extracts</td>
+</tr>
+</tbody>
+</table>
+<p>Artifacts are turning points. Their importance lies in what changes
+when investigators discover them.</p>
+<hr/>
+</section>
+<section class="level1 appendix-section" id="appendix-d-location-index">
+<h1>Appendix D — Location Index</h1><a class="back-to-contents" href="#cover">Return to contents</a>
+<table>
+<colgroup>
+<col style="width: 33%"/>
+<col style="width: 33%"/>
+<col style="width: 33%"/>
+</colgroup>
+<thead>
+<tr class="header">
+<th>Location</th>
+<th>Way of Knowing</th>
+<th>Primary Scenes</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Chicago O’Hare International Airport</td>
+<td>Observation / Verification</td>
+<td>1 and 8</td>
+</tr>
+<tr class="even">
+<td>Alexandria Aviation Systems Headquarters</td>
+<td>Discovery</td>
+<td>3, 4, and 7</td>
+</tr>
+<tr class="odd">
+<td>Dr. Rao’s Office</td>
+<td>Interpretation / Vulnerability</td>
+<td>5 and 7</td>
+</tr>
+<tr class="even">
+<td>NTSB Field Office</td>
+<td>Method</td>
+<td>6</td>
+</tr>
+<tr class="odd">
+<td>Program Secure Briefing Facility</td>
+<td>Judgment / Stewardship</td>
+<td>2 and 9</td>
+</tr>
+</tbody>
+</table>
+<p>Locations represent distinct ways investigators discover truth.</p>
+<hr/>
+</section>
+<section class="level1 appendix-section" id="appendix-e-npc-index">
+<h1>Appendix E — NPC Index</h1><a class="back-to-contents" href="#cover">Return to contents</a>
+<table>
+<thead>
+<tr class="header">
+<th>Name</th>
+<th>Affiliation</th>
+<th>Role</th>
+<th>Editorial Function</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Michael Havel</td>
+<td>Program</td>
+<td>Handler</td>
+<td>Judgment</td>
+</tr>
+<tr class="even">
+<td>Ethan Mercer</td>
+<td>Alexandria</td>
+<td>Executive</td>
+<td>Responsibility</td>
+</tr>
+<tr class="odd">
+<td>Dr. Ananya Rao</td>
+<td>Alexandria</td>
+<td>Lead Scientist</td>
+<td>Discovery</td>
+</tr>
+<tr class="even">
+<td>Kevin Park</td>
+<td>Alexandria</td>
+<td>Systems Engineer</td>
+<td>Understanding</td>
+</tr>
+<tr class="odd">
+<td>Javier Ortiz</td>
+<td>Alexandria</td>
+<td>Operations / Security</td>
+<td>Practice</td>
+</tr>
+<tr class="even">
+<td>Karen Delgado</td>
+<td>NTSB</td>
+<td>Lead Investigator</td>
+<td>Method</td>
+</tr>
+<tr class="odd">
+<td>Mark Reynolds</td>
+<td>FAA</td>
+<td>Operations</td>
+<td>Institutional context</td>
+</tr>
+<tr class="even">
+<td>Emily Chen</td>
+<td>Airline</td>
+<td>Flight Crew</td>
+<td>Professional observation</td>
+</tr>
+<tr class="odd">
+<td>Lisa Morales</td>
+<td>Passenger</td>
+<td>Witness</td>
+<td>Human cost</td>
+</tr>
+<tr class="even">
+<td>Robert “Bob” Gallagher</td>
+<td>Passenger</td>
+<td>Witness</td>
+<td>Pattern recognition</td>
+</tr>
+<tr class="odd">
+<td>Sarah Walker</td>
+<td>Passenger</td>
+<td>Witness / Parent</td>
+<td>Ordinary context</td>
+</tr>
+<tr class="even">
+<td>Owen Walker</td>
+<td>Passenger</td>
+<td>Child witness</td>
+<td>Unfiltered perception</td>
+</tr>
+<tr class="odd">
+<td>The Collectors</td>
+<td>Unknown</td>
+<td>Adversarial group</td>
+<td>Historical awareness</td>
+</tr>
+</tbody>
+</table>
+<hr/>
+</section>
+<section class="level1 appendix-section" id="appendix-f-mechanical-reference">
+<h1>Appendix F — Mechanical Reference</h1><a class="back-to-contents" href="#cover">Return to contents</a>
+<section class="level2" id="core-principle">
+<h2>Core Principle</h2>
+<p>Mechanics determine the quality of understanding, not access to the
+operation.</p>
+</section>
+<section class="level2" id="information-tiers">
+<h2>Information Tiers</h2>
+<p><strong>Tier 1 — Always Available:</strong> Core facts necessary to
+continue.<br/>
+<strong>Tier 2 — Expertise:</strong> Detail that eliminates alternatives
+or improves confidence.<br/>
+<strong>Tier 3 — Insight:</strong> Connections and implications earned
+through strong play or successful skill use.</p>
+<table>
+<colgroup>
+<col style="width: 50%"/>
+<col style="width: 50%"/>
+</colgroup>
+<thead>
+<tr class="header">
+<th>Situation</th>
+<th>Suggested Skills</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Aviation evidence review</td>
+<td>Search, Bureaucracy</td>
+</tr>
+<tr class="even">
+<td>Alexandria technical discussion</td>
+<td>Science (Engineering), SIGINT, Computer Science</td>
+</tr>
+<tr class="odd">
+<td>Interviewing witnesses</td>
+<td>HUMINT, Persuade</td>
+</tr>
+<tr class="even">
+<td>Reading Rao’s notebooks</td>
+<td>Science, Search</td>
+</tr>
+<tr class="odd">
+<td>Collector encounter</td>
+<td>Alertness, Firearms, Athletics</td>
+</tr>
+<tr class="even">
+<td>Runway observation</td>
+<td>Alertness, Science</td>
+</tr>
+<tr class="odd">
+<td>Final assessment</td>
+<td>Bureaucracy, Persuade</td>
+</tr>
+</tbody>
+</table>
+<p>Failure may delay a conclusion, add cost, create uncertainty, damage
+trust, or expose investigators to risk. It should not halt the
+investigation or conceal mandatory information.</p>
+<p>The horror of <em>Airspace</em> is epistemological. SAN loss should
+accompany genuine confrontation with the limits of reliable perception,
+not every technical anomaly.</p>
+</section>
+<section class="level2" id="seven-principles-of-running-airspace">
+<h2>Seven Principles of Running Airspace</h2>
+<ol type="1">
+<li>Observation over interrogation.</li>
+<li>Confidence over clue chains.</li>
+<li>Competent institutions.</li>
+<li>Mechanics deepen understanding.</li>
+<li>Restrained presentation.</li>
+<li>Let players conclude first.</li>
+<li>End with judgment.</li>
+</ol>
+<hr/>
+</section>
+</section>
+<section class="level1" id="canonical-release-declaration">
+<h1>Canonical Release Declaration</h1><a class="back-to-contents" href="#cover">Return to contents</a>
+<p>This file preserves <strong>OP-01: Operation Airspace — Canonical
+Manuscript v1.0</strong> as a standalone publication artifact.</p>
+<p>The Source Edition remains authoritative for canonical object
+maintenance, detailed registries, and revision history. This Canonical
+Manuscript is the definitive reading edition and the direct editorial
+parent of the Handler’s Digital Edition.</p>
+<p>Substantive revisions must originate in the Source Edition and
+propagate through:</p>
+<p><strong>Campaign Bible → Source Edition → Canonical Manuscript →
+Handler’s Digital Edition</strong></p>
+</section></article>
+<footer class="publication-colophon">
+<p><strong>Operation Airspace</strong> - Canonical Manuscript v1.0</p>
+<p>Published by Canonical Manuscript Publisher v1.0, CMP-4 editorial polish release.</p>
+</footer>
+</main>
+</div>
+</body>
+</html>
