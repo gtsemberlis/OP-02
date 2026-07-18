@@ -1,8 +1,8 @@
-# Michael Donnelly
+# Christopher Donnelly
 
-> Status: LOCKED CANONICAL NPC
+**LOCKED CANONICAL**
 
-Victim 1 — Michael "Mike" Donnelly
+Victim 1 — Christopher Donnelly
 
 Age: 42
 
@@ -217,56 +217,46 @@ Portable field radio kit
 
 Approximate Skill Profile
 Skill	Proficiency	Notes
-Accounting	Low	Household budgeting only.
-Alertness	Medium	Years in manufacturing make him observant of physical details and unsafe conditions.
-Athletics	Medium	Physically fit from manual labor, but not athletic by hobby.
-Bureaucracy	Low	Limited experience outside routine workplace paperwork.
-Computer Science	Low	Comfortable with everyday software and CNC interfaces, not a programmer.
-Criminology	Low	No relevant experience.
-Demolitions	None	No formal knowledge.
-Drive	High	Daily driver, confident in rural roads and light utility vehicles.
-Firearms	Medium	Owns hunting rifles and shotguns; occasional recreational shooter. No tactical training.
-First Aid	Low	Basic workplace safety and CPR certification.
-Forensics	None	No formal knowledge.
-Heavy Machinery	Medium	Forklifts, machine tools, industrial equipment.
-History	Low	General education only.
-HUMINT (Persuade)	Low	Honest and straightforward but not naturally persuasive.
-HUMINT (Assess Motive)	Medium	Reads sincerity reasonably well through years of working with people.
-Law	None	No special knowledge.
-Medicine	None	No medical training.
-Melee Combat	Low	Can defend himself but has no formal training.
-Navigate	Medium	Comfortable with topographic maps, GPS, and rural navigation.
-Occult	None	No interest or exposure.
-Persuade	Low	Prefers facts over rhetoric.
-Pharmacy	None	No knowledge.
-Search	High	Exceptionally methodical when examining physical spaces, machines, or equipment.
-SIGINT / Radio Operation	High	Experienced licensed amateur radio operator with strong RF knowledge.
-Stealth	Low	Not trained; large, practical man.
-Survival	Medium	Camping, hunting, and outdoor field operations associated with amateur radio activities.
-Surgery	None	No knowledge.
-Swim	Low	Recreational ability only.
-Unarmed Combat	Low	No formal training.
-Specialized Knowledge
 
+Alertness	High	Notices physical changes, equipment issues, and environmental details.
+Athletics	Medium	Physically fit from decades of shop work.
+Craft (Machining/Fabrication)	High	Professional precision machinist.
+Drive	High	Daily driver, comfortable with trucks and trailers.
+Electrical Repair	Medium	Competent hobby electronics through amateur radio.
+Firearms	Medium	Recreational hunter and target shooter; owns common long guns.
+First Aid	Low	Basic workplace safety and CPR training.
+Heavy Machinery	High	Extensive experience operating industrial equipment.
+Mechanical Repair	High	Professional-level mechanical aptitude.
+Navigate	Medium	Comfortable navigating rural areas and logging roads.
+Persuade	Low	Honest and straightforward, but not especially charismatic.
+Search	Medium	Methodical and detail-oriented.
+SIGINT / Radio Operation	High	Experienced amateur radio operator and antenna builder.
+Survival	Medium	Competent outdoorsman; enjoys camping during Field Day and emergency communications exercises.
 
-High Expertise
+Post-Return Changes
 
-Precision machining
-Metal fabrication
-Mechanical troubleshooting
-Blueprint interpretation
-Measurement & metrology
-Antenna construction
-RF propagation (amateur level)
-Shop safety
-Practical electronics
-Fabrication planning
+Investigators and family independently observe several subtle but consistent changes after Mike returns.
 
-Moderate Expertise
+Most immediately noticeable:
 
-Welding
-Vehicle maintenance
-Woodworking
-Small engine repair
-Electrical troubleshooting
-Emergency communications procedures
+He no longer smokes.
+
+After nearly twenty years of smoking approximately one pack per day, he simply stops.
+
+No withdrawal.
+
+No nicotine replacement.
+
+No explanation beyond:
+
+"I don't feel like it anymore."
+
+Secondary observations include:
+
+Sleeping more soundly.
+Spending noticeably more time with his children.
+Appearing calmer during stressful situations.
+
+His wife initially considers these changes a blessing.
+
+Only later does she begin to wonder how someone can abandon a lifelong addiction overnight without struggle.
