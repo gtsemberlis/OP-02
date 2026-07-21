@@ -1,9 +1,33 @@
-# FBI Preliminary Investigation Report
+---
+id: A-01
+title: FBI Preliminary Investigation Report
+type: artifact
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: artifacts/FBI-Preliminary-Investigation-Report.md
+related_objects:
+- A-02
+- A-03
+- A-04
+- A-06
+- LOC-10
+- PER-01
+- PER-02
+- PER-03
+- PER-04
+- PER-05
+- PER-06
+- PER-08
+- PER-09
+---
+
+# A-01 — FBI Preliminary Investigation Report
 
 **LOCKED CANONICAL**
 
 FBI Preliminary Investigation Report
-Description
+## Description
 
 A professionally prepared investigative case file compiled by the Federal Bureau of Investigation following the series of unexplained disappearances in and around Utica, New York.
 
@@ -32,7 +56,7 @@ The report is thorough, methodical, and professionally assembled.
 
 It contains no supernatural conclusions.
 
-Who Possesses It?
+## Who Possesses It?
 
 The FBI.
 
@@ -40,7 +64,7 @@ Upon assignment to the investigation, the investigators receive unrestricted acc
 
 Special Agent Elena Alvarez encourages investigators to familiarize themselves with the material before conducting new interviews, emphasizing that duplicate investigative effort wastes valuable time.
 
-Where Is It Found?
+## Where Is It Found?
 
 The report is maintained at the FBI Field Command Post established for the investigation.
 
@@ -48,7 +72,7 @@ Investigators receive both printed binders and digital copies shortly after arri
 
 It quickly becomes their primary reference document throughout the operation.
 
-Initial Interpretation
+## Initial Interpretation
 
 The report immediately establishes two critical facts.
 
@@ -90,7 +114,7 @@ Also on June 25, investigators note a significant anomaly within Collins' histor
 
 This inconsistency ultimately prompts Program interest in the investigation.
 
-Further Examination
+## Further Examination
 Timeline Reconstruction
 
 The report reconstructs approximately the final ten hours preceding each disappearance.
@@ -205,7 +229,7 @@ These documents demonstrate effective cooperation between agencies despite incre
 
 Investigators inherit an investigation that has been competently managed from its earliest stages.
 
-Relationships
+## Relationships
 
 The FBI report serves as the investigative foundation upon which nearly every subsequent artifact builds.
 
@@ -222,7 +246,7 @@ Search-and-rescue documentation.
 
 Nearly every later discovery either confirms, refines, or challenges conclusions first documented within the FBI case file.
 
-Investigation Impact
+## Investigation Impact
 
 The FBI Preliminary Investigation Report establishes the operation's baseline reality.
 
@@ -252,7 +276,7 @@ Financial records reviewed.
 
 The investigators are therefore encouraged to pursue new questions rather than duplicate old ones.
 
-Changes Over Time
+## Changes Over Time
 
 The report itself remains static.
 
@@ -264,7 +288,7 @@ Investigators frequently return to the report, discovering connections they over
 
 It rewards rereading.
 
-Handler Notes
+## Handler Notes
 
 The FBI Preliminary Investigation Report establishes an important philosophical foundation for the operation:
 
@@ -299,3 +323,19 @@ The investigators' role is therefore not to replace the FBI.
 It is to recognize patterns that only become visible when conventional evidence is viewed through a different lens.
 
 In that sense, the Preliminary Report is the operation's ground truth. Every subsequent artifact either expands it, reframes it, or reveals the significance of facts it already contained. It teaches an important lesson that fits beautifully with your campaign's philosophy: the truth was present from the beginning—but it was not yet recognizable.
+
+## Canonical Relationships
+
+- [A-02 — Hal Whitaker Radio Recording](Hal-Whitaker-Radio-Recording.md)
+- [A-03 — David Barlow Financial Records](David-Barlow-Financial-Records.md)
+- [A-04 — Samantha Carter Field Journal](Samantha-Carter-Field-Journal.md)
+- [A-06 — Brooks Investigation Report](Brooks-Investigation-Report.md)
+- [LOC-10 — New Hartford Police Department](../locations/New-Hartford-Police-Department.md)
+- [PER-01 — Christopher Donnelly](../npcs/Christopher-Donnelly.md)
+- [PER-02 — Harold “Hal” Whitaker](../npcs/Harold-Whitaker.md)
+- [PER-03 — David Allen Barlow](../npcs/David-Barlow.md)
+- [PER-04 — Samantha Carter](../npcs/Samantha-Carter.md)
+- [PER-05 — Nathaniel “Nate” Collins](../npcs/Nathaniel-Collins.md)
+- [PER-06 — Elena Alvarez](../npcs/Elena-Alvarez.md)
+- [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
+- [PER-09 — Evan Brooks](../npcs/Evan-Brooks.md)

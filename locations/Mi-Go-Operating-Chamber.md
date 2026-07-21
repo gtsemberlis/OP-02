@@ -1,9 +1,28 @@
-# Mi Go Operating Chamber
+---
+id: LOC-14
+title: Mi-Go Operating Chamber
+type: location
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: locations/Mi-Go-Operating-Chamber.md
+related_objects:
+- LOC-08
+- LOC-11
+- LOC-12
+- LOC-13
+- PER-04
+- PER-08
+- PER-09
+- PER-16
+---
+
+# LOC-14 — Mi-Go Operating Chamber
 
 **LOCKED CANONICAL**
 
 Mi-Go Operating Chamber
-Where is it?
+## Where is it?
 
 The operating chamber lies deep beneath Hogsback State Forest, concealed within an ancient geological fracture inaccessible by ordinary exploration.
 
@@ -27,7 +46,7 @@ Nothing suggests decay.
 
 The chamber simply exists.
 
-What are the sights, sounds, and atmosphere?
+## What are the sights, sounds, and atmosphere?
 
 The investigators' first impression is silence.
 
@@ -261,3 +280,14 @@ Those are not the same thing.
 By the end of Episode 2, the players should understand what happened to the victims, why the disappearances cluster around Hogsback, why conventional searches failed, and why every institution reached the limits of its expertise. Those questions deserve satisfying answers.
 
 But if the players walk away believing they now understand the Mi-Go, I think the operation loses some of its enduring power. The chamber should close one mystery while opening a much larger one. That balance feels very true to both Delta Green and the tone you've established throughout the campaign.
+
+## Canonical Relationships
+
+- [LOC-08 — Mohawk Valley Community College](Mohawk-Valley-Community-College.md)
+- [LOC-11 — Search Command Post](Search-Command-Post.md)
+- [LOC-12 — Hogsback State Forest](Hogsback-State-Forest.md)
+- [LOC-13 — Hogsback Ranger Station](Hogsback-Ranger-Station.md)
+- [PER-04 — Samantha Carter](../npcs/Samantha-Carter.md)
+- [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
+- [PER-09 — Evan Brooks](../npcs/Evan-Brooks.md)
+- [PER-16 — Mi-Go Operative](../npcs/Mi-Go-Operative.md)

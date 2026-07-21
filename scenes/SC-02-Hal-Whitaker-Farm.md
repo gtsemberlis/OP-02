@@ -1,16 +1,35 @@
+---
+id: SC-02
+title: Hal Whitaker Farm
+type: scene
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: scenes/SC-02-Hal-Whitaker-Farm.md
+related_objects:
+- A-02
+- LOC-02
+- LOC-12
+- LOC-14
+- PER-01
+- PER-02
+- PER-04
+- PER-05
+- PER-07
+- PER-08
+- PER-13
+primary_location: LOC-02
+---
+
 # SC-02 — Hal Whitaker Farm
 
 **LOCKED CANONICAL**
 
-SC-02 — Hal Whitaker Farm
-Canonical Information
-Scene ID: SC-02
-Title: Hal Whitaker Farm
-Purpose:
+## Purpose
 Introduce Harold "Hal" Whitaker and the operation's first objective physical evidence of the anomalous radio phenomenon.
 The Whitaker Farm establishes disciplined observation as the foundation of the investigation and rewards investigators who approach the mystery scientifically rather than speculatively.
 
-Scene Overview
+## Scene Overview
 The Whitaker Farm is peaceful.
 Wind moves through open fields.
 Cattle graze behind weathered fences.
@@ -28,9 +47,9 @@ Yet beneath that ordinary routine lies the operation's first objective indicatio
 Unlike the other victims, Hal is not trying to explain what happened to him.
 He is trying to understand the signal that accompanied it.
 
-Location
-Reference
-LOC-03 — Hal Whitaker Farm
+## Location
+## Reference
+LOC-02 — Hal Whitaker Farm
 Common investigative areas include:
 Farmhouse
 Kitchen
@@ -41,7 +60,7 @@ Antenna tower
 Barn and surrounding property
 The amateur radio station serves as the intellectual center of the location.
 
-NPCs Present
+## NPCs Present
 Depending upon the timeline:
 Harold "Hal" Whitaker
 Rebecca Lawson (daughter)
@@ -50,7 +69,7 @@ Hal discusses evidence.
 Rebecca discusses her father.
 Together they illustrate both the scientific and emotional consequences of the disappearances.
 
-Artifacts Available
+## Artifacts Available
 Investigators may examine:
 Hal Whitaker Radio Recording
 Amateur radio logs
@@ -64,7 +83,7 @@ SDR recordings
 Antenna documentation
 These artifacts represent the operation's first substantial body of objective technical evidence.
 
-What Can The Investigators Learn?
+## What Can The Investigators Learn?
 This scene teaches investigators how to approach the mystery.
 Hal's Perspective
 Hal has spent decades distinguishing observations from conclusions.
@@ -117,7 +136,7 @@ Her concern eventually shifts away from the disappearance itself and toward the 
 Repeated interviews convince her that someone should be protecting her father rather than repeatedly questioning him.
 That concern eventually leads her to contact Chief Patrick O'Connor, creating subtle institutional tension later in the operation.
 
-What Can Happen In This Scene?
+## What Can Happen In This Scene?
 These are interactive outcomes rather than pieces of information.
 
 Interview Hal
@@ -145,22 +164,22 @@ Hal eagerly compares his observations with those of other investigators.
 He is particularly interested in recordings, measurements, and documented observations.
 He has little interest in theories unsupported by evidence.
 
-Scene Progression
-Initial Visit
+## Scene Progression
+### Initial Visit
 Hal treats the disappearance as secondary to the radio anomaly.
 Investigators leave with their first objective physical evidence that something measurable is occurring.
 
-Mid Investigation
+### Mid Investigation
 Hal's logs continue growing.
 He notices additional instances of unusual radio activity.
 His observations independently reinforce patterns emerging elsewhere in the investigation.
 
-Late Investigation
+### Late Investigation
 If Daniel Kowalski disappears or Samantha returns to Hogsback, Hal has already begun monitoring emergency frequencies and documenting related radio activity.
 His observations continue to corroborate the broader investigation without ever explaining it outright.
 Rebecca, meanwhile, has become noticeably more protective of her father and less trusting of repeated federal interviews.
 
-Handler Notes
+## Handler Notes
 Hal Whitaker's farm represents scientific observation.
 Where Christopher Donnelly seeks systems, Samantha Carter records experience, and Nathaniel Collins models information, Hal embodies disciplined empiricism. He does not speculate, embellish, or attempt to force extraordinary conclusions from incomplete evidence. He records exactly what he observes and allows those observations to stand on their own.
 This location quietly introduces one of the operation's defining investigative philosophies:
@@ -168,3 +187,17 @@ Patterns first. Stories later.
 The radio recording should never function as a hidden solution or a puzzle with a single correct interpretation. Instead, it becomes one component of an expanding body of corroborating evidence. Every artifact gathered elsewhere—Samantha's field observations, Nate's technical analyses, Daniel Kowalski's recordings, and later field measurements—makes Hal's work more meaningful, not because it reveals the answer, but because it reduces uncertainty.
 Hal also serves as the first victim to consciously question the improvements left behind by his disappearance. He recognizes that sleeping well, laughing more often, and living without grief are objectively beneficial changes. His concern lies elsewhere: the process that produced them. That distinction introduces one of Operation Carrier Wave's central moral questions long before investigators encounter its full implications.
 Unlike Christopher's residence, which teaches investigators how engineers solve problems, the Whitaker Farm teaches them how scientists confront the unknown. It establishes the intellectual discipline that underpins the remainder of the investigation.
+
+## Canonical Relationships
+
+- [A-02 — Hal Whitaker Radio Recording](../artifacts/Hal-Whitaker-Radio-Recording.md)
+- [LOC-02 — Hal Whitaker Farm](../locations/Hal-Whitaker-Farm.md)
+- [LOC-12 — Hogsback State Forest](../locations/Hogsback-State-Forest.md)
+- [LOC-14 — Mi-Go Operating Chamber](../locations/Mi-Go-Operating-Chamber.md)
+- [PER-01 — Christopher Donnelly](../npcs/Christopher-Donnelly.md)
+- [PER-02 — Harold “Hal” Whitaker](../npcs/Harold-Whitaker.md)
+- [PER-04 — Samantha Carter](../npcs/Samantha-Carter.md)
+- [PER-05 — Nathaniel “Nate” Collins](../npcs/Nathaniel-Collins.md)
+- [PER-07 — Patrick O’Connor](../npcs/Patrick-OConnor.md)
+- [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
+- [PER-13 — Rebecca Lawson](../npcs/Rebecca-Lawson.md)

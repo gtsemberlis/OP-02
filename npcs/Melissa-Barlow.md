@@ -1,4 +1,19 @@
-# Melissa Barlow
+---
+id: PER-14
+title: Melissa Barlow
+type: personnel
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: npcs/Melissa-Barlow.md
+related_objects:
+- PER-03
+- PER-16
+---
+
+# PER-14 — Melissa Barlow
+
+**LOCKED CANONICAL**
 
 > Status: LOCKED CANONICAL
 
@@ -177,7 +192,7 @@ Strong evidence that his criminal conduct was limited to financial misconduct ra
 
 Her testimony also helps separate Dave's understandable fear of legal consequences from the impossible circumstances surrounding the disappearances.
 
-Handler Notes
+## Handler Notes
 
 Melissa serves an important narrative purpose by preventing Dave from becoming either a stereotype or a red herring.
 
@@ -186,3 +201,8 @@ She neither idealizes nor condemns him. Instead, she presents a nuanced portrait
 Her interview also delivers one of the operation's most poignant realizations: Dave didn't become a different person before he disappeared—he became the person he had always wanted to be. That transformation is both beautiful and deeply unsettling because it raises the central question of Episode 2:
 
 If something can remove the parts of us that hurt ourselves and others... is the person left behind still us?
+
+## Canonical Relationships
+
+- [PER-03 — David Allen Barlow](David-Barlow.md)
+- [PER-16 — Mi-Go Operative](Mi-Go-Operative.md)

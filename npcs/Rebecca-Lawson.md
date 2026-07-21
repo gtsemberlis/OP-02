@@ -1,4 +1,23 @@
-# Rebecca Lawson
+---
+id: PER-13
+title: Rebecca Lawson
+type: personnel
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: npcs/Rebecca-Lawson.md
+related_objects:
+- PER-01
+- PER-02
+- PER-04
+- PER-05
+- PER-12
+- PER-16
+---
+
+# PER-13 — Rebecca Lawson
+
+**LOCKED CANONICAL**
 
 > Status: LOCKED CANONICAL
 
@@ -171,7 +190,7 @@ Her testimony is the strongest evidence that the victims' behavioral changes can
 
 Something fundamental about Hal's inner life had changed.
 
-Handler Notes
+## Handler Notes
 
 Rebecca's interview introduces one of the central themes of Episode 2:
 
@@ -182,3 +201,12 @@ Unlike Jennifer, who speaks about positive changes in general terms, Rebecca can
 That makes her testimony emotionally powerful without becoming melodramatic. She isn't mourning only her missing father—she's struggling with the realization that, shortly before he vanished, the grief that connected him to the memory of her mother simply ceased to exist. She doesn't know whether to be grateful for that gift or terrified by it, and neither do the investigators.
 
 I think this version makes Rebecca one of the most emotionally affecting supporting interviews in the operation. She gives the players their clearest glimpse into the ethical heart of the mystery: if the Unnatural can erase suffering, what else can it erase?
+
+## Canonical Relationships
+
+- [PER-01 — Christopher Donnelly](Christopher-Donnelly.md)
+- [PER-02 — Harold “Hal” Whitaker](Harold-Whitaker.md)
+- [PER-04 — Samantha Carter](Samantha-Carter.md)
+- [PER-05 — Nathaniel “Nate” Collins](Nathaniel-Collins.md)
+- [PER-12 — Jennifer Donnelly](Jennifer-Donnelly.md)
+- [PER-16 — Mi-Go Operative](Mi-Go-Operative.md)

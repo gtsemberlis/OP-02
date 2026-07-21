@@ -1,4 +1,18 @@
-# Nathaniel Collins
+---
+id: PER-05
+title: Nathaniel “Nate” Collins
+type: personnel
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: npcs/Nathaniel-Collins.md
+related_objects:
+- LOC-08
+---
+
+# PER-05 — Nathaniel “Nate” Collins
+
+**LOCKED CANONICAL**
 
 > Status: LOCKED CANONICAL NPC
 
@@ -23,7 +37,7 @@ Licensed Amateur Radio Operator (General Class)
 
 Club member for approximately eight years.
 
-Public Record
+## Public Record
 
 Nathaniel Collins was born in Utica, New York.
 
@@ -54,7 +68,7 @@ No known financial issues.
 
 Maintains an active amateur radio license with particular interest in digital communications and software-defined radio.
 
-Physical Description
+## Physical Description
 
 Height: 6'1"
 
@@ -78,7 +92,7 @@ Frequently wears noise-reducing earbuds while walking across campus, though rare
 
 Appears younger than his age.
 
-Biography
+## Biography
 
 Nathaniel has spent most of his professional life making technology invisible.
 
@@ -104,7 +118,7 @@ Within the amateur radio club he became the unofficial expert on digital modes, 
 
 Older members often joke that Nate can "make radios talk to computers."
 
-Private Context
+## Private Context
 
 Nathaniel has always found structured systems easier to navigate than unstructured social situations.
 
@@ -140,7 +154,7 @@ Frequently identifies patterns invisible to others.
 
 Occasionally becomes so focused on solving technical problems that he overlooks interpersonal dynamics.
 
-Communication Style
+## Communication Style
 
 Concise.
 
@@ -158,7 +172,7 @@ Dislikes speculation presented as fact.
 
 Frequently qualifies statements with confidence estimates.
 
-Under Pressure
+## Under Pressure
 
 Initially becomes quieter.
 
@@ -172,7 +186,7 @@ Can become cognitively overloaded if forced to make emotionally driven decisions
 
 Maintains remarkable composure during technical emergencies.
 
-Investigative Utility
+## Investigative Utility
 
 Nathaniel's professional responsibilities generate extensive documentation.
 
@@ -295,3 +309,7 @@ understand packet radio basics.
 Faculty and students universally describe the relationship as professional and appropriate.
 
 Nevertheless, after Victim #5 disappears and Nathaniel disappears shortly thereafter, investigators naturally identify him as a person of interest. Email correspondence, access logs, and witness statements establish that the two knew one another, creating a compelling—but ultimately false—investigative narrative. By the time Nathaniel also vanishes, that theory collapses, leaving investigators to reconsider the significance of their connection from an entirely different perspective.
+
+## Canonical Relationships
+
+- [LOC-08 — Mohawk Valley Community College](../locations/Mohawk-Valley-Community-College.md)

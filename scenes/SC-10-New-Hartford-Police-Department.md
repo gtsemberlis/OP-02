@@ -1,21 +1,33 @@
+---
+id: SC-10
+title: New Hartford Police Department
+type: scene
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: scenes/SC-10-New-Hartford-Police-Department.md
+related_objects:
+- LOC-01
+- LOC-10
+- LOC-12
+- PER-07
+- PER-08
+- PER-09
+- PER-13
+primary_location: LOC-10
+---
+
 # SC-10 — New Hartford Police Department
 
 **LOCKED CANONICAL**
 
-SC-10 — New Hartford Police Department
-Canonical Information
-
-Scene ID: SC-10
-
-Title: New Hartford Police Department
-
-Purpose:
+## Purpose
 
 Introduce Chief Patrick O'Connor and the local law enforcement investigation into the disappearances.
 
 The department provides investigators with the operational history of the case before federal involvement while demonstrating the enormous effort already invested by a competent police agency confronting an impossible mystery.
 
-Scene Overview
+## Scene Overview
 
 The New Hartford Police Department sits beside Town Hall in a modern municipal building.
 
@@ -55,9 +67,9 @@ The case isn't simply unsolved.
 
 It's unfinished.
 
-Location
+## Location
 
-Reference
+## Reference
 
 LOC-10 — New Hartford Police Department
 
@@ -75,7 +87,7 @@ The Operations Room serves as the operational heart of the local investigation.
 
 Unlike the FBI archive, everything here reflects an investigation still in motion.
 
-NPCs Present
+## NPCs Present
 
 Regular personnel include:
 
@@ -95,7 +107,7 @@ FBI personnel
 
 Every employee contributes a different piece of institutional memory.
 
-Artifacts Available
+## Artifacts Available
 
 Investigators may access:
 
@@ -115,7 +127,7 @@ Much of this duplicates the FBI's evidence.
 
 Its greatest value lies in the handwritten notes, annotations, and operational decisions preserved alongside the formal reports.
 
-What Can The Investigators Learn?
+## What Can The Investigators Learn?
 
 This scene demonstrates how a capable local police department responds when ordinary investigative methods reach their limits.
 
@@ -206,7 +218,7 @@ Because they feared another family would join the others waiting for answers.
 
 The investigators realize the disappearances have exhausted not only the victims' families, but the institutions trying to protect them.
 
-What Can Happen In This Scene?
+## What Can Happen In This Scene?
 
 These are interactive outcomes rather than pieces of information.
 
@@ -250,8 +262,8 @@ The investigation is no longer just another case.
 
 It has become part of the department's identity.
 
-Scene Progression
-Initial Visit
+## Scene Progression
+### Initial Visit
 
 The department welcomes the investigators.
 
@@ -259,7 +271,7 @@ O'Connor openly shares the history of the local investigation and provides acces
 
 Hope remains that fresh eyes may discover something previously overlooked.
 
-Mid Investigation
+### Mid Investigation
 
 New interview summaries appear.
 
@@ -271,7 +283,7 @@ Rebecca Whitaker contacts him, worried that repeated interviews are becoming har
 
 O'Connor now balances investigative necessity with the well-being of families he has known for years.
 
-Late Investigation
+### Late Investigation
 
 The atmosphere grows noticeably heavier.
 
@@ -307,7 +319,7 @@ Another pause.
 
 It is the closest he has come to admitting that ordinary policing may not be enough.
 
-Handler Notes
+## Handler Notes
 
 The New Hartford Police Department represents institutional commitment.
 
@@ -320,3 +332,13 @@ The department also reveals the cumulative cost of repeated investigations. Sear
 This scene reinforces another core principle of Operation Carrier Wave:
 
 The Unnatural does not triumph because institutions fail. It triumphs because it lies beyond the assumptions those institutions were built to test.
+
+## Canonical Relationships
+
+- [LOC-01 — FBI Field Office](../locations/FBI-Field-Office.md)
+- [LOC-10 — New Hartford Police Department](../locations/New-Hartford-Police-Department.md)
+- [LOC-12 — Hogsback State Forest](../locations/Hogsback-State-Forest.md)
+- [PER-07 — Patrick O’Connor](../npcs/Patrick-OConnor.md)
+- [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
+- [PER-09 — Evan Brooks](../npcs/Evan-Brooks.md)
+- [PER-13 — Rebecca Lawson](../npcs/Rebecca-Lawson.md)

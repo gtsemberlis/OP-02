@@ -1,4 +1,17 @@
-# Evan Brooks
+---
+id: PER-09
+title: Evan Brooks
+type: personnel
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: npcs/Evan-Brooks.md
+related_objects:
+- PER-05
+- PER-16
+---
+
+# PER-09 — Evan Brooks
 
 **LOCKED CANONICAL**
 
@@ -51,7 +64,7 @@ He is not trying to deceive anyone.
 
 His greatest weakness is believing every unexplained event belongs to the same underlying mystery.
 
-Background
+## Background
 
 Computer Science degree.
 
@@ -194,7 +207,7 @@ Ironically, both organizations collect genuine anomalous evidence.
 
 Only one possesses a rigorous methodology for evaluating it.
 
-Handler Notes
+## Handler Notes
 
 Brooks should never be portrayed as gullible or ridiculous.
 
@@ -205,3 +218,8 @@ His weakness is methodological rather than intellectual. He assumes that every u
 Investigators who dismiss him entirely may lose access to useful evidence.
 
 Investigators who rely on him uncritically risk following compelling but incorrect patterns.
+
+## Canonical Relationships
+
+- [PER-05 — Nathaniel “Nate” Collins](Nathaniel-Collins.md)
+- [PER-16 — Mi-Go Operative](Mi-Go-Operative.md)

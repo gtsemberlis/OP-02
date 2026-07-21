@@ -1,9 +1,28 @@
-# New Hartford Police Department
+---
+id: LOC-10
+title: New Hartford Police Department
+type: location
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: locations/New-Hartford-Police-Department.md
+related_objects:
+- LOC-12
+- PER-02
+- PER-05
+- PER-06
+- PER-07
+- PER-08
+- PER-09
+- PER-13
+---
+
+# LOC-10 — New Hartford Police Department
 
 **LOCKED CANONICAL**
 
 New Hartford Police Department
-Where is it?
+## Where is it?
 
 The New Hartford Police Department occupies a modern municipal building adjacent to Town Hall in New Hartford, New York.
 
@@ -13,7 +32,7 @@ Most of the disappearances were initially reported here before state and federal
 
 To the community, this is where people come when something has gone wrong.
 
-What are the sights, sounds, and atmosphere?
+## What are the sights, sounds, and atmosphere?
 
 Unlike the quiet professionalism of the FBI office, the police department feels constantly in motion.
 
@@ -343,3 +362,14 @@ For the investigators, the implication is obvious.
 The operation is no longer contained.
 
 Every new interview, every uploaded recording, every rumor shared online has created consequences that extend well beyond New Hartford.
+
+## Canonical Relationships
+
+- [LOC-12 — Hogsback State Forest](Hogsback-State-Forest.md)
+- [PER-02 — Harold “Hal” Whitaker](../npcs/Harold-Whitaker.md)
+- [PER-05 — Nathaniel “Nate” Collins](../npcs/Nathaniel-Collins.md)
+- [PER-06 — Elena Alvarez](../npcs/Elena-Alvarez.md)
+- [PER-07 — Patrick O’Connor](../npcs/Patrick-OConnor.md)
+- [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
+- [PER-09 — Evan Brooks](../npcs/Evan-Brooks.md)
+- [PER-13 — Rebecca Lawson](../npcs/Rebecca-Lawson.md)

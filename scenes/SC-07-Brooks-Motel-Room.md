@@ -1,21 +1,37 @@
-# SC-07 — Brooks' Motel Room
+---
+id: SC-07
+title: Brooks’ Motel Room
+type: scene
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: scenes/SC-07-Brooks-Motel-Room.md
+related_objects:
+- A-05
+- A-06
+- LOC-07
+- LOC-12
+- PER-01
+- PER-02
+- PER-03
+- PER-04
+- PER-05
+- PER-08
+- PER-09
+primary_location: LOC-07
+---
+
+# SC-07 — Brooks’ Motel Room
 
 **LOCKED CANONICAL**
 
-SC-07 — Brooks' Motel Room
-Canonical Information
-
-Scene ID: SC-07
-
-Title: Brooks' Motel Room
-
-Purpose:
+## Purpose
 
 Introduce Evan Brooks as an independent investigator whose greatest contribution is comparative analysis rather than privileged information.
 
 The motel room demonstrates how a disciplined civilian investigator can reconstruct much of the operation using only public information, while introducing historical parallels that encourage investigators to think beyond the current case.
 
-Scene Overview
+## Scene Overview
 
 From the parking lot, Brooks' room appears indistinguishable from every other motel room.
 
@@ -55,9 +71,9 @@ Given another week...
 
 ...their own temporary headquarters might begin looking very similar.
 
-Location
+## Location
 
-Reference
+## Reference
 
 LOC-07 — Brooks' Motel Room
 
@@ -76,7 +92,7 @@ Unlike every previous scene, the room contains almost no firsthand evidence.
 
 Its value lies entirely in how evidence has been organized.
 
-NPCs Present
+## NPCs Present
 
 Depending upon the timeline:
 
@@ -92,7 +108,7 @@ Brooks is neither hostile nor deferential.
 
 He assumes the investigators are simply pursuing the same questions through different institutions.
 
-Artifacts Available
+## Artifacts Available
 
 Investigators may discover:
 
@@ -111,7 +127,7 @@ The archive contains remarkably little secret information.
 
 Its strength comes from synthesis.
 
-What Can The Investigators Learn?
+## What Can The Investigators Learn?
 
 This scene demonstrates that independent investigators can reach many of the same conclusions through entirely different methods.
 
@@ -207,7 +223,7 @@ The annotations reinforce Brooks' greatest strength.
 
 He is willing to abandon ideas when evidence no longer supports them.
 
-What Can Happen In This Scene?
+## What Can Happen In This Scene?
 
 These are interactive outcomes rather than pieces of information.
 
@@ -260,8 +276,8 @@ Brooks never stops investigating.
 
 The only question is whether the investigators understand what he is learning.
 
-Scene Progression
-Initial Visit
+## Scene Progression
+### Initial Visit
 
 Brooks' room appears cluttered.
 
@@ -269,7 +285,7 @@ Closer examination reveals extraordinary organization.
 
 His work mirrors much of the official investigation despite relying almost entirely on public information.
 
-Mid Investigation
+### Mid Investigation
 
 Speculation gradually disappears.
 
@@ -281,7 +297,7 @@ Historical comparisons become increasingly precise.
 
 His investigation begins converging with the investigators' own conclusions from an entirely independent direction.
 
-Late Investigation
+### Late Investigation
 
 The motel room has become SaucerWatch's operational hub.
 
@@ -303,7 +319,7 @@ A pause.
 
 "I think we're finally seeing enough of it to recognize what it's always been."
 
-Handler Notes
+## Handler Notes
 
 Brooks' motel room represents comparative inquiry.
 
@@ -326,3 +342,17 @@ Brooks is not a Delta Green agent.
 He has no access to classified information, institutional authority, or historical archives.
 
 Yet through patience, intellectual honesty, and years of disciplined comparison, he independently approaches many of the same conclusions as the Program. In doing so, he becomes an uncomfortable mirror for the investigators—a reminder that truth is not the exclusive property of official institutions.
+
+## Canonical Relationships
+
+- [A-05 — Nate Collins SaucerWatch Report](../artifacts/Nate-Collins-SaucerWatch-Report.md)
+- [A-06 — Brooks Investigation Report](../artifacts/Brooks-Investigation-Report.md)
+- [LOC-07 — Brooks’ Motel Room](../locations/Brooks-Motel-Room.md)
+- [LOC-12 — Hogsback State Forest](../locations/Hogsback-State-Forest.md)
+- [PER-01 — Christopher Donnelly](../npcs/Christopher-Donnelly.md)
+- [PER-02 — Harold “Hal” Whitaker](../npcs/Harold-Whitaker.md)
+- [PER-03 — David Allen Barlow](../npcs/David-Barlow.md)
+- [PER-04 — Samantha Carter](../npcs/Samantha-Carter.md)
+- [PER-05 — Nathaniel “Nate” Collins](../npcs/Nathaniel-Collins.md)
+- [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
+- [PER-09 — Evan Brooks](../npcs/Evan-Brooks.md)

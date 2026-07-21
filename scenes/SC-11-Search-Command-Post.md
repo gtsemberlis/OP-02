@@ -1,21 +1,35 @@
+---
+id: SC-11
+title: Search Command Post
+type: scene
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: scenes/SC-11-Search-Command-Post.md
+related_objects:
+- LOC-10
+- LOC-11
+- LOC-12
+- LOC-13
+- PER-05
+- PER-06
+- PER-07
+- PER-08
+- PER-09
+primary_location: LOC-11
+---
+
 # SC-11 — Search Command Post
 
 **LOCKED CANONICAL**
 
-SC-11 — Search Command Post
-Canonical Information
-
-Scene ID: SC-11
-
-Title: Search Command Post
-
-Purpose:
+## Purpose
 
 Introduce the active county-wide search for Daniel Kowalski and demonstrate the scale, professionalism, and coordination of modern search-and-rescue operations.
 
 The Search Command Post shows investigators that every conventional resource has already been committed to the search, naturally preparing them for the realization that the solution cannot simply be "search harder."
 
-Scene Overview
+## Scene Overview
 
 The Search Command Post occupies the parking area surrounding the Hogsback Ranger Station.
 
@@ -53,9 +67,9 @@ They are witnessing a race against time.
 
 Every hour that passes reduces the probability of bringing Daniel Kowalski home alive.
 
-Location
+## Location
 
-Reference
+## Reference
 
 LOC-11 — Search Command Post
 
@@ -74,7 +88,7 @@ Unlike previous locations, nearly everything here is temporary.
 
 The command post evolves continuously as the search evolves.
 
-NPCs Present
+## NPCs Present
 
 Command personnel typically include:
 
@@ -99,7 +113,7 @@ Unlike every previous scene, no single individual dominates the location.
 
 The Command Post functions through coordination rather than authority.
 
-Artifacts Available
+## Artifacts Available
 
 Investigators may examine:
 
@@ -120,7 +134,7 @@ These documents rarely establish new facts.
 
 Instead, they demonstrate the remarkable thoroughness of the search itself.
 
-What Can The Investigators Learn?
+## What Can The Investigators Learn?
 
 This scene demonstrates the limits of conventional search operations.
 
@@ -211,7 +225,7 @@ The forest has already been searched extraordinarily well.
 
 The answer must lie somewhere beyond ordinary assumptions.
 
-What Can Happen In This Scene?
+## What Can Happen In This Scene?
 
 These are interactive outcomes rather than pieces of information.
 
@@ -251,8 +265,8 @@ The search cannot simply become larger.
 
 It must become different.
 
-Scene Progression
-Initial Visit
+## Scene Progression
+### Initial Visit
 
 The search is highly organized.
 
@@ -260,7 +274,7 @@ Confidence remains that disciplined effort will eventually locate Daniel.
 
 The investigators are welcomed as another potential source of useful information.
 
-Mid Investigation
+### Mid Investigation
 
 Maps grow increasingly crowded.
 
@@ -270,7 +284,7 @@ Fresh evidence from the investigators influences operational planning.
 
 The Command Post demonstrates remarkable flexibility without abandoning disciplined procedure.
 
-Late Investigation
+### Late Investigation
 
 The operation has reached its greatest scale.
 
@@ -314,7 +328,7 @@ Whatever comes next will not be accomplished by expanding the search.
 
 It will require understanding the forest in a way none of these institutions can.
 
-Handler Notes
+## Handler Notes
 
 The Search Command Post represents collective human effort.
 
@@ -329,3 +343,15 @@ This scene therefore marks a turning point in the operation.
 It reinforces one final investigative principle before the investigators enter the forest itself:
 
 When every conventional answer has been tested, progress requires asking a fundamentally different question.
+
+## Canonical Relationships
+
+- [LOC-10 — New Hartford Police Department](../locations/New-Hartford-Police-Department.md)
+- [LOC-11 — Search Command Post](../locations/Search-Command-Post.md)
+- [LOC-12 — Hogsback State Forest](../locations/Hogsback-State-Forest.md)
+- [LOC-13 — Hogsback Ranger Station](../locations/Hogsback-Ranger-Station.md)
+- [PER-05 — Nathaniel “Nate” Collins](../npcs/Nathaniel-Collins.md)
+- [PER-06 — Elena Alvarez](../npcs/Elena-Alvarez.md)
+- [PER-07 — Patrick O’Connor](../npcs/Patrick-OConnor.md)
+- [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
+- [PER-09 — Evan Brooks](../npcs/Evan-Brooks.md)

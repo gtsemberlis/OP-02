@@ -1,21 +1,35 @@
+---
+id: SC-14
+title: Mi-Go Operating Chamber
+type: scene
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: scenes/SC-14-Mi-Go-Operating-Chamber.md
+related_objects:
+- A-10
+- A-11
+- LOC-12
+- LOC-14
+- PER-04
+- PER-05
+- PER-08
+- PER-09
+- PER-16
+primary_location: LOC-14
+---
+
 # SC-14 — Mi-Go Operating Chamber
 
 **LOCKED CANONICAL**
 
-SC-14 — Mi-Go Operating Chamber
-Canonical Information
-
-Scene ID: SC-14
-
-Title: Mi-Go Operating Chamber
-
-Purpose:
+## Purpose
 
 Resolve the central mystery of the disappearances by revealing the Mi-Go operating chamber beneath Hogsback State Forest.
 
 The chamber confirms the investigators' conclusions while demonstrating that understanding what happened to the victims is not the same as understanding the intelligence responsible.
 
-Scene Overview
+## Scene Overview
 
 Hours of careful navigation finally bring the investigators to a place that does not belong beneath Hogsback State Forest.
 
@@ -59,9 +73,9 @@ The investigators have not discovered where monsters live.
 
 They have entered where something unimaginably advanced conducts ordinary work.
 
-Location
+## Location
 
-Reference
+## Reference
 
 LOC-14 — Mi-Go Operating Chamber
 
@@ -81,7 +95,7 @@ Human language lacks an adequate category.
 
 It is simply an operating environment.
 
-NPCs Present
+## NPCs Present
 
 Depending upon the investigators' approach:
 
@@ -95,7 +109,7 @@ The Mi-Go communicate only insofar as necessary to continue their work.
 
 Their priorities remain entirely unrelated to human expectations.
 
-Artifacts Available
+## Artifacts Available
 
 Investigators may encounter:
 
@@ -114,7 +128,7 @@ Unlike previous scenes, every artifact possesses uncertain meaning.
 
 Recognition always exceeds understanding.
 
-What Can The Investigators Learn?
+## What Can The Investigators Learn?
 
 This scene answers the investigation while preserving the mystery.
 
@@ -204,7 +218,7 @@ The chamber does not invalidate human knowledge.
 
 It demonstrates its boundaries.
 
-What Can Happen In This Scene?
+## What Can Happen In This Scene?
 
 These are interactive outcomes rather than pieces of information.
 
@@ -246,8 +260,8 @@ Once the interruption has been addressed, they simply return to work.
 
 This behavior often proves more disturbing than overt hostility.
 
-Scene Progression
-Arrival
+## Scene Progression
+### Arrival
 
 The investigators experience profound disorientation.
 
@@ -259,7 +273,7 @@ The chamber feels simultaneously ancient and active.
 
 Recognition arrives before comprehension.
 
-Exploration
+### Exploration
 
 Every observation confirms earlier investigative conclusions.
 
@@ -275,7 +289,7 @@ Everything converges.
 
 Each answer, however, produces larger questions.
 
-Confrontation
+### Confrontation
 
 Whether through observation, rescue attempts, or direct conflict, the investigators eventually force interaction with the Mi-Go.
 
@@ -285,7 +299,7 @@ Neither side is present for a final battle.
 
 Each simply has incompatible objectives.
 
-Departure
+### Departure
 
 Regardless of outcome, the investigators leave changed.
 
@@ -311,7 +325,7 @@ The mystery of Hogsback is solved.
 
 The mystery of the Mi-Go has barely begun.
 
-Handler Notes
+## Handler Notes
 
 The Mi-Go Operating Chamber represents the limits of human cognition.
 
@@ -338,3 +352,15 @@ The second is enduring:
 They still do not know what the Mi-Go are doing.
 
 That balance closes the mystery of Operation Carrier Wave while opening the much larger mystery that will continue throughout the campaign.
+
+## Canonical Relationships
+
+- [A-10 — Mi-Go Artifacts](../artifacts/Mi-Go-Artifacts.md)
+- [A-11 — Mi-Go Brain Cylinder](../artifacts/Mi-Go-Brain-Cylinder.md)
+- [LOC-12 — Hogsback State Forest](../locations/Hogsback-State-Forest.md)
+- [LOC-14 — Mi-Go Operating Chamber](../locations/Mi-Go-Operating-Chamber.md)
+- [PER-04 — Samantha Carter](../npcs/Samantha-Carter.md)
+- [PER-05 — Nathaniel “Nate” Collins](../npcs/Nathaniel-Collins.md)
+- [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
+- [PER-09 — Evan Brooks](../npcs/Evan-Brooks.md)
+- [PER-16 — Mi-Go Operative](../npcs/Mi-Go-Operative.md)

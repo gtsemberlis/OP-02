@@ -1,17 +1,34 @@
+---
+id: SC-12
+title: Forest Operations
+type: scene
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: scenes/SC-12-Forest-Operations.md
+related_objects:
+- A-04
+- A-08
+- A-09
+- HT-01
+- LOC-12
+- LOC-14
+- PER-04
+- PER-08
+- PER-16
+primary_location: LOC-12
+---
+
 # SC-12 — Forest Operations
 
 **LOCKED CANONICAL**
 
-SC-12 — Forest Operations
-Canonical Information
-Scene ID: SC-12
-Title: Forest Operations
-Purpose:
+## Purpose
 Provide the operation's primary investigative sandbox within Hogsback State Forest.
 Investigators may conduct environmental surveys, participate in search operations, recover evidence, follow emerging leads, coordinate with outside agencies, and attempt to locate the Mi-Go Operating Chamber.
 Any attempt to locate the chamber is resolved using HT-01 — Locating the Mi-Go Chamber.
 
-Scene Overview
+## Scene Overview
 Hogsback State Forest is not a single encounter.
 It is an evolving operational environment.
 Each visit reflects everything the investigators have learned—and everything other people have done since their last trip.
@@ -29,9 +46,9 @@ The forest itself never changes.
 People do.
 Every return visit reveals another stage of humanity's attempt to understand a place that refuses to behave entirely as expected.
 
-Location
-Reference
-LOC-09 — Hogsback State Forest
+## Location
+## Reference
+LOC-12 — Hogsback State Forest
 This scene may occur anywhere within Hogsback State Forest.
 Common operational areas include:
 Main trailheads
@@ -43,7 +60,7 @@ Active search sectors
 Temporary observation posts
 The forest rewards patient observation rather than interrogation.
 
-NPCs Present
+## NPCs Present
 The forest is populated dynamically according to the investigation's current state.
 Possible encounters include:
 Daniel Kowalski (before his disappearance)
@@ -57,7 +74,7 @@ News media
 Curious civilians
 If investigators locate the operating chamber, they may encounter the Mi-Go Operative.
 
-Artifacts Available
+## Artifacts Available
 The forest rarely provides complete answers.
 Instead, investigators recover fragments that gain meaning when compared with evidence gathered elsewhere.
 Potential discoveries include:
@@ -77,7 +94,7 @@ Daniel Kowalski's Final Radio Transmission
 Daniel Kowalski's Ranger Radio
 provide investigators with additional ways to interpret what they observe in the field.
 
-What Can The Investigators Learn?
+## What Can The Investigators Learn?
 The forest rewards comparison rather than isolated discovery.
 Environmental Patterns
 Investigators begin recognizing recurring terrain features.
@@ -112,7 +129,7 @@ Each search.
 Reduces uncertainty.
 Attempts to locate the Mi-Go Operating Chamber should always be resolved using HT-01 — Locating the Mi-Go Chamber.
 
-What Can Happen In This Scene?
+## What Can Happen In This Scene?
 This scene is intentionally open-ended.
 Investigators decide how they explore the forest.
 Possible activities include:
@@ -157,25 +174,37 @@ surprise—or be surprised by—the Mi-Go;
 discover the chamber after it has been abandoned.
 Discovery should emerge from disciplined investigation rather than a single successful Search roll.
 
-Scene Progression
+## Scene Progression
 Early Investigation
 The forest feels peaceful.
 Searches are informal.
 Most investigators assume a conventional explanation remains likely.
 
-Mid Investigation
+### Mid Investigation
 Patterns begin emerging.
 Radio interference becomes increasingly significant.
 Multiple independent investigations begin overlapping.
 The forest grows busier without becoming any less mysterious.
 
-Late Investigation
+### Late Investigation
 Organized search operations dominate the landscape.
 Professional responders, volunteers, SaucerWatch, and investigators all occupy the same environment while pursuing different objectives.
 The forest has become the center of the operation.
 
-Handler Notes
+## Handler Notes
 Forest Operations is the campaign's primary investigative sandbox.
 It should never become a sequence of repeated Search rolls or random encounters. Instead, each visit should reflect the investigators' growing understanding of Hogsback and the consequences of previous decisions. New evidence appears because people continue searching, victims continue making choices, and the investigation itself reshapes the operational environment.
 Most importantly, the forest should reward synthesis rather than persistence. Investigators do not find the Mi-Go Operating Chamber because they searched longer than everyone else. They find it because they have learned to interpret Hogsback differently than everyone else.
 HT-01 — Locating the Mi-Go Chamber exists to support this philosophy. The Handler should think in terms of reducing uncertainty rather than rewarding fortunate die rolls. Every meaningful artifact, interview, and observation gives the investigators new ways of seeing the forest, until the operating chamber ceases to be hidden—not because it has changed, but because the investigators have.
+
+## Canonical Relationships
+
+- [A-04 — Samantha Carter Field Journal](../artifacts/Samantha-Carter-Field-Journal.md)
+- [A-08 — Daniel Kowalski Ranger Radio](../artifacts/Daniel-Kowalski-Ranger-Radio.md)
+- [A-09 — Daniel Kowalski Final Radio Transmission](../artifacts/Daniel-Kowalski-Final-Radio-Transmission.md)
+- [HT-01 — Locating the Mi-Go Chamber](../handlers-aid/HT-01-Progressive-Search.md)
+- [LOC-12 — Hogsback State Forest](../locations/Hogsback-State-Forest.md)
+- [LOC-14 — Mi-Go Operating Chamber](../locations/Mi-Go-Operating-Chamber.md)
+- [PER-04 — Samantha Carter](../npcs/Samantha-Carter.md)
+- [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
+- [PER-16 — Mi-Go Operative](../npcs/Mi-Go-Operative.md)

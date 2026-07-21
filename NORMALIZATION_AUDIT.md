@@ -1,23 +1,30 @@
-# OP-01 Repository Normalization Audit
+# OP-02 Repository Normalization Audit
 
-- UUID-bearing objects: 51
-- Duplicate UUIDs: 0
-- Non-canonical/unpublished objects: 0
-- Remaining population placeholders: 0
+- Canonical objects: 57
+- Duplicate stable IDs: 0
+- Broken Markdown links: 0
+- Unresolved canonical ID references: 0
 
 ## Result
 
-PASS — repository is normalized and ready for final release validation.
+PASS — repository normalization completed with no detected dead links or unresolved canonical IDs.
 
-## Non-canonical Objects
+## Directory Cleanup
+
+- Removed embedded `.git` history from distribution archive.
+- Removed placeholder files.
+- Removed obsolete derived-publication directories (`canonical_manuscript/`, `hde-shell/`).
+- Removed noncanonical duplicate location `locations/The-Park.md`.
+- Standardized `handlers-aid/` as the Handler Tool directory.
+
+## Duplicate IDs
 
 - None
 
-## Remaining Placeholder Files
+## Broken Markdown Links
 
 - None
 
+## Unresolved Canonical ID References
 
-## RC-3E Derived Publication Warning
-
-The files under `canonical_manuscript/` and `hde-shell/` predate RC-3E and may retain obsolete witness names until those publications are regenerated from the Source Edition. Canonical source objects in `npcs/`, `scenes/`, `handouts/`, and `handler_tools/` are authoritative.
+- None

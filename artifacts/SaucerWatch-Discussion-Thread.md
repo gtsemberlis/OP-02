@@ -1,9 +1,26 @@
-# SaucerWatch Discussion Thread
+---
+id: A-07
+title: SaucerWatch Discussion Thread
+type: artifact
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: artifacts/SaucerWatch-Discussion-Thread.md
+related_objects:
+- LOC-12
+- PER-02
+- PER-04
+- PER-05
+- PER-08
+- PER-09
+---
+
+# A-07 — SaucerWatch Discussion Thread
 
 **LOCKED CANONICAL**
 
 Artifact: SaucerWatch Discussion Thread
-Description
+## Description
 
 The SaucerWatch discussion thread is not a single webpage but an evolving collection of online discussions spanning multiple platforms.
 
@@ -35,7 +52,7 @@ Investigators encounter it through independent internet research, open-source in
 
 The discussion continues evolving throughout the operation.
 
-Who Possesses It?
+## Who Possesses It?
 
 No one.
 
@@ -45,7 +62,7 @@ Brooks actively participates under his SaucerWatch account and archives signific
 
 Deleted posts, moderator actions, edited comments, and reposts mean no two investigators necessarily see the discussion in exactly the same state.
 
-Where Is It Found?
+## Where Is It Found?
 
 The discussion is discovered through ordinary internet research.
 
@@ -63,7 +80,7 @@ quickly lead investigators toward the thread.
 
 Brooks may also direct cooperative investigators toward specific discussions he believes deserve attention.
 
-Initial Interpretation
+## Initial Interpretation
 
 The thread initially appears almost worthless.
 
@@ -88,7 +105,7 @@ Others attempt to identify victims, speculate about government involvement, or e
 
 At first glance, the discussion appears to generate far more confusion than useful information.
 
-Further Examination
+## Further Examination
 Open Source Intelligence (OSINT)
 
 A systematic review reveals that, despite overwhelming noise, independent witnesses occasionally report observations before they become public knowledge.
@@ -143,7 +160,7 @@ None even agree on what occurred.
 
 Yet each independently preserves small fragments of observations strikingly similar to evidence collected during the current investigation.
 
-Relationships
+## Relationships
 
 The thread gradually connects to multiple artifacts throughout the operation.
 
@@ -158,7 +175,7 @@ Environmental observations later corroborated by Samantha Carter's journal.
 
 Unlike Brooks' archive, these connections emerge accidentally through hundreds of unrelated contributors rather than deliberate investigation.
 
-Investigation Impact
+## Investigation Impact
 
 The SaucerWatch thread demonstrates both the strengths and weaknesses of collective intelligence.
 
@@ -194,7 +211,7 @@ Investigators who believe it uncritically become lost in misinformation.
 
 Success depends upon separating signal from noise.
 
-Changes Over Time
+## Changes Over Time
 
 The discussion evolves continuously throughout the operation.
 
@@ -218,7 +235,7 @@ If Brooks remains active, he occasionally intervenes to redirect discussions tow
 
 Deleted posts, moderator actions, and account removals ensure the thread remains a constantly changing source rather than a permanent record.
 
-Handler Notes
+## Handler Notes
 
 The SaucerWatch thread exists to illustrate that the internet is neither an oracle nor a cesspool—it is both simultaneously.
 
@@ -243,3 +260,12 @@ Truth does not become less true simply because it appears alongside nonsense.
 Likewise, nonsense does not become true simply because thousands of people repeat it.
 
 The investigators' responsibility is to distinguish between the two.
+
+## Canonical Relationships
+
+- [LOC-12 — Hogsback State Forest](../locations/Hogsback-State-Forest.md)
+- [PER-02 — Harold “Hal” Whitaker](../npcs/Harold-Whitaker.md)
+- [PER-04 — Samantha Carter](../npcs/Samantha-Carter.md)
+- [PER-05 — Nathaniel “Nate” Collins](../npcs/Nathaniel-Collins.md)
+- [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
+- [PER-09 — Evan Brooks](../npcs/Evan-Brooks.md)

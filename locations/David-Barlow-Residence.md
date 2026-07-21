@@ -1,9 +1,24 @@
-# David Barlow Residence
+---
+id: LOC-03
+title: David Barlow Residence
+type: location
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: locations/David-Barlow-Residence.md
+related_objects:
+- LOC-12
+- PER-02
+- PER-03
+- PER-04
+---
+
+# LOC-03 — David Barlow Residence
 
 **LOCKED CANONICAL**
 
 David Allen Barlow Residence
-Where is it?
+## Where is it?
 
 David lives alone in a modest suburban ranch house on a quiet residential street in Rome, New York, approximately twenty minutes from Hogsback State Forest.
 
@@ -11,7 +26,7 @@ The neighborhood consists of well-kept middle-class homes built in the 1960s and
 
 Nothing about David's house initially stands out except that the blinds are usually drawn, even during daylight.
 
-What are the sights, sounds, and atmosphere?
+## What are the sights, sounds, and atmosphere?
 
 The house feels occupied but withdrawn.
 
@@ -234,3 +249,10 @@ David's residence represents the human need to rationalize the irrational.
 Unlike Hal Whitaker, who responds by carefully documenting observable facts, or Samantha Carter, who becomes determined to seek answers, David responds by constructing a comforting explanation that fits within his existing understanding of the world. His meticulously organized home becomes a visual metaphor for that effort. Every labeled folder, balanced account, and carefully filed receipt reflects an attempt to restore order after an experience that fundamentally defied it.
 
 His growing hypervigilance should never be portrayed as villainy or instability. The revolver on a second visit is not the symbol of an armed antagonist—it is the quiet admission that, somewhere beneath all of David's rationalizations, part of him knows the world is no longer as safe or comprehensible as it once seemed. He cannot articulate that truth, so he prepares for it in the only way he knows how.
+
+## Canonical Relationships
+
+- [LOC-12 — Hogsback State Forest](Hogsback-State-Forest.md)
+- [PER-02 — Harold “Hal” Whitaker](../npcs/Harold-Whitaker.md)
+- [PER-03 — David Allen Barlow](../npcs/David-Barlow.md)
+- [PER-04 — Samantha Carter](../npcs/Samantha-Carter.md)

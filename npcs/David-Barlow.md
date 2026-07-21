@@ -1,4 +1,17 @@
-# David Barlow
+---
+id: PER-03
+title: David Allen Barlow
+type: personnel
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: npcs/David-Barlow.md
+related_objects: []
+---
+
+# PER-03 — David Allen Barlow
+
+**LOCKED CANONICAL**
 
 > Status: LOCKED CANONICAL NPC
 
@@ -27,7 +40,7 @@ Licensed Amateur Radio Operator (General Class)
 
 Club member for approximately fifteen years.
 
-Public Record
+## Public Record
 
 David Barlow was born in Herkimer, New York.
 
@@ -53,7 +66,7 @@ Several civil disputes involving unpaid invoices and contract disagreements, all
 
 Financial records indicate moderate business debt consistent with a small contracting company.
 
-Physical Description
+## Physical Description
 
 Height: 5'11"
 
@@ -75,7 +88,7 @@ Usually wears work boots, jeans, company polo shirts, and a faded baseball cap.
 
 Often smells faintly of refrigerant oil and cigarette smoke.
 
-Biography
+## Biography
 
 Dave built his business through reputation rather than advertising.
 
@@ -97,7 +110,7 @@ Unlike many club members, Dave enjoys the social side as much as the technical a
 
 He is often the first to volunteer when equipment needs transporting, towers need erecting, or Field Day requires logistics.
 
-Private Context
+## Private Context
 
 Dave's business has quietly struggled for years.
 
@@ -157,7 +170,7 @@ Very good at reading people.
 
 Prefers action over discussion.
 
-Communication Style
+## Communication Style
 
 Friendly.
 
@@ -173,7 +186,7 @@ Good at putting nervous people at ease.
 
 Rarely uses technical jargon unless speaking with another tradesperson.
 
-Under Pressure
+## Under Pressure
 
 Initially becomes more energetic.
 
@@ -197,7 +210,7 @@ Importantly, Dave is not violent by nature.
 
 His poor decisions come from fear rather than malice.
 
-Investigative Utility
+## Investigative Utility
 
 Dave possesses an extensive practical knowledge of the region.
 
@@ -335,3 +348,7 @@ In fact, one of the strongest indicators that rapport has been established is th
 After a long silence:
 
 "I never should've bought it."
+
+## Canonical Relationships
+
+_None._

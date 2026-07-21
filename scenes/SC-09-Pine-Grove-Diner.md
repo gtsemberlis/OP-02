@@ -1,21 +1,33 @@
+---
+id: SC-09
+title: Pine Grove Diner
+type: scene
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: scenes/SC-09-Pine-Grove-Diner.md
+related_objects:
+- LOC-09
+- LOC-12
+- PER-02
+- PER-04
+- PER-05
+- PER-08
+- PER-10
+primary_location: LOC-09
+---
+
 # SC-09 — Pine Grove Diner
 
 **LOCKED CANONICAL**
 
-SC-09 — Pine Grove Diner
-Canonical Information
-
-Scene ID: SC-09
-
-Title: Pine Grove Diner
-
-Purpose:
+## Purpose
 
 Introduce Richard "Rick" Holloway, president of the Mohawk Valley Amateur Radio Club, and provide investigators with the community perspective on the disappearances.
 
 The Pine Grove Diner demonstrates that the victims were connected through ordinary friendship rather than secret conspiracy, while showing how an entire community quietly adapts to repeated tragedy.
 
-Scene Overview
+## Scene Overview
 
 The Pine Grove Diner sits just outside New Hartford along the highway leading toward Hogsback State Forest.
 
@@ -55,9 +67,9 @@ Within minutes, someone quietly points toward a booth.
 
 "You're probably looking for Rick."
 
-Location
+## Location
 
-Reference
+## Reference
 
 LOC-09 — Pine Grove Diner
 
@@ -74,7 +86,7 @@ Unlike previous scenes, the diner contains very little physical evidence.
 
 Its information exists almost entirely in memory and conversation.
 
-NPCs Present
+## NPCs Present
 
 Regular occupants include:
 
@@ -97,7 +109,7 @@ Unlike most locations, the cast changes naturally over time.
 
 The diner evolves with the investigation.
 
-Artifacts Available
+## Artifacts Available
 
 Investigators may discover:
 
@@ -116,7 +128,7 @@ Individually these artifacts are mundane.
 
 Collectively they document how an ordinary community responds to extraordinary events.
 
-What Can The Investigators Learn?
+## What Can The Investigators Learn?
 
 This scene demonstrates that shared community is not evidence of conspiracy.
 
@@ -225,7 +237,7 @@ Instead, she quietly recalls details everyone else has forgotten.
 
 Her observations help investigators reconstruct ordinary routines that disappeared alongside the victims.
 
-What Can Happen In This Scene?
+## What Can Happen In This Scene?
 
 These are interactive outcomes rather than pieces of information.
 
@@ -269,14 +281,14 @@ Trust develops naturally.
 
 The diner quietly becomes an extension of the investigation.
 
-Scene Progression
-Initial Visit
+## Scene Progression
+### Initial Visit
 
 Rick provides the investigators with the human history of the Amateur Radio Club.
 
 The disappearances still feel like individual tragedies.
 
-Mid Investigation
+### Mid Investigation
 
 Conversations increasingly focus on Hogsback.
 
@@ -286,7 +298,7 @@ Community optimism begins fading into quiet resignation.
 
 The investigators become familiar faces rather than outsiders.
 
-Late Investigation
+### Late Investigation
 
 SaucerWatch has arrived.
 
@@ -308,7 +320,7 @@ A pause.
 
 "I'd rather have my old customers back."
 
-Handler Notes
+## Handler Notes
 
 The Pine Grove Diner represents community memory.
 
@@ -323,3 +335,13 @@ This scene reinforces another core principle of Operation Carrier Wave:
 Shared interests are not evidence of conspiracy.
 
 Investigators should leave the Pine Grove with fewer theories and a deeper appreciation for what has actually been lost. The disappearances are not merely interruptions in a timeline or entries in a case file. They are absences in a community. Rick notices them every time he looks at the club's attendance sheet. Maggie notices them every morning when familiar customers fail to walk through the door. That quiet accumulation of absence gives the investigation its emotional weight.
+
+## Canonical Relationships
+
+- [LOC-09 — Pine Grove Diner](../locations/Pine-Grove-Diner.md)
+- [LOC-12 — Hogsback State Forest](../locations/Hogsback-State-Forest.md)
+- [PER-02 — Harold “Hal” Whitaker](../npcs/Harold-Whitaker.md)
+- [PER-04 — Samantha Carter](../npcs/Samantha-Carter.md)
+- [PER-05 — Nathaniel “Nate” Collins](../npcs/Nathaniel-Collins.md)
+- [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
+- [PER-10 — Richard “Rick” Holloway](../npcs/Rick-Holloway.md)

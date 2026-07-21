@@ -1,9 +1,22 @@
-# rtifact: Mi-Go Artifacts
+---
+id: A-10
+title: Mi-Go Artifacts
+type: artifact
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: artifacts/Mi-Go-Artifacts.md
+related_objects:
+- LOC-14
+- PER-16
+---
+
+# A-10 — Mi-Go Artifacts
 
 **LOCKED CANONICAL**
 
 rtifact: Mi-Go Artifacts
-Description
+## Description
 
 Scattered throughout the Mi-Go operating chamber are dozens of objects that investigators immediately recognize as manufactured.
 
@@ -29,7 +42,7 @@ No markings, language, labels, or symbols identify their purpose.
 
 The collection appears less like a cache of exotic treasures than the ordinary equipment of an active workplace.
 
-Who Possesses It?
+## Who Possesses It?
 
 The Mi-Go.
 
@@ -39,7 +52,7 @@ Investigators may recover individual objects if circumstances permit, though doi
 
 Recovered objects become Program property following the operation.
 
-Where Is It Found?
+## Where Is It Found?
 
 Artifacts are distributed naturally throughout the operating chamber.
 
@@ -51,7 +64,7 @@ Several appear abandoned temporarily rather than deliberately stored.
 
 Nothing suggests the Mi-Go consider these objects especially valuable.
 
-Initial Interpretation
+## Initial Interpretation
 
 Investigators immediately recognize that every object is artificial.
 
@@ -63,7 +76,7 @@ The objects feel purposeful.
 
 Just not interpretable.
 
-Further Examination
+## Further Examination
 Materials Science
 
 The recovered materials demonstrate combinations of strength, flexibility, density, and thermal behavior inconsistent with known terrestrial manufacturing.
@@ -123,7 +136,7 @@ If these are merely ordinary tools...
 
 what would extraordinary Mi-Go technology look like?
 
-Relationships
+## Relationships
 
 The artifacts reinforce the broader understanding established by the operating chamber.
 
@@ -139,7 +152,7 @@ the neurological equipment is only one part of a much larger technological ecosy
 
 Recovered artifacts may later become Program research subjects, though no immediate operational value is apparent.
 
-Investigation Impact
+## Investigation Impact
 
 Unlike most artifacts in the operation, Mi-Go Artifacts answer remarkably few questions.
 
@@ -161,7 +174,7 @@ Every recovered object represents an opportunity for future comparative analysis
 
 Today's incomprehensible artifact may become tomorrow's point of recognition in another operation.
 
-Changes Over Time
+## Changes Over Time
 
 The artifacts themselves do not change.
 
@@ -177,7 +190,7 @@ Not because they understand them.
 
 Because someday they might.
 
-Handler Notes
+## Handler Notes
 
 Mi-Go Artifacts exist to reinforce one of the operation's most important philosophical principles:
 
@@ -214,3 +227,8 @@ Not weapons.
 Not rewards.
 
 Evidence.
+
+## Canonical Relationships
+
+- [LOC-14 — Mi-Go Operating Chamber](../locations/Mi-Go-Operating-Chamber.md)
+- [PER-16 — Mi-Go Operative](../npcs/Mi-Go-Operative.md)

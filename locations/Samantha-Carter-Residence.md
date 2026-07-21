@@ -1,15 +1,31 @@
-# Samantha Carter Residence
+---
+id: LOC-05
+title: Samantha Carter Residence
+type: location
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: locations/Samantha-Carter-Residence.md
+related_objects:
+- LOC-08
+- LOC-12
+- LOC-14
+- PER-04
+- PER-16
+---
+
+# LOC-05 — Samantha Carter Residence
 
 **LOCKED CANONICAL**
 
 Samantha Carter Residence
-Where is it?
+## Where is it?
 
 A modest single-family home in a quiet residential neighborhood in Utica, approximately fifteen minutes from Mohawk Valley Community College.
 
 The house sits on a tree-lined street of similar homes. Flower beds border the front walkway. A small American flag hangs from the porch in late June, part of the neighborhood's preparations for Independence Day. Neighbors quietly watch unfamiliar vehicles from their windows. Everyone knows what happened to Samantha.
 
-What are the sights, sounds, and atmosphere?
+## What are the sights, sounds, and atmosphere?
 
 The Carter residence feels warm, comfortable, and unmistakably lived in.
 
@@ -173,3 +189,11 @@ The emotional purpose of Samantha's residence is not to reveal the mystery.
 It is to establish what is at stake.
 
 Every detail should reinforce that Samantha is an ordinary young woman with an ordinary life—family photographs, unfinished coursework, ticket stubs, borrowed library books, and plans for the future. If the operation ultimately reaches the Mi-Go operating chamber and the investigators find a biological cylinder labeled SAMANTHA CARTER, the horror comes not from the cylinder itself, but from the realization that they have already stood in her room, seen the life she expected to continue, and now understand how completely that ordinary world has collided with something profoundly alien.
+
+## Canonical Relationships
+
+- [LOC-08 — Mohawk Valley Community College](Mohawk-Valley-Community-College.md)
+- [LOC-12 — Hogsback State Forest](Hogsback-State-Forest.md)
+- [LOC-14 — Mi-Go Operating Chamber](Mi-Go-Operating-Chamber.md)
+- [PER-04 — Samantha Carter](../npcs/Samantha-Carter.md)
+- [PER-16 — Mi-Go Operative](../npcs/Mi-Go-Operative.md)

@@ -1,9 +1,32 @@
-# Samantha Carter's Field Journal
+---
+id: A-04
+title: Samantha Carter Field Journal
+type: artifact
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: artifacts/Samantha-Carter-Field-Journal.md
+related_objects:
+- A-02
+- LOC-05
+- LOC-08
+- LOC-12
+- PER-01
+- PER-02
+- PER-03
+- PER-04
+- PER-05
+- PER-08
+- PER-09
+- PER-16
+---
+
+# A-04 — Samantha Carter Field Journal
 
 **LOCKED CANONICAL**
 
 Artifact: Samantha Carter's Field Journal
-Description
+## Description
 
 A well-used 7" × 10" hardcover notebook bound in faded pea-green textile.
 
@@ -33,7 +56,7 @@ Nate Collins is mentioned regularly as a mentor and sounding board.
 
 Their relationship is consistently portrayed as academic, collaborative, and entirely appropriate.
 
-Who Possesses It?
+## Who Possesses It?
 
 Samantha Carter.
 
@@ -47,7 +70,7 @@ Persuading her to share it requires establishing trust or demonstrating that the
 
 Alternatively, investigators might obtain the journal without permission, though doing so risks damaging their relationship with Samantha.
 
-Where Is It Found?
+## Where Is It Found?
 
 Most commonly:
 
@@ -57,7 +80,7 @@ On her person while hiking.
 
 If investigators resort to covert methods, the notebook is small enough to steal or discreetly photograph, though Samantha is observant enough that she may eventually notice it has been disturbed.
 
-Initial Interpretation
+## Initial Interpretation
 
 The journal immediately humanizes Samantha.
 
@@ -89,7 +112,7 @@ Nothing identifies the location explicitly.
 
 At first glance, it appears to be an abandoned line of inquiry.
 
-Further Examination
+## Further Examination
 
 The journal rewards careful interdisciplinary analysis rather than any single expertise.
 
@@ -139,7 +162,7 @@ If anything, Samantha becomes more methodical as events grow stranger.
 
 This greatly increases the credibility of her observations.
 
-Relationships
+## Relationships
 
 The journal quietly connects much of the investigation.
 
@@ -164,7 +187,7 @@ The journal does not reveal the Mi-Go chamber.
 
 It gradually teaches investigators where not to search.
 
-Investigation Impact
+## Investigation Impact
 
 The journal advances the investigation in two distinct ways.
 
@@ -196,7 +219,7 @@ She simply observes.
 
 As the investigation progresses, the notebook quietly evolves into a parallel investigation conducted entirely by Samantha herself.
 
-Changes Over Time
+## Changes Over Time
 
 Unlike most artifacts, Samantha's Field Journal is dynamic.
 
@@ -212,7 +235,7 @@ If Samantha disappears before the notebook is recovered, the journal instead bec
 
 Its unfinished pages become far more poignant than any completed explanation could have been.
 
-Handler Notes
+## Handler Notes
 
 Samantha's Field Journal is designed to reward one of the operation's central themes:
 
@@ -236,14 +259,14 @@ Instead, it should demonstrate that patient, disciplined observation can carry a
 
 I also really like the fact that this becomes the only artifact in the operation that evolves over time. That gives the Handler a subtle but powerful tool: each revisit to Samantha or her notebook can reveal another page of her investigation. It reinforces one of your locked principles—investigators create consequences simply by asking questions. By involving Samantha, they don't just learn from her observations; they inspire her to continue investigating, which in turn creates new evidence, new risks, and potentially new consequences.
 
-Regenerate, I would add one specific detail. On 7/2 Samantha notes her resolve to go back to "where it happened". There is a list of thoughtful, but somewhat alarming, gear for a wilderness "survival" situation which is not her typical style of hike. 
+Regenerate, I would add one specific detail. On 7/2 Samantha notes her resolve to go back to "where it happened". There is a list of thoughtful, but somewhat alarming, gear for a wilderness "survival" situation which is not her typical style of hike.
 
 I like that addition a lot because it transforms the notebook from a static source of clues into a piece of dramatic irony. If the investigators recover it before July 2, it's simply a record of careful observation. If they recover it on or after July 2, it becomes evidence that Samantha was preparing to knowingly place herself back in danger.
 
 I'd also make one small philosophical adjustment. Rather than saying the journal "is alive," I'd say its evidentiary value changes over time. The journal itself isn't dynamic in a supernatural sense—Samantha is. That keeps the emphasis on character rather than gimmick.
 
 Artifact: Samantha Carter's Field Journal
-Description
+## Description
 
 A well-used 7" × 10" hardcover notebook bound in faded pea-green textile.
 
@@ -271,7 +294,7 @@ Occasional reflections appear between technical entries. These are thoughtful ra
 
 Nate Collins appears frequently throughout the notebook as a mentor, collaborator, and trusted source of technical advice. Nothing in the journal suggests an inappropriate relationship.
 
-Who Possesses It?
+## Who Possesses It?
 
 Samantha Carter.
 
@@ -283,7 +306,7 @@ Establishing trust—or demonstrating genuine interest in her observations—is 
 
 Investigators could obtain it without her knowledge, but doing so risks permanently damaging their relationship with her if discovered.
 
-Where Is It Found?
+## Where Is It Found?
 
 The notebook is most commonly found:
 
@@ -293,7 +316,7 @@ In her hiking pack during field excursions.
 
 Because Samantha carries it so consistently, investigators often have only brief opportunities to examine it unless she willingly cooperates.
 
-Initial Interpretation
+## Initial Interpretation
 
 The notebook immediately establishes Samantha as an unusually careful observer.
 
@@ -317,7 +340,7 @@ No location is explicitly identified.
 
 The entry appears unresolved, as though Samantha intended to return after gathering more information.
 
-Further Examination
+## Further Examination
 
 The journal rewards investigators from many different disciplines.
 
@@ -361,7 +384,7 @@ If anything, Samantha becomes increasingly disciplined as events become more unu
 
 This lends considerable credibility to her observations.
 
-Relationships
+## Relationships
 
 The journal quietly ties together much of the investigation.
 
@@ -386,7 +409,7 @@ The notebook never identifies the Mi-Go chamber.
 
 Instead, it gradually reduces uncertainty through accumulated observation.
 
-Investigation Impact
+## Investigation Impact
 
 The journal advances the investigation in two distinct ways.
 
@@ -439,7 +462,7 @@ To Samantha, it is simply prudent planning.
 
 To investigators who have come to understand the pattern of disappearances, it may become one of the clearest warnings that she intends to place herself directly back in harm's way.
 
-Changes Over Time
+## Changes Over Time
 
 The journal itself never changes.
 
@@ -453,7 +476,7 @@ Each revisit may reveal new observations, revised theories, or growing concern.
 
 If Samantha disappears before investigators recover the notebook, its final entries become especially poignant—not because they contain answers, but because they record the careful reasoning that led her to make one irreversible decision.
 
-Handler Notes
+## Handler Notes
 
 Samantha's Field Journal embodies one of the operation's central themes:
 
@@ -476,3 +499,18 @@ The notebook should never function as a hidden solution.
 Instead, it demonstrates that disciplined observation can bring an investigator remarkably close to the truth without ever requiring certainty.
 
 The July 2 entry is particularly important. It is not intended as a countdown timer or a scripted event, but as a consequence of Samantha's own curiosity. She has reached many of the same conclusions as the investigators, and acting on those conclusions is exactly the sort of decision that drives the campaign's locked principle: the timeline advances because people make decisions, not because the calendar changes.
+
+## Canonical Relationships
+
+- [A-02 — Hal Whitaker Radio Recording](Hal-Whitaker-Radio-Recording.md)
+- [LOC-05 — Samantha Carter Residence](../locations/Samantha-Carter-Residence.md)
+- [LOC-08 — Mohawk Valley Community College](../locations/Mohawk-Valley-Community-College.md)
+- [LOC-12 — Hogsback State Forest](../locations/Hogsback-State-Forest.md)
+- [PER-01 — Christopher Donnelly](../npcs/Christopher-Donnelly.md)
+- [PER-02 — Harold “Hal” Whitaker](../npcs/Harold-Whitaker.md)
+- [PER-03 — David Allen Barlow](../npcs/David-Barlow.md)
+- [PER-04 — Samantha Carter](../npcs/Samantha-Carter.md)
+- [PER-05 — Nathaniel “Nate” Collins](../npcs/Nathaniel-Collins.md)
+- [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
+- [PER-09 — Evan Brooks](../npcs/Evan-Brooks.md)
+- [PER-16 — Mi-Go Operative](../npcs/Mi-Go-Operative.md)

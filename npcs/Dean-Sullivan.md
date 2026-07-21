@@ -1,4 +1,22 @@
-# Dean Sullivan
+---
+id: PER-11
+title: Thomas Sullivan
+type: personnel
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: npcs/Dean-Sullivan.md
+related_objects:
+- LOC-08
+- PER-04
+- PER-05
+- PER-06
+- PER-07
+---
+
+# PER-11 — Thomas Sullivan
+
+**LOCKED CANONICAL**
 
 > Status: LOCKED CANONICAL
 
@@ -21,7 +39,7 @@ Marital Status: Married
 
 Two adult children.
 
-Public Record
+## Public Record
 
 Thomas Sullivan was born in Syracuse, New York.
 
@@ -46,7 +64,7 @@ No disciplinary history.
 
 Widely respected throughout the SUNY system.
 
-Physical Description
+## Physical Description
 
 Height: 6'0"
 
@@ -66,7 +84,7 @@ Moves with the relaxed confidence of someone comfortable in almost any academic 
 
 Frequently carries a leather portfolio filled with handwritten notes despite having access to every modern digital tool.
 
-Biography
+## Biography
 
 Thomas spent most of his career building engineering programs and mentoring faculty.
 
@@ -86,7 +104,7 @@ He often says:
 
 "Community colleges create opportunities."
 
-Private Context
+## Private Context
 
 Thomas quietly worries that higher education increasingly values metrics over mentorship.
 
@@ -124,7 +142,7 @@ Less interested in being right than in finding sustainable solutions.
 
 Prefers mentoring over directing.
 
-Communication Style
+## Communication Style
 
 Warm.
 
@@ -140,7 +158,7 @@ Excellent at making nervous students feel comfortable.
 
 Comfortable with silence during conversations.
 
-Under Pressure
+## Under Pressure
 
 Initially gathers information quietly.
 
@@ -152,7 +170,7 @@ Focuses on protecting students, faculty, and institutional stability simultaneou
 
 If forced to choose, he places people ahead of reputation.
 
-Investigative Utility
+## Investigative Utility
 
 Dean Sullivan provides investigators with:
 
@@ -208,3 +226,11 @@ Dean Sullivan represents the institution of education in the operation. Unlike C
 He also serves an important narrative function by connecting Nate Collins and Samantha Carter through entirely ordinary means. He can speak credibly about their interactions because he understands the culture of the engineering program: talented students naturally sought out knowledgeable staff, and Nate naturally mentored those who showed genuine curiosity. His testimony reinforces that their relationship was professional, healthy, and precisely the kind of mentorship a college hopes to foster.
 
 Finally, Thomas provides a perspective none of the other NPCs can. When he speaks about Samantha and Nate, he doesn't describe evidence or procedures—he describes potential. Their disappearances are not just missing-person cases to him; they are interruptions of lives that were still in the process of becoming. That makes him a quiet but emotionally resonant presence in the investigation.
+
+## Canonical Relationships
+
+- [LOC-08 — Mohawk Valley Community College](../locations/Mohawk-Valley-Community-College.md)
+- [PER-04 — Samantha Carter](Samantha-Carter.md)
+- [PER-05 — Nathaniel “Nate” Collins](Nathaniel-Collins.md)
+- [PER-06 — Elena Alvarez](Elena-Alvarez.md)
+- [PER-07 — Patrick O’Connor](Patrick-OConnor.md)

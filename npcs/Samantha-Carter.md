@@ -1,4 +1,20 @@
-# Samantha Carter
+---
+id: PER-04
+title: Samantha Carter
+type: personnel
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: npcs/Samantha-Carter.md
+related_objects:
+- LOC-08
+- PER-02
+- PER-05
+---
+
+# PER-04 — Samantha Carter
+
+**LOCKED CANONICAL**
 
 > Status: LOCKED CANONICAL NPC
 
@@ -28,7 +44,7 @@ Recently earned her Technician Class Amateur Radio License.
 
 Newest member of the local amateur radio club.
 
-Public Record
+## Public Record
 
 Samantha Carter was born in Utica, New York.
 
@@ -50,7 +66,7 @@ No known romantic relationships.
 
 Employment evaluations consistently describe her as dependable, punctual, and technically curious.
 
-Physical Description
+## Physical Description
 
 Height: 5'7"
 
@@ -72,7 +88,7 @@ Often has minor cuts or scratches on her hands from mechanical projects.
 
 Generally maintains little awareness of fashion or appearance beyond practicality.
 
-Biography
+## Biography
 
 Sam grew up taking things apart.
 
@@ -90,7 +106,7 @@ Older members immediately recognized both her enthusiasm and willingness to lear
 
 The club gradually adopted her as something of a collective granddaughter.
 
-Private Context
+## Private Context
 
 Sam has never been particularly concerned with fitting in.
 
@@ -128,7 +144,7 @@ Very honest.
 
 Rarely considers how blunt observations may affect others emotionally.
 
-Communication Style
+## Communication Style
 
 Literal.
 
@@ -144,7 +160,7 @@ Comfortable discussing technical subjects for hours.
 
 Sometimes pauses for several seconds before responding while mentally organizing her thoughts.
 
-Under Pressure
+## Under Pressure
 
 Initially withdraws.
 
@@ -158,7 +174,7 @@ Once presented with a clearly defined objective, however, she becomes remarkably
 
 She responds better to calm instruction than emotional reassurance.
 
-Investigative Utility
+## Investigative Utility
 
 Sam keeps surprisingly thorough engineering notebooks despite her age.
 
@@ -290,3 +306,9 @@ Design Note (LOCKED)
 Sam is not defined by a diagnosis. The operation never labels her as autistic, nor should NPCs speak about her in clinical terms. Instead, she is portrayed as a young woman with a literal communication style, focused interests, and a preference for structure—traits that are recognizable without becoming her identity.
 
 Her post-incident change is intentionally subtle. The horror is not that she becomes "normal"; it is that a deeply ingrained aspect of how she experiences the world has been altered without her knowledge or consent. Like the other victims, the question is not whether the change is beneficial, but whether anyone has the right to decide what parts of a person should be "improved." I think that makes her a fitting final victim and a powerful emotional anchor for the investigation.
+
+## Canonical Relationships
+
+- [LOC-08 — Mohawk Valley Community College](../locations/Mohawk-Valley-Community-College.md)
+- [PER-02 — Harold “Hal” Whitaker](Harold-Whitaker.md)
+- [PER-05 — Nathaniel “Nate” Collins](Nathaniel-Collins.md)

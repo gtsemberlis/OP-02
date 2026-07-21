@@ -1,4 +1,17 @@
-# Mi Go Operative
+---
+id: PER-16
+title: Mi-Go Operative
+type: personnel
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: npcs/Mi-Go-Operative.md
+related_objects: []
+---
+
+# PER-16 — Mi-Go Operative
+
+**LOCKED CANONICAL**
 
 > Status: LOCKED CANONICAL
 
@@ -11,7 +24,7 @@ Designation: Mi-Go
 
 Role: Field Operative / Recovery Specialist
 
-Description
+## Description
 
 A fungoid extraterrestrial possessing advanced scientific knowledge and technology. Mi-Go are capable of operating in nearly any environment, traversing macrodimensional space, and conducting highly sophisticated biological experimentation.
 
@@ -66,3 +79,7 @@ SAN Loss
 Handler Reference
 
 This operation uses the standard Mi-Go as presented in the Delta Green: Handler's Guide. Refer to the official rules for the complete descriptions of attacks, special abilities, equipment, and operational mechanics.
+
+## Canonical Relationships
+
+_None._

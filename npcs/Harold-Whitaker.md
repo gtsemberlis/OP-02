@@ -1,4 +1,19 @@
-# Harold Whitaker
+---
+id: PER-02
+title: Harold “Hal” Whitaker
+type: personnel
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: npcs/Harold-Whitaker.md
+related_objects:
+- PER-08
+- PER-13
+---
+
+# PER-02 — Harold “Hal” Whitaker
+
+**LOCKED CANONICAL**
 
 > Status: LOCKED CANONICAL NPC
 
@@ -28,7 +43,7 @@ Licensed Amateur Radio Operator (Extra Class)
 
 Club member for over thirty years.
 
-Public Record
+## Public Record
 
 Harold Whitaker was born in Rome, New York.
 
@@ -56,7 +71,7 @@ His wife Margaret died after a prolonged battle with ovarian cancer.
 
 Following her death, Whitaker became increasingly active in amateur radio.
 
-Physical Description
+## Physical Description
 
 Height: 5'10"
 
@@ -78,7 +93,7 @@ Always wears an analog wristwatch.
 
 Reading glasses perpetually hang from a cord around his neck.
 
-Biography
+## Biography
 
 Harold spent nearly four decades solving problems most people never noticed.
 
@@ -98,7 +113,7 @@ The amateur radio club increasingly became both an intellectual outlet and a soc
 
 Members often describe him as "the professor," despite never having taught professionally.
 
-Private Context
+## Private Context
 
 Margaret's death fundamentally changed Harold.
 
@@ -140,7 +155,7 @@ Will reconsider conclusions when presented with stronger evidence.
 
 Values intellectual honesty above being correct.
 
-Communication Style
+## Communication Style
 
 Measured.
 
@@ -156,7 +171,7 @@ Rarely raises his voice.
 
 Never intentionally talks down to others, although his technical vocabulary occasionally overwhelms listeners.
 
-Under Pressure
+## Under Pressure
 
 Becomes more analytical.
 
@@ -168,7 +183,7 @@ If others panic, Harold instinctively assumes the role of educator, slowing conv
 
 His calmness is reassuring but can sometimes be mistaken for emotional detachment.
 
-Investigative Utility
+## Investigative Utility
 
 Harold maintained detailed engineering notebooks throughout both his professional career and retirement.
 
@@ -274,3 +289,8 @@ When investigators ask why, he answers with characteristic precision:
 "Grief doesn't simply disappear. If mine has... then something removed it."
 
 That single statement neatly captures Harold's character. Unlike the others, he recognizes that the improvements are genuine—but as an engineer, he refuses to accept an unexplained result without questioning the process that produced it. He may become the first returned victim to suspect that something profound happened to him, even if he cannot explain what it was.
+
+## Canonical Relationships
+
+- [PER-08 — Daniel Kowalski](Daniel-Kowalski.md)
+- [PER-13 — Rebecca Lawson](Rebecca-Lawson.md)

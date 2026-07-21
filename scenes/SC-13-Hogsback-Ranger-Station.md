@@ -1,21 +1,33 @@
+---
+id: SC-13
+title: Hogsback Ranger Station
+type: scene
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: scenes/SC-13-Hogsback-Ranger-Station.md
+related_objects:
+- A-08
+- A-09
+- LOC-11
+- LOC-12
+- LOC-13
+- PER-08
+- PER-09
+primary_location: LOC-13
+---
+
 # SC-13 — Hogsback Ranger Station
 
 **LOCKED CANONICAL**
 
-SC-13 — Hogsback Ranger Station
-Canonical Information
-
-Scene ID: SC-13
-
-Title: Hogsback Ranger Station
-
-Purpose:
+## Purpose
 
 Introduce Daniel Kowalski and the professional stewardship of Hogsback State Forest, establishing the environmental baseline for the investigation.
 
 The Ranger Station demonstrates how experienced forest professionals understand the landscape, while Daniel's disappearance transforms the operation from an investigation of past events into an active search for someone the investigators might still save.
 
-Scene Overview
+## Scene Overview
 
 The Hogsback Ranger Station sits just beyond the public entrance where paved roads give way to gravel service routes winding into the forest.
 
@@ -55,9 +67,9 @@ If they cannot explain what is happening...
 
 ...it is not because they failed to notice it.
 
-Location
+## Location
 
-Reference
+## Reference
 
 LOC-13 — Hogsback Ranger Station
 
@@ -74,7 +86,7 @@ Trail maintenance records
 
 The station serves as the institutional memory of Hogsback itself.
 
-NPCs Present
+## NPCs Present
 
 Before Daniel's disappearance:
 
@@ -92,7 +104,7 @@ Search-and-rescue personnel
 
 Daniel functions as the investigators' primary guide to the forest until the timeline advances.
 
-Artifacts Available
+## Artifacts Available
 
 Investigators may access:
 
@@ -110,7 +122,7 @@ Daniel Kowalski's Final Radio Transmission
 
 Together, these records establish decades of environmental continuity against which the current disappearances stand out as profoundly abnormal.
 
-What Can The Investigators Learn?
+## What Can The Investigators Learn?
 
 This scene teaches investigators how professionals read the forest.
 
@@ -199,7 +211,7 @@ The disappearances have.
 
 That contrast quietly shifts the investigators' attention away from Hogsback as a place and toward whatever has begun acting within it.
 
-What Can Happen In This Scene?
+## What Can Happen In This Scene?
 
 These are interactive outcomes rather than pieces of information.
 
@@ -227,8 +239,8 @@ The station becomes an entirely different place.
 
 Investigators now confront the consequences of losing the one person who understood the forest best.
 
-Scene Progression
-Initial Visit
+## Scene Progression
+### Initial Visit
 
 The Ranger Station is calm and professional.
 
@@ -236,7 +248,7 @@ Daniel serves as the investigators' guide through Hogsback, translating years of
 
 The forest still appears understandable.
 
-Mid Investigation
+### Mid Investigation
 
 Daniel becomes increasingly invested in the case.
 
@@ -250,7 +262,7 @@ He never claims something impossible is occurring.
 
 He simply begins noticing more questions than answers.
 
-Late Investigation
+### Late Investigation
 
 Daniel Kowalski is gone.
 
@@ -282,7 +294,7 @@ The investigators immediately understand the implication.
 
 There is no plausible explanation in which Daniel simply wandered off a trail he had patrolled hundreds of times.
 
-Handler Notes
+## Handler Notes
 
 The Hogsback Ranger Station represents professional knowledge of place.
 
@@ -301,3 +313,13 @@ The Unnatural can be measured long before it can be understood.
 By the time investigators leave the Ranger Station for the final time, they should understand one unavoidable reality:
 
 If the ranger who knew every trail could disappear without explanation, the investigators can no longer rely on the forest to make sense on its own.
+
+## Canonical Relationships
+
+- [A-08 — Daniel Kowalski Ranger Radio](../artifacts/Daniel-Kowalski-Ranger-Radio.md)
+- [A-09 — Daniel Kowalski Final Radio Transmission](../artifacts/Daniel-Kowalski-Final-Radio-Transmission.md)
+- [LOC-11 — Search Command Post](../locations/Search-Command-Post.md)
+- [LOC-12 — Hogsback State Forest](../locations/Hogsback-State-Forest.md)
+- [LOC-13 — Hogsback Ranger Station](../locations/Hogsback-Ranger-Station.md)
+- [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
+- [PER-09 — Evan Brooks](../npcs/Evan-Brooks.md)

@@ -1,9 +1,23 @@
-# Pine Grove Diner
+---
+id: LOC-09
+title: Pine Grove Diner
+type: location
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: locations/Pine-Grove-Diner.md
+related_objects:
+- LOC-12
+- PER-04
+- PER-08
+---
+
+# LOC-09 — Pine Grove Diner
 
 **LOCKED CANONICAL**
 
 The Pine Grove Diner
-Where is it?
+## Where is it?
 
 The Pine Grove Diner sits along a state highway just outside New Hartford, roughly fifteen minutes from Hogsback State Forest.
 
@@ -27,7 +41,7 @@ Park rangers know every waitress by name.
 
 If something significant happens in town, someone at the Pine Grove has already heard about it.
 
-What are the sights, sounds, and atmosphere?
+## What are the sights, sounds, and atmosphere?
 
 The investigators arrive to the familiar rhythm of a working American diner.
 
@@ -265,3 +279,9 @@ Every other major location in Episode 2 preserves information through systems: r
 Because its patrons change naturally over time, the diner is also one of the operation's most dynamic locations. Each revisit reflects the current phase of the investigation without requiring any artificial changes to the setting itself. New faces appear, old conversations deepen, and the consequences of the investigators' actions become visible in the people passing through.
 
 Finally, the diner reinforces another quiet theme of the operation: extraordinary events rarely unfold in isolation. Even when the Unnatural remains unseen, ordinary communities adapt around it. They organize searches, raise money, exchange rumors, serve meals, and continue caring for one another. The Pine Grove reminds the investigators what is ultimately at stake—not simply solving a mystery, but preserving the ordinary human lives that continue in its shadow.
+
+## Canonical Relationships
+
+- [LOC-12 — Hogsback State Forest](Hogsback-State-Forest.md)
+- [PER-04 — Samantha Carter](../npcs/Samantha-Carter.md)
+- [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)

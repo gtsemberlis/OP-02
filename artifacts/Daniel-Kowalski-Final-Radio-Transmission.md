@@ -1,9 +1,27 @@
-# Daniel Kowalski's Final Radio Transmission
+---
+id: A-09
+title: Daniel Kowalski Final Radio Transmission
+type: artifact
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: artifacts/Daniel-Kowalski-Final-Radio-Transmission.md
+related_objects:
+- A-02
+- LOC-13
+- PER-02
+- PER-04
+- PER-05
+- PER-08
+- PER-09
+---
+
+# A-09 — Daniel Kowalski Final Radio Transmission
 
 **LOCKED CANONICAL**
 
 Artifact: Daniel Kowalski's Final Radio Transmission
-Description
+## Description
 
 A ten-second audio recording automatically archived by the New York State Park communications system.
 
@@ -24,7 +42,7 @@ His voice remains calm, professional, and completely unhurried.
 
 Nothing about the recording initially suggests that anything is wrong.
 
-Who Possesses It?
+## Who Possesses It?
 
 The original recording is retained within the New York State Park communications archive.
 
@@ -32,13 +50,13 @@ Copies are available through official law enforcement channels.
 
 Brooks eventually acquires an unofficial copy through local contacts if his investigation progresses far enough.
 
-Where Is It Found?
+## Where Is It Found?
 
 The recording is stored within the park communications system.
 
 Investigators typically obtain it from dispatch logs at the Ranger Station or through cooperating law enforcement.
 
-Initial Interpretation
+## Initial Interpretation
 
 The transmission appears entirely routine.
 
@@ -86,7 +104,7 @@ No further communications are received.
 
 Repeated attempts by dispatch to raise Kowalski go unanswered.
 
-Further Examination
+## Further Examination
 Audio Engineering
 
 The recording is authentic.
@@ -151,7 +169,7 @@ The hesitation before his final words suggests curiosity rather than fear.
 
 Whatever caught his attention appears to have interrupted an observation—not triggered panic.
 
-Relationships
+## Relationships
 
 The recording directly complements:
 
@@ -165,7 +183,7 @@ Together they establish that the anomalous radio signal consistently precedes cl
 
 The recording also anchors Daniel's final known movements immediately before his disappearance.
 
-Investigation Impact
+## Investigation Impact
 
 Daniel's final transmission provides the investigation's most reliable timeline for his disappearance.
 
@@ -192,7 +210,7 @@ The recording instead reinforces one of the operation's central themes:
 
 Observation always precedes understanding.
 
-Changes Over Time
+## Changes Over Time
 
 The recording itself never changes.
 
@@ -206,7 +224,7 @@ Every replay raises the same unanswered question:
 
 What did Daniel see?
 
-Handler Notes
+## Handler Notes
 
 Daniel Kowalski's final transmission should never become a hidden-message puzzle.
 
@@ -237,3 +255,13 @@ That unfinished sentence should linger with the players long after the operation
 "...That's..."
 
 It is perhaps the closest anyone in the operation comes to seeing the Unnatural clearly—and even then, language fails before the recording does.
+
+## Canonical Relationships
+
+- [A-02 — Hal Whitaker Radio Recording](Hal-Whitaker-Radio-Recording.md)
+- [LOC-13 — Hogsback Ranger Station](../locations/Hogsback-Ranger-Station.md)
+- [PER-02 — Harold “Hal” Whitaker](../npcs/Harold-Whitaker.md)
+- [PER-04 — Samantha Carter](../npcs/Samantha-Carter.md)
+- [PER-05 — Nathaniel “Nate” Collins](../npcs/Nathaniel-Collins.md)
+- [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
+- [PER-09 — Evan Brooks](../npcs/Evan-Brooks.md)

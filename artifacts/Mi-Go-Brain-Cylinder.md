@@ -1,9 +1,25 @@
-# Mi-Go Brain Cylinder
+---
+id: A-11
+title: Mi-Go Brain Cylinder
+type: artifact
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: artifacts/Mi-Go-Brain-Cylinder.md
+related_objects:
+- LOC-14
+- PER-04
+- PER-08
+- PER-09
+- PER-16
+---
+
+# A-11 — Mi-Go Brain Cylinder
 
 **LOCKED CANONICAL**
 
 Artifact: Mi-Go Brain Cylinder
-Description
+## Description
 
 A transparent cylindrical vessel approximately sixty centimeters tall and twenty centimeters in diameter.
 
@@ -30,7 +46,7 @@ The cylinder bears no labels.
 
 To the Mi-Go, it appears to be merely one component within a much larger process.
 
-Who Possesses It?
+## Who Possesses It?
 
 The Mi-Go.
 
@@ -38,7 +54,7 @@ The cylinder remains within the operating chamber until investigators encounter 
 
 Removing the cylinder is physically possible, though doing so immediately raises difficult medical, ethical, and operational questions.
 
-Where Is It Found?
+## Where Is It Found?
 
 The cylinder occupies a recessed mounting point within the Mi-Go operating chamber.
 
@@ -46,7 +62,7 @@ It is connected to surrounding equipment through unfamiliar biological and mecha
 
 If the chamber is active, the cylinder is one of several pieces of equipment currently in use.
 
-Initial Interpretation
+## Initial Interpretation
 
 The cylinder immediately communicates one horrifying fact.
 
@@ -68,7 +84,7 @@ Missing persons have become recoverable victims.
 
 Time suddenly matters.
 
-Further Examination
+## Further Examination
 Medicine
 
 The brain displays every outward indication of remaining biologically viable.
@@ -111,7 +127,7 @@ No circulation system.
 
 Yet the preservation environment remains perfectly stable.
 
-Relationships
+## Relationships
 
 The cylinder fundamentally recontextualizes numerous earlier discoveries.
 
@@ -135,7 +151,7 @@ If historical victims never returned...
 
 perhaps some cylinders were never emptied.
 
-Investigation Impact
+## Investigation Impact
 
 The Brain Cylinder completely changes the investigators' priorities.
 
@@ -161,7 +177,7 @@ No available evidence clearly identifies the safest course of action.
 
 Every option carries unknown risks.
 
-Changes Over Time
+## Changes Over Time
 
 The cylinder itself changes very little.
 
@@ -175,7 +191,7 @@ The Mi-Go appear entirely unconcerned by which human occupies the apparatus.
 
 The process continues uninterrupted.
 
-Handler Notes
+## Handler Notes
 
 The Brain Cylinder exists to transform the emotional stakes of the operation.
 
@@ -210,3 +226,11 @@ To the investigators, the cylinder contains a person.
 To the Mi-Go, it contains a functioning brain.
 
 The difference between those two perspectives is the true source of horror.
+
+## Canonical Relationships
+
+- [LOC-14 — Mi-Go Operating Chamber](../locations/Mi-Go-Operating-Chamber.md)
+- [PER-04 — Samantha Carter](../npcs/Samantha-Carter.md)
+- [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
+- [PER-09 — Evan Brooks](../npcs/Evan-Brooks.md)
+- [PER-16 — Mi-Go Operative](../npcs/Mi-Go-Operative.md)

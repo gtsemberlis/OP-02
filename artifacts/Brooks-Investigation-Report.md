@@ -1,9 +1,27 @@
-# Brooks' Investigation Report
+---
+id: A-06
+title: Brooks Investigation Report
+type: artifact
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: artifacts/Brooks-Investigation-Report.md
+related_objects:
+- LOC-07
+- PER-01
+- PER-02
+- PER-04
+- PER-05
+- PER-08
+- PER-09
+---
+
+# A-06 — Brooks Investigation Report
 
 **LOCKED CANONICAL**
 
 Artifact: Brooks' Investigation Report
-Description
+## Description
 
 Brooks' investigation is not a single report but a working archive assembled over years of independent research.
 
@@ -46,7 +64,7 @@ Throughout the archive Brooks consistently labels these cases as Alien Abduction
 
 Whether that conclusion is correct remains an open question.
 
-Who Possesses It?
+## Who Possesses It?
 
 Evan Brooks.
 
@@ -60,7 +78,7 @@ Investigators who treat him as a fellow investigator rather than an obstacle may
 
 Investigators who search his motel room without permission could copy portions of the collection, although Brooks is meticulous enough to notice missing files or evidence that someone has disturbed his work.
 
-Where Is It Found?
+## Where Is It Found?
 
 Following SaucerWatch's arrival, the archive occupies much of Brooks' motel room.
 
@@ -79,7 +97,7 @@ Everything has a place.
 
 Brooks simply knows where that place is.
 
-Initial Interpretation
+## Initial Interpretation
 
 At first examination, much of Brooks' work appears surprisingly familiar.
 
@@ -106,7 +124,7 @@ The archive clearly demonstrates recurring patterns.
 
 Whether those patterns represent extraterrestrial activity remains entirely speculative.
 
-Further Examination
+## Further Examination
 Investigative Analysis
 
 A careful review reveals Brooks to be an exceptionally disciplined researcher.
@@ -181,7 +199,7 @@ The reported experiences remain remarkably consistent.
 
 Only the explanations change.
 
-Relationships
+## Relationships
 
 Brooks' archive gradually becomes connected to nearly every major component of the investigation.
 
@@ -198,7 +216,7 @@ Historical newspaper archives.
 
 As Brooks continues investigating, his report increasingly mirrors the investigators' own case file, approaching many of the same conclusions through entirely different methods.
 
-Investigation Impact
+## Investigation Impact
 
 Brooks' archive changes the investigation in three important ways.
 
@@ -290,7 +308,7 @@ Brooks believes they support alien abduction.
 
 The investigators recognize them as objective observations awaiting explanation.
 
-Changes Over Time
+## Changes Over Time
 
 Brooks' archive continues evolving throughout the operation.
 
@@ -314,7 +332,7 @@ Brooks does not become hostile.
 
 He simply assumes his work may need to survive without him.
 
-Handler Notes
+## Handler Notes
 
 Brooks' Investigation Report exists to demonstrate that asking different questions often reveals different evidence.
 
@@ -331,3 +349,13 @@ That approach recovers memories that conventional interviews leave undiscovered.
 The investigators should ultimately reject Brooks' explanation while recognizing the value of his methodology.
 
 His archive therefore serves as both a comparative case library and a reminder that investigative success often depends less on having better answers than on asking better questions.
+
+## Canonical Relationships
+
+- [LOC-07 — Brooks’ Motel Room](../locations/Brooks-Motel-Room.md)
+- [PER-01 — Christopher Donnelly](../npcs/Christopher-Donnelly.md)
+- [PER-02 — Harold “Hal” Whitaker](../npcs/Harold-Whitaker.md)
+- [PER-04 — Samantha Carter](../npcs/Samantha-Carter.md)
+- [PER-05 — Nathaniel “Nate” Collins](../npcs/Nathaniel-Collins.md)
+- [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
+- [PER-09 — Evan Brooks](../npcs/Evan-Brooks.md)

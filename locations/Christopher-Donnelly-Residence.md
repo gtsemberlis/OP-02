@@ -1,9 +1,26 @@
-# Christopher Donnelly Residence
+---
+id: LOC-04
+title: Christopher Donnelly Residence
+type: location
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: locations/Christopher-Donnelly-Residence.md
+related_objects:
+- LOC-12
+- PER-01
+- PER-02
+- PER-03
+- PER-04
+- PER-05
+---
+
+# LOC-04 — Christopher Donnelly Residence
 
 **LOCKED CANONICAL**
 
 Christopher Donnelly Residence
-Where is it?
+## Where is it?
 
 Christopher lives alone in a modest townhouse on the outskirts of Utica, approximately twenty-five minutes from Hogsback State Forest.
 
@@ -11,7 +28,7 @@ The neighborhood consists of newer developments occupied by tradespeople, techni
 
 His garage door is often open during daylight hours, revealing a neatly organized workshop rather than a place to park a vehicle.
 
-What are the sights, sounds, and atmosphere?
+## What are the sights, sounds, and atmosphere?
 
 Christopher's home immediately feels purposeful.
 
@@ -202,3 +219,12 @@ What kind of system could produce these effects?
 His workshop becomes the investigation's engineering mind. Every map, schematic, maintenance record, and network diagram reflects an effort to understand the disappearances as interactions between physical infrastructure and an unknown external influence. He never leaps to extraordinary conclusions; instead, he systematically eliminates ordinary ones.
 
 This also makes Christopher's post-interview arc especially compelling. He does not descend into obsession or paranoia. He behaves exactly as a competent engineer would: he gathers more data. That quiet professionalism gradually leads him toward the same truth the investigators are uncovering, making him one of the operation's most capable—and most vulnerable—civilian participants.
+
+## Canonical Relationships
+
+- [LOC-12 — Hogsback State Forest](Hogsback-State-Forest.md)
+- [PER-01 — Christopher Donnelly](../npcs/Christopher-Donnelly.md)
+- [PER-02 — Harold “Hal” Whitaker](../npcs/Harold-Whitaker.md)
+- [PER-03 — David Allen Barlow](../npcs/David-Barlow.md)
+- [PER-04 — Samantha Carter](../npcs/Samantha-Carter.md)
+- [PER-05 — Nathaniel “Nate” Collins](../npcs/Nathaniel-Collins.md)

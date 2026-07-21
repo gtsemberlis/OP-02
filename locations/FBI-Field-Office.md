@@ -1,9 +1,26 @@
-# FBI Field Office
+---
+id: LOC-01
+title: FBI Field Office
+type: location
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: locations/FBI-Field-Office.md
+related_objects:
+- LOC-12
+- LOC-14
+- PER-02
+- PER-05
+- PER-06
+- PER-16
+---
+
+# LOC-01 — FBI Field Office
 
 **LOCKED CANONICAL**
 
 FBI Field Office / Evidence Repository
-Where is it?
+## Where is it?
 
 The operation begins inside a secure FBI field office in Utica, New York. While the disappearances occurred across Oneida County, the FBI consolidated the investigation into a temporary major case workspace established within the field office after the fourth disappearance.
 
@@ -17,7 +34,7 @@ Unlike the victims' homes, nothing here feels personal.
 
 Everything exists to support an investigation.
 
-What are the sights, sounds, and atmosphere?
+## What are the sights, sounds, and atmosphere?
 
 The office feels busy without feeling chaotic.
 
@@ -65,7 +82,7 @@ Only incompleteness.
 
 The investigators immediately understand they are inheriting serious work performed by capable professionals.
 
-The Evidence Repository
+## The Evidence Repository
 
 Adjacent to the case room is a secured evidence room.
 
@@ -243,3 +260,12 @@ The FBI Field Office represents institutional competence confronting institution
 Nothing in this location should imply failure, negligence, or bureaucratic indifference. Every report is complete. Every interview was conducted. Every search was organized. Every laboratory test was performed. The investigators are not discovering overlooked clues; they are inheriting a case in which conventional investigative methods have been applied exhaustively and honestly.
 
 This distinction is central to Episode 2. Delta Green does not exist because the FBI is incapable—it exists because some phenomena remain invisible to institutions built to investigate ordinary crimes. The field office therefore becomes the campaign's strongest expression of another recurring theme: good investigators can reach correct conclusions from incorrect assumptions. The FBI has gathered nearly all of the necessary facts. What it lacks is the conceptual framework to interpret them. That framework is what the Program—and now the player characters—bring to the investigation.
+
+## Canonical Relationships
+
+- [LOC-12 — Hogsback State Forest](Hogsback-State-Forest.md)
+- [LOC-14 — Mi-Go Operating Chamber](Mi-Go-Operating-Chamber.md)
+- [PER-02 — Harold “Hal” Whitaker](../npcs/Harold-Whitaker.md)
+- [PER-05 — Nathaniel “Nate” Collins](../npcs/Nathaniel-Collins.md)
+- [PER-06 — Elena Alvarez](../npcs/Elena-Alvarez.md)
+- [PER-16 — Mi-Go Operative](../npcs/Mi-Go-Operative.md)

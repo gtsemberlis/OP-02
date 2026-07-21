@@ -1,9 +1,26 @@
-# Hogsback Ranger Station
+---
+id: LOC-13
+title: Hogsback Ranger Station
+type: location
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: locations/Hogsback-Ranger-Station.md
+related_objects:
+- A-08
+- LOC-08
+- LOC-12
+- LOC-14
+- PER-08
+- PER-16
+---
+
+# LOC-13 — Hogsback Ranger Station
 
 **LOCKED CANONICAL**
 
 Hogsback State Forest Ranger Station
-Where is it?
+## Where is it?
 
 The Hogsback State Forest Ranger Station sits just beyond the main public entrance, positioned where paved roads give way to gravel service routes leading into the forest.
 
@@ -17,7 +34,7 @@ Unlike the trailhead, the station is clearly a workplace rather than a visitor d
 
 It exists to support the people responsible for caring for the forest.
 
-What are the sights, sounds, and atmosphere?
+## What are the sights, sounds, and atmosphere?
 
 The station is practical.
 
@@ -254,3 +271,12 @@ The Ranger Station represents professional knowledge of the natural world.
 Where the FBI understands evidence, the police understand communities, and MVCC understands people, the rangers understand place. Their expertise establishes the operation's environmental baseline. When experienced professionals who have spent decades reading forests begin admitting that they no longer understand what they are seeing, the investigators appreciate that something genuinely unprecedented is unfolding.
 
 Daniel Kowalski serves another crucial narrative function. Early in the operation, he is the investigators' guide through Hogsback, translating unfamiliar terrain into understandable patterns. His disappearance is therefore more than the loss of another victim—it is the loss of the operation's most trusted interpreter of the landscape. When the person who knows the forest best can no longer find his way home, the investigators understand that they are confronting a problem no amount of ordinary fieldcraft can solve. That realization naturally sets the stage for the extended navigation challenge leading to the Mi-Go operating chamber, where success depends not on following a hidden trail but on synthesizing everything learned throughout the investigation into a new way of reading the forest.
+
+## Canonical Relationships
+
+- [A-08 — Daniel Kowalski Ranger Radio](../artifacts/Daniel-Kowalski-Ranger-Radio.md)
+- [LOC-08 — Mohawk Valley Community College](Mohawk-Valley-Community-College.md)
+- [LOC-12 — Hogsback State Forest](Hogsback-State-Forest.md)
+- [LOC-14 — Mi-Go Operating Chamber](Mi-Go-Operating-Chamber.md)
+- [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
+- [PER-16 — Mi-Go Operative](../npcs/Mi-Go-Operative.md)

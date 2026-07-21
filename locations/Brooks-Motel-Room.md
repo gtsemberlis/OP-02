@@ -1,9 +1,24 @@
-# Brooks Motel Room
+---
+id: LOC-07
+title: Brooks’ Motel Room
+type: location
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: locations/Brooks-Motel-Room.md
+related_objects:
+- LOC-12
+- PER-05
+- PER-08
+- PER-09
+---
+
+# LOC-07 — Brooks’ Motel Room
 
 **LOCKED CANONICAL**
 
 Brooks' Motel Room
-Where is it?
+## Where is it?
 
 Evan Brooks has rented a room at a modest roadside motel several miles from Hogsback State Forest.
 
@@ -23,7 +38,7 @@ Brooks has now been there for nearly a week.
 
 The front desk staff have stopped asking when he plans to leave.
 
-What are the sights, sounds, and atmosphere?
+## What are the sights, sounds, and atmosphere?
 
 From the outside, nothing distinguishes Brooks' room from dozens of identical motel doors.
 
@@ -235,3 +250,10 @@ Every major institution in Episode 2 has advantages and blind spots. The FBI has
 For the investigators, the room should be an uncomfortable mirror. Much of Brooks' work duplicates what they have already done, but it also reveals how the same evidence can be organized into entirely different patterns. His greatest value is not that he knows more than the investigators—it is that he occasionally notices relationships they overlook because they are following institutional procedures.
 
 That makes Brooks an unusually valuable secondary investigator. He isn't an antagonist, comic relief, or exposition device. He is another intelligent human being trying, in good faith, to solve the same mystery. The tragedy is that he is doing so without understanding the danger of getting too close.
+
+## Canonical Relationships
+
+- [LOC-12 — Hogsback State Forest](Hogsback-State-Forest.md)
+- [PER-05 — Nathaniel “Nate” Collins](../npcs/Nathaniel-Collins.md)
+- [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
+- [PER-09 — Evan Brooks](../npcs/Evan-Brooks.md)

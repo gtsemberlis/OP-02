@@ -1,9 +1,29 @@
-# Daniel Kowalski's Ranger Radio
+---
+id: A-08
+title: Daniel Kowalski Ranger Radio
+type: artifact
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: artifacts/Daniel-Kowalski-Ranger-Radio.md
+related_objects:
+- A-02
+- LOC-12
+- LOC-13
+- PER-02
+- PER-04
+- PER-05
+- PER-08
+- PER-09
+- PER-16
+---
+
+# A-08 — Daniel Kowalski Ranger Radio
 
 **LOCKED CANONICAL**
 
 Artifact: Daniel Kowalski's Ranger Radio
-Description
+## Description
 
 A rugged, handheld VHF/UHF public safety radio issued to Daniel Kowalski as part of his duties with the New York State Park system.
 
@@ -24,7 +44,7 @@ Investigators typically discover it abandoned somewhere within the wooded area s
 
 It appears to have been dropped rather than deliberately discarded.
 
-Who Possesses It?
+## Who Possesses It?
 
 Initially, no one.
 
@@ -32,7 +52,7 @@ The radio lies where it fell until investigators recover it.
 
 Once recovered, it becomes one of the few portable pieces of physical evidence that investigators can repeatedly examine throughout the operation.
 
-Where Is It Found?
+## Where Is It Found?
 
 The radio is located somewhere within the wooded area surrounding the Hogsback Ranger Station.
 
@@ -40,7 +60,7 @@ Its exact position depends upon how the investigation unfolds, but it is general
 
 No obvious signs of violence accompany its discovery.
 
-Initial Interpretation
+## Initial Interpretation
 
 At first glance, the radio appears completely ordinary.
 
@@ -52,7 +72,7 @@ Nothing immediately suggests sabotage, damage, or foul play.
 
 Only after powering the unit on does its significance become apparent.
 
-Further Examination
+## Further Examination
 Electronics
 
 The radio is fully functional.
@@ -110,7 +130,7 @@ Different radios tuned appropriately reproduce essentially the same interference
 
 Daniel's radio merely happened to be closer to its source.
 
-Relationships
+## Relationships
 
 Daniel Kowalski's radio reinforces several other artifacts without duplicating them.
 
@@ -128,7 +148,7 @@ The radio does not identify the source.
 
 It demonstrates that multiple independent observers have encountered the same measurable phenomenon.
 
-Investigation Impact
+## Investigation Impact
 
 Daniel Kowalski's radio transforms the anomalous signal from recorded evidence into an active investigative tool.
 
@@ -152,7 +172,7 @@ Used carelessly, it produces only strange static.
 
 Used intelligently, it becomes another navigational clue.
 
-Changes Over Time
+## Changes Over Time
 
 The radio itself does not change.
 
@@ -171,7 +191,7 @@ If investigators revisit previously explored areas, they may discover that the s
 
 Like the phenomenon itself, it resists becoming entirely predictable.
 
-Handler Notes
+## Handler Notes
 
 Daniel Kowalski's radio exists to reinforce one of the operation's central themes:
 
@@ -188,3 +208,15 @@ Instead, it rewards careful comparison with other evidence gathered throughout t
 Its greatest value lies not in revealing answers, but in encouraging investigators to correlate independent observations into an increasingly coherent picture of the forest.
 
 Like much of the operation's evidence, the radio demonstrates that observation is objective, while interpretation remains uncertain.
+
+## Canonical Relationships
+
+- [A-02 — Hal Whitaker Radio Recording](Hal-Whitaker-Radio-Recording.md)
+- [LOC-12 — Hogsback State Forest](../locations/Hogsback-State-Forest.md)
+- [LOC-13 — Hogsback Ranger Station](../locations/Hogsback-Ranger-Station.md)
+- [PER-02 — Harold “Hal” Whitaker](../npcs/Harold-Whitaker.md)
+- [PER-04 — Samantha Carter](../npcs/Samantha-Carter.md)
+- [PER-05 — Nathaniel “Nate” Collins](../npcs/Nathaniel-Collins.md)
+- [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
+- [PER-09 — Evan Brooks](../npcs/Evan-Brooks.md)
+- [PER-16 — Mi-Go Operative](../npcs/Mi-Go-Operative.md)

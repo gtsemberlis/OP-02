@@ -1,16 +1,31 @@
+---
+id: SC-04
+title: Christopher Donnelly Residence
+type: scene
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: scenes/SC-04-Christopher-Donnelly-Residence.md
+related_objects:
+- LOC-04
+- LOC-12
+- PER-01
+- PER-02
+- PER-04
+- PER-05
+- PER-12
+primary_location: LOC-04
+---
+
 # SC-04 — Christopher Donnelly Residence
 
 **LOCKED CANONICAL**
 
-SC-04 — Christopher Donnelly Residence
-Canonical Information
-Scene ID: SC-04
-Title: Christopher Donnelly Residence
-Purpose:
+## Purpose
 Introduce Christopher Donnelly and Jennifer Donnelly, establish Christopher's systems-oriented approach to the disappearances, and provide investigators with one of the operation's richest sources of engineering analysis.
 The investigators' interaction with Christopher directly influences his own parallel investigation.
 
-Scene Overview
+## Scene Overview
 Christopher Donnelly's home is quiet.
 Not empty.
 Purposeful.
@@ -24,9 +39,9 @@ It feels occupied by someone trying to understand what happened.
 His investigation has already begun.
 The investigators simply become part of it.
 
-Location
-Reference
-LOC-02 — Christopher Donnelly Residence
+## Location
+## Reference
+LOC-04 — Christopher Donnelly Residence
 Common investigative areas include:
 Living room
 Kitchen
@@ -37,7 +52,7 @@ Radio workbench
 The workshop is the heart of the location.
 It reveals how Christopher thinks far more effectively than conversation alone.
 
-NPCs Present
+## NPCs Present
 Depending upon the timeline:
 Christopher Donnelly
 Jennifer Donnelly
@@ -48,7 +63,7 @@ Christopher discusses systems.
 Jennifer discusses people.
 Together they paint a complete picture of Chris before and after his disappearance.
 
-Artifacts Available
+## Artifacts Available
 Investigators may examine:
 Engineering notebooks
 Utility infrastructure maps
@@ -63,7 +78,7 @@ Workshop computers
 These artifacts rarely provide direct answers.
 Instead, they document Christopher's process of systematically eliminating conventional explanations.
 
-What Can The Investigators Learn?
+## What Can The Investigators Learn?
 This scene explains how Christopher investigates.
 Christopher's Perspective
 Christopher approaches the disappearances as an engineering problem.
@@ -122,7 +137,7 @@ Every rejected hypothesis remains documented.
 Every conclusion is supported by observations.
 Investigators quickly recognize someone who distinguishes carefully between evidence and speculation.
 
-What Can Happen In This Scene?
+## What Can Happen In This Scene?
 These are interactive outcomes rather than pieces of information.
 
 Interview Christopher
@@ -152,27 +167,27 @@ If encouraged, he expands his research into communications infrastructure, utili
 If strongly discouraged, he remains cautious—but never entirely abandons the investigation.
 Either outcome reflects Christopher's own decisions rather than arbitrary timeline advancement.
 
-Scene Progression
-Initial Visit
+## Scene Progression
+### Initial Visit
 Christopher treats the investigation as an engineering problem.
 He believes the correct explanation exists.
 He simply hasn't found it yet.
 
-Mid Investigation
+### Mid Investigation
 The workshop becomes noticeably busier.
 Whiteboards fill.
 Maps accumulate annotations.
 New engineering models appear.
 Christopher increasingly searches for patterns rather than isolated failures.
 
-Late Investigation
+### Late Investigation
 Christopher reluctantly acknowledges that conventional engineering no longer explains every observation.
 His thinking remains disciplined.
 He has not embraced extraordinary conclusions.
 He has merely exhausted ordinary ones.
 That realization clearly troubles him.
 
-Handler Notes
+## Handler Notes
 Christopher Donnelly's residence represents systems thinking.
 Where Samantha Carter records observations, Hal Whitaker analyzes signals, and Nathaniel Collins models technical systems, Christopher attempts to understand the disappearances through the interaction of physical infrastructure and the environment. His workshop is not filled with conspiracy theories; it is filled with carefully documented failures of ordinary explanations.
 This scene also reinforces one of the campaign's locked principles:
@@ -182,3 +197,13 @@ Christopher's sudden cessation of a decades-long smoking habit should initially 
 This quietly introduces one of Operation Carrier Wave's central questions:
 If an external force removes suffering by rewriting part of a person's identity, has it healed them—or violated them?
 Christopher behaves exactly as a competent engineer would when confronted with evidence that refuses to fit existing models. He never becomes obsessed, paranoid, or reckless. He simply continues gathering data. That professionalism makes him one of the operation's most valuable civilian allies—and one of its most vulnerable.
+
+## Canonical Relationships
+
+- [LOC-04 — Christopher Donnelly Residence](../locations/Christopher-Donnelly-Residence.md)
+- [LOC-12 — Hogsback State Forest](../locations/Hogsback-State-Forest.md)
+- [PER-01 — Christopher Donnelly](../npcs/Christopher-Donnelly.md)
+- [PER-02 — Harold “Hal” Whitaker](../npcs/Harold-Whitaker.md)
+- [PER-04 — Samantha Carter](../npcs/Samantha-Carter.md)
+- [PER-05 — Nathaniel “Nate” Collins](../npcs/Nathaniel-Collins.md)
+- [PER-12 — Jennifer Donnelly](../npcs/Jennifer-Donnelly.md)

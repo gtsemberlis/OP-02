@@ -1,9 +1,27 @@
-# Hogsback State Forest
+---
+id: LOC-12
+title: Hogsback State Forest
+type: location
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: locations/Hogsback-State-Forest.md
+related_objects:
+- LOC-14
+- PER-01
+- PER-02
+- PER-04
+- PER-05
+- PER-08
+- PER-16
+---
+
+# LOC-12 — Hogsback State Forest
 
 **LOCKED CANONICAL**
 
 Hogsback State Forest
-Where is it?
+## Where is it?
 
 Hogsback State Forest occupies several thousand acres of mixed hardwood forest in Oneida County, New York. Crisscrossed by hiking trails, old logging roads, seasonal streams, and rugged hills, it is a popular destination for hikers, hunters, birdwatchers, amateur radio operators, and local families seeking a quiet day outdoors.
 
@@ -25,7 +43,7 @@ The forest has no local reputation for danger.
 
 Until this investigation, it was simply another state forest.
 
-What are the sights, sounds, and atmosphere?
+## What are the sights, sounds, and atmosphere?
 
 The forest is remarkably ordinary.
 
@@ -310,3 +328,13 @@ Hogsback State Forest represents the unknown without malice.
 Nothing in the landscape should ever behave like a haunted forest or a supernatural realm. The woods are beautiful, ecologically healthy, and entirely plausible. Their power comes from the investigators' inability to reconcile that ordinary appearance with the extraordinary events connected to them.
 
 This location also embodies one of the campaign's foundational design principles: locations represent ways of knowing. Hogsback does not reward interrogation or exposition. It rewards patient observation, repeated visits, comparison with evidence gathered elsewhere, and the gradual elimination of conventional explanations. By the time the investigators finally uncover the Mi-Go operating chamber, the revelation should feel earned—not because the forest concealed a secret lair, but because every prior visit quietly taught them how to see what had always been there.
+
+## Canonical Relationships
+
+- [LOC-14 — Mi-Go Operating Chamber](Mi-Go-Operating-Chamber.md)
+- [PER-01 — Christopher Donnelly](../npcs/Christopher-Donnelly.md)
+- [PER-02 — Harold “Hal” Whitaker](../npcs/Harold-Whitaker.md)
+- [PER-04 — Samantha Carter](../npcs/Samantha-Carter.md)
+- [PER-05 — Nathaniel “Nate” Collins](../npcs/Nathaniel-Collins.md)
+- [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
+- [PER-16 — Mi-Go Operative](../npcs/Mi-Go-Operative.md)

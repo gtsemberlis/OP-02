@@ -1,4 +1,22 @@
-# Michael and Laura Carter
+---
+id: PER-15
+title: Michael and Laura Carter
+type: personnel
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: npcs/Michael-and-Laura-Carter.md
+related_objects:
+- PER-01
+- PER-02
+- PER-04
+- PER-05
+- PER-16
+---
+
+# PER-15 — Michael and Laura Carter
+
+**LOCKED CANONICAL**
 
 > Status: LOCKED CANONICAL
 
@@ -233,7 +251,7 @@ Strong evidence that her relationships with older members of the amateur radio c
 
 Together, they also reinforce the recurring pattern that every witness describes the same transformation from a different perspective.
 
-Handler Notes
+## Handler Notes
 
 Michael and Laura should almost always be portrayed together.
 
@@ -248,3 +266,11 @@ Neither dominates the conversation, and they frequently complete each other's th
 One of the interview's most memorable moments should be the distinction they unconsciously make between confidence and comfort. Michael interprets Samantha's transformation as growing self-assurance, while Laura senses something subtler: it wasn't that Samantha learned to overcome her insecurities—it was as if those insecurities had simply ceased to exist.
 
 This distinction quietly foreshadows one of Episode 2's central revelations. The victims did not heal through growth or experience. Something external altered the emotional landscape of their minds. The Carters cannot articulate that truth, but together they become the first witnesses to describe it with remarkable clarity.
+
+## Canonical Relationships
+
+- [PER-01 — Christopher Donnelly](Christopher-Donnelly.md)
+- [PER-02 — Harold “Hal” Whitaker](Harold-Whitaker.md)
+- [PER-04 — Samantha Carter](Samantha-Carter.md)
+- [PER-05 — Nathaniel “Nate” Collins](Nathaniel-Collins.md)
+- [PER-16 — Mi-Go Operative](Mi-Go-Operative.md)

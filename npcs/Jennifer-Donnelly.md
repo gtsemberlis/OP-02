@@ -1,4 +1,22 @@
-# Jennifer Donnelly
+---
+id: PER-12
+title: Jennifer Donnelly
+type: personnel
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: npcs/Jennifer-Donnelly.md
+related_objects:
+- PER-01
+- PER-02
+- PER-04
+- PER-05
+- PER-16
+---
+
+# PER-12 — Jennifer Donnelly
+
+**LOCKED CANONICAL**
 
 > Status: LOCKED CANONICAL
 
@@ -145,7 +163,7 @@ no evidence of criminal associations.
 
 She also provides the first firsthand account that Chris's personality had begun changing before his disappearance, though neither she nor the investigators initially recognize its significance.
 
-Handler Notes
+## Handler Notes
 
 Jennifer should never feel like a source of clues.
 
@@ -154,3 +172,11 @@ She is a grieving spouse trying to help.
 The emotional weight of her interview comes from its normality. She offers no conspiracies, no dramatic revelations, and no hidden secrets—only the quiet certainty that something about Chris had changed for the better shortly before he vanished.
 
 That ordinary observation becomes profoundly disturbing once the investigators begin hearing the same story from the families of the other victims.
+
+## Canonical Relationships
+
+- [PER-01 — Christopher Donnelly](Christopher-Donnelly.md)
+- [PER-02 — Harold “Hal” Whitaker](Harold-Whitaker.md)
+- [PER-04 — Samantha Carter](Samantha-Carter.md)
+- [PER-05 — Nathaniel “Nate” Collins](Nathaniel-Collins.md)
+- [PER-16 — Mi-Go Operative](Mi-Go-Operative.md)

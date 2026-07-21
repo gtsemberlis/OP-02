@@ -1,9 +1,26 @@
-# Mohawk Valley Community College
+---
+id: LOC-08
+title: Mohawk Valley Community College
+type: location
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: locations/Mohawk-Valley-Community-College.md
+related_objects:
+- LOC-01
+- LOC-12
+- PER-04
+- PER-05
+- PER-06
+- PER-07
+---
+
+# LOC-08 — Mohawk Valley Community College
 
 **LOCKED CANONICAL**
 
 Mohawk Valley Community College (MVCC)
-Where is it?
+## Where is it?
 
 Mohawk Valley Community College's Utica campus sits just west of downtown, serving thousands of students across Oneida County and the Mohawk Valley.
 
@@ -15,7 +32,7 @@ For Samantha Carter, it was where she was building her future.
 
 For Nate Collins, it was where he quietly enabled thousands of other people to build theirs.
 
-What are the sights, sounds, and atmosphere?
+## What are the sights, sounds, and atmosphere?
 
 The campus feels vibrantly alive.
 
@@ -252,3 +269,12 @@ Unlike the FBI Field Office, which catalogs evidence, MVCC remembers people. It 
 Dr. Sullivan is the emotional center of the location. He does not describe suspects, procedures, or forensic evidence. He describes potential. To him, the disappearances are not merely missing-person investigations but interruptions in lives that were still unfolding. His perspective reinforces a central theme of the operation: the greatest loss is not simply that people vanished, but that futures full of possibility were diverted by forces no institution is equipped to understand.
 
 Finally, the college performs an essential investigative function. It dismantles a tempting but incorrect narrative. Samantha and Nate did know each other—but for entirely ordinary reasons. By eliminating that false mystery, MVCC strengthens the credibility of the true one.
+
+## Canonical Relationships
+
+- [LOC-01 — FBI Field Office](FBI-Field-Office.md)
+- [LOC-12 — Hogsback State Forest](Hogsback-State-Forest.md)
+- [PER-04 — Samantha Carter](../npcs/Samantha-Carter.md)
+- [PER-05 — Nathaniel “Nate” Collins](../npcs/Nathaniel-Collins.md)
+- [PER-06 — Elena Alvarez](../npcs/Elena-Alvarez.md)
+- [PER-07 — Patrick O’Connor](../npcs/Patrick-OConnor.md)

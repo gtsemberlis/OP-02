@@ -1,9 +1,22 @@
-# David Barlow's Financial Records
+---
+id: A-03
+title: David Barlow Financial Records
+type: artifact
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: artifacts/David-Barlow-Financial-Records.md
+related_objects:
+- PER-03
+- PER-16
+---
+
+# A-03 — David Barlow Financial Records
 
 **LOCKED CANONICAL**
 
 Artifact: David Barlow's Financial Records
-Description
+## Description
 
 A collection of financial records obtained through subpoenas, search warrants, or voluntary production during the FBI investigation.
 
@@ -24,7 +37,7 @@ The documents span several years and paint the picture of a moderately successfu
 
 Nothing within the records directly references the disappearances or any other aspect of the current investigation.
 
-Who Possesses It?
+## Who Possesses It?
 
 The FBI eventually compiles much of the material as part of its financial review.
 
@@ -32,7 +45,7 @@ David maintains original copies of many business records at his residence and of
 
 Investigators may gain access through official channels or by searching his property.
 
-Where Is It Found?
+## Where Is It Found?
 
 Records are divided between:
 
@@ -44,7 +57,7 @@ Financial software stored on his desktop computer.
 
 No single location contains the complete picture.
 
-Initial Interpretation
+## Initial Interpretation
 
 The records immediately explain why David became defensive during FBI interviews.
 
@@ -62,7 +75,7 @@ David has legitimate reasons to fear federal investigators.
 
 Importantly, none of these offenses bear any apparent relationship to the disappearances.
 
-Further Examination
+## Further Examination
 Financial Accounting
 
 A systematic review confirms that David has been committing tax and accounting fraud for several years.
@@ -91,7 +104,7 @@ His fear is genuine.
 
 It is simply directed toward the wrong problem.
 
-Relationships
+## Relationships
 
 The records primarily relate to David Barlow himself.
 
@@ -111,7 +124,7 @@ or the Mi-Go.
 
 That absence becomes the artifact's most important finding.
 
-Investigation Impact
+## Investigation Impact
 
 David's financial records eliminate one of the investigation's most convincing false leads.
 
@@ -133,7 +146,7 @@ Conversely, investigators willing to exploit his fears can pressure or manipulat
 
 Either approach carries ethical and operational consequences.
 
-Changes Over Time
+## Changes Over Time
 
 The financial records themselves never change.
 
@@ -143,7 +156,7 @@ If he comes to believe they have uncovered his financial misconduct, he becomes 
 
 If investigators successfully convince him that his accounting problems are not their concern, much of his defensiveness disappears, allowing conversations to focus on his disappearance rather than his finances.
 
-Handler Notes
+## Handler Notes
 
 David Barlow's financial records exist to demonstrate that not every suspicious person is connected to the Unnatural.
 
@@ -160,3 +173,8 @@ His fear of the FBI is justified.
 His anxiety simply points toward an entirely different investigation.
 
 Perhaps more importantly, the records provide an opportunity for investigators to define their own professionalism. They can reassure David and earn his trust, or they can leverage knowledge of his crimes to manipulate him. Either choice is effective. Neither is presented as the "correct" one. That decision says as much about the investigators as it does about David.
+
+## Canonical Relationships
+
+- [PER-03 — David Allen Barlow](../npcs/David-Barlow.md)
+- [PER-16 — Mi-Go Operative](../npcs/Mi-Go-Operative.md)

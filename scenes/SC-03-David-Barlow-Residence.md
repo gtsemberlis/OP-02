@@ -1,16 +1,30 @@
+---
+id: SC-03
+title: David Barlow Residence
+type: scene
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: scenes/SC-03-David-Barlow-Residence.md
+related_objects:
+- A-03
+- LOC-03
+- PER-01
+- PER-02
+- PER-03
+- PER-14
+primary_location: LOC-03
+---
+
 # SC-03 — David Barlow Residence
 
 **LOCKED CANONICAL**
 
-SC-03 — David Barlow Residence
-Canonical Information
-Scene ID: SC-03
-Title: David Barlow Residence
-Purpose:
+## Purpose
 Introduce David Barlow, demonstrate how unrelated criminal conduct can obscure the true investigation, and challenge investigators to distinguish ordinary human wrongdoing from evidence of the Unnatural.
 The investigators' approach determines whether David becomes a frightened obstacle or a valuable witness.
 
-Scene Overview
+## Scene Overview
 David Barlow's house feels orderly.
 Not peaceful.
 Controlled.
@@ -30,9 +44,9 @@ He assumes the FBI has discovered his financial crimes.
 The investigators know nothing about them.
 That misunderstanding shapes every conversation that follows.
 
-Location
-Reference
-LOC-04 — David Barlow Residence
+## Location
+## Reference
+LOC-03 — David Barlow Residence
 Common investigative areas include:
 Living room
 Kitchen
@@ -43,7 +57,7 @@ Computer workstation
 The converted home office reveals David's state of mind more effectively than any interview.
 Every document reflects an effort to prove that something ordinary happened.
 
-NPCs Present
+## NPCs Present
 Depending upon the timeline:
 David Barlow
 Melissa Barlow (optional interview, usually off-site)
@@ -51,7 +65,7 @@ David explains his fears.
 Melissa explains the man behind them.
 Together they dismantle the investigators' most convincing false lead.
 
-Artifacts Available
+## Artifacts Available
 Investigators may discover:
 David Barlow's Financial Records
 Insurance correspondence
@@ -66,7 +80,7 @@ Notebook reconstructing his disappearance
 Unlike Hal's notebooks or Christopher's engineering analyses, these documents are attempts to restore normality.
 They seek reassurance rather than discovery.
 
-What Can The Investigators Learn?
+## What Can The Investigators Learn?
 This scene demonstrates that ordinary crimes and impossible events can coexist without being connected.
 David's Perspective
 David remembers very little of his disappearance.
@@ -129,7 +143,7 @@ She eventually says:
 A long pause.
 "About twenty years too late."
 
-What Can Happen In This Scene?
+## What Can Happen In This Scene?
 These are interactive outcomes rather than pieces of information.
 
 Interview David
@@ -156,16 +170,16 @@ The danger comes entirely from mutual misunderstanding.
 Patience and empathy rapidly de-escalate the situation.
 Aggression or intimidation risk creating a crisis that never needed to exist.
 
-Scene Progression
-Initial Visit
+## Scene Progression
+### Initial Visit
 David appears nervous but cooperative.
 His anxiety is easily mistaken for guilt.
 
-Mid Investigation
+### Mid Investigation
 Repeated interviews deepen David's misunderstanding.
 He reviews years of financial paperwork, contacts his accountant, and begins searching desperately for whatever investigators have supposedly discovered.
 
-Late Investigation
+### Late Investigation
 The atmosphere has changed noticeably.
 Curtains remain closed.
 Boxes of financial records occupy the dining room.
@@ -180,7 +194,7 @@ He quietly slides the revolver across the table.
 After a long silence:
 "I never should've bought it."
 
-Handler Notes
+## Handler Notes
 David Barlow's residence represents misdirected suspicion.
 This is the operation's first major lesson that investigators can be entirely correct about a person's guilt while being completely wrong about its relevance. David has committed real financial crimes. His fear of federal investigators is entirely justified. His behavior is suspicious because he is hiding something—but not the thing the investigators were sent to uncover.
 This scene reinforces another foundational principle of Operation Carrier Wave:
@@ -190,3 +204,12 @@ Like Christopher's workshop and Hal's radio logs, David's meticulously organized
 By the end of the scene, investigators should leave having learned something more important than the contents of David's books:
 Good investigators do not simply uncover hidden truths.
 They determine which truths actually matter.
+
+## Canonical Relationships
+
+- [A-03 — David Barlow Financial Records](../artifacts/David-Barlow-Financial-Records.md)
+- [LOC-03 — David Barlow Residence](../locations/David-Barlow-Residence.md)
+- [PER-01 — Christopher Donnelly](../npcs/Christopher-Donnelly.md)
+- [PER-02 — Harold “Hal” Whitaker](../npcs/Harold-Whitaker.md)
+- [PER-03 — David Allen Barlow](../npcs/David-Barlow.md)
+- [PER-14 — Melissa Barlow](../npcs/Melissa-Barlow.md)

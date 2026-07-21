@@ -1,4 +1,19 @@
-# Patrick OConnor
+---
+id: PER-07
+title: Patrick O’Connor
+type: personnel
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: npcs/Patrick-OConnor.md
+related_objects:
+- LOC-08
+- LOC-10
+---
+
+# PER-07 — Patrick O’Connor
+
+**LOCKED CANONICAL**
 
 > Status: LOCKED CANONICAL
 
@@ -21,7 +36,7 @@ Marital Status: Married
 
 Children: Two (ages 14 and 17)
 
-Public Record
+## Public Record
 
 Michael O'Connor was born in Utica, New York, and raised in New Hartford.
 
@@ -46,7 +61,7 @@ Well respected by neighboring agencies.
 
 Frequently speaks at community events and local schools.
 
-Physical Description
+## Physical Description
 
 Height: 5'11"
 
@@ -66,7 +81,7 @@ Carries himself with quiet confidence rather than command presence.
 
 Looks like someone who has spent decades putting people at ease during their worst days.
 
-Biography
+## Biography
 
 Michael O'Connor never intended to become Chief.
 
@@ -84,7 +99,7 @@ He still responds personally to major incidents whenever practical.
 
 The string of disappearances has become the defining challenge of his career.
 
-Private Context
+## Private Context
 
 Michael carries every unsolved case personally.
 
@@ -116,7 +131,7 @@ Very good at recognizing when witnesses are withholding information.
 
 Less comfortable evaluating highly technical evidence.
 
-Communication Style
+## Communication Style
 
 Measured.
 
@@ -132,7 +147,7 @@ Rarely interrupts.
 
 When he asks a question, people generally feel he genuinely wants the answer.
 
-Under Pressure
+## Under Pressure
 
 Becomes calmer.
 
@@ -146,7 +161,7 @@ When overwhelmed by uncertainty, he increases organization rather than urgency.
 
 He is slow to embrace extraordinary explanations, but once evidence becomes overwhelming, he adjusts without defensiveness.
 
-Investigative Utility
+## Investigative Utility
 
 Chief O'Connor can provide investigators with:
 
@@ -202,3 +217,8 @@ Design Notes
 Chief O'Connor is intentionally written as a good police chief, not a dramatic obstacle. His function is to reinforce the grounded realism of the investigation. The Program does not succeed because local law enforcement is incompetent; it succeeds because the evidence eventually points beyond the framework that ordinary policing is designed to address.
 
 His greatest strength—and his greatest limitation—is his unwavering belief that every mystery has a human explanation. That conviction has served him well throughout his career. Episode 2 is the first case that asks him to confront the possibility that it may not be enough. I think that makes his eventual interactions with the Delta Green Friendly especially compelling: one man committed to protecting his town, the other committed to protecting the world, both trying to solve the same case from fundamentally different assumptions.
+
+## Canonical Relationships
+
+- [LOC-08 — Mohawk Valley Community College](../locations/Mohawk-Valley-Community-College.md)
+- [LOC-10 — New Hartford Police Department](../locations/New-Hartford-Police-Department.md)

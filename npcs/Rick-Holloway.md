@@ -1,4 +1,23 @@
-# Rick Holloway
+---
+id: PER-10
+title: Richard “Rick” Holloway
+type: personnel
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: npcs/Rick-Holloway.md
+related_objects:
+- PER-02
+- PER-04
+- PER-05
+- PER-06
+- PER-07
+- PER-11
+---
+
+# PER-10 — Richard “Rick” Holloway
+
+**LOCKED CANONICAL**
 
 > Status: LOCKED CANONICAL
 
@@ -25,7 +44,7 @@ Licensed Amateur Radio Operator (Extra Class).
 
 Club president for the past eleven years.
 
-Public Record
+## Public Record
 
 Richard Holloway was born in Utica, New York.
 
@@ -53,7 +72,7 @@ No civil litigation.
 
 Widely respected within the regional amateur radio community.
 
-Physical Description
+## Physical Description
 
 Height: 5'10"
 
@@ -75,7 +94,7 @@ Frequently seen carrying a coffee mug and a handheld radio.
 
 Looks more like a favorite uncle than the president of an organization.
 
-Biography
+## Biography
 
 Rick believes hobbies exist to bring people together.
 
@@ -91,7 +110,7 @@ His greatest pride is not the club's equipment.
 
 It's the people who keep coming back.
 
-Private Context
+## Private Context
 
 Rick quietly keeps attendance records from every club meeting.
 
@@ -127,7 +146,7 @@ Less interested in technical perfection than maintaining community.
 
 Naturally builds connections between people.
 
-Communication Style
+## Communication Style
 
 Friendly.
 
@@ -143,7 +162,7 @@ Rarely speaks negatively about anyone.
 
 Comfortable admitting when he doesn't know something.
 
-Under Pressure
+## Under Pressure
 
 Initially attempts to maintain normalcy.
 
@@ -157,7 +176,7 @@ Even then, he avoids panic.
 
 His instinct is always to take care of others first.
 
-Investigative Utility
+## Investigative Utility
 
 Rick provides investigators with:
 
@@ -237,3 +256,12 @@ Rick sees neighbors.
 His interviews remind the investigators—and the players—that these disappearances are not merely investigative problems. They are absences. Every empty chair at a club meeting, every unanswered radio call, and every name missing from the attendance sheet quietly testifies to lives interrupted.
 
 For that reason, Rick should rarely provide critical clues. His purpose is more important than that. He gives the victims humanity, making them feel like members of a real community rather than entries on a timeline. I think that emotional grounding will make the eventual revelation about what happened to them resonate far more strongly than any single piece of evidence could.
+
+## Canonical Relationships
+
+- [PER-02 — Harold “Hal” Whitaker](Harold-Whitaker.md)
+- [PER-04 — Samantha Carter](Samantha-Carter.md)
+- [PER-05 — Nathaniel “Nate” Collins](Nathaniel-Collins.md)
+- [PER-06 — Elena Alvarez](Elena-Alvarez.md)
+- [PER-07 — Patrick O’Connor](Patrick-OConnor.md)
+- [PER-11 — Thomas Sullivan](Dean-Sullivan.md)

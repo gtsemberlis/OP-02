@@ -1,4 +1,18 @@
-# Daniel Kowalski
+---
+id: PER-08
+title: Daniel Kowalski
+type: personnel
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: npcs/Daniel-Kowalski.md
+related_objects:
+- LOC-08
+- LOC-12
+- PER-07
+---
+
+# PER-08 — Daniel Kowalski
 
 **LOCKED CANONICAL**
 
@@ -47,7 +61,7 @@ Kowalski dislikes unnecessary drama and rarely jumps to conclusions. He believes
 
 He has a dry sense of humor and is well liked by both local law enforcement and county search-and-rescue volunteers.
 
-Background
+## Background
 
 Raised in Rome, New York.
 
@@ -118,7 +132,7 @@ First aid kit
 Flashlight
 Multi-tool
 Service sidearm
-Relationships
+## Relationships
 
 Professional acquaintances with:
 
@@ -210,10 +224,16 @@ ordinary people continue to be at risk.
 
 His abandoned radio becomes one of the operation's most important physical artifacts, providing investigators with the strongest recording yet of the anomalous buzzing.
 
-Handler Notes
+## Handler Notes
 
 Daniel Kowalski should be portrayed as an ordinary professional doing an ordinary job exceptionally well.
 
 His disappearance should never feel like the consequence of recklessness or horror-movie curiosity. Every decision he makes is exactly what a competent park ranger would do: investigate unexplained radio interference in an isolated section of the forest.
 
 That ordinariness is what gives the scene its emotional impact. Unlike the first five victims, Kowalski disappears while the investigators are present. He is the first person they might have been able to save—and the moment he vanishes, the investigation ceases to be about understanding the past and becomes about preventing the next disappearance. I think that makes him a worthy "full" character despite his relatively brief appearance.
+
+## Canonical Relationships
+
+- [LOC-08 — Mohawk Valley Community College](../locations/Mohawk-Valley-Community-College.md)
+- [LOC-12 — Hogsback State Forest](../locations/Hogsback-State-Forest.md)
+- [PER-07 — Patrick O’Connor](Patrick-OConnor.md)

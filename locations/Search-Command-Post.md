@@ -1,9 +1,28 @@
-# Search Command Post
+---
+id: LOC-11
+title: Search Command Post
+type: location
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: locations/Search-Command-Post.md
+related_objects:
+- LOC-10
+- LOC-12
+- LOC-13
+- LOC-14
+- PER-05
+- PER-07
+- PER-08
+- PER-16
+---
+
+# LOC-11 — Search Command Post
 
 **LOCKED CANONICAL**
 
 Search Command Post
-Where is it?
+## Where is it?
 
 The Search Command Post is a temporary operations center established after Park Ranger Daniel Kowalski disappears.
 
@@ -17,7 +36,7 @@ Finding Daniel alive.
 
 Every hour that passes changes its priorities.
 
-What are the sights, sounds, and atmosphere?
+## What are the sights, sounds, and atmosphere?
 
 The atmosphere is purposeful rather than frantic.
 
@@ -232,3 +251,14 @@ Throughout Episode 2, institutions have demonstrated different forms of expertis
 This location also serves an important narrative function. By allowing the investigators to witness a modern, professionally managed search operation in detail, the operation eliminates a common assumption: that the missing simply haven't been looked for thoroughly enough. When players see the scale, discipline, and competence of the search, they understand that the mystery persists despite humanity's best efforts, not because those efforts were lacking.
 
 Finally, the Search Command Post marks the point where the investigation exhausts conventional methods. Once the investigators have seen every sector searched, every map updated, every agency mobilized, and every volunteer committed, they reach an unavoidable conclusion. The next step cannot simply be "search harder." It requires seeing the forest differently than anyone else has been able to. That realization naturally bridges into the final act of the operation and the search for the Mi-Go operating chamber.
+
+## Canonical Relationships
+
+- [LOC-10 — New Hartford Police Department](New-Hartford-Police-Department.md)
+- [LOC-12 — Hogsback State Forest](Hogsback-State-Forest.md)
+- [LOC-13 — Hogsback Ranger Station](Hogsback-Ranger-Station.md)
+- [LOC-14 — Mi-Go Operating Chamber](Mi-Go-Operating-Chamber.md)
+- [PER-05 — Nathaniel “Nate” Collins](../npcs/Nathaniel-Collins.md)
+- [PER-07 — Patrick O’Connor](../npcs/Patrick-OConnor.md)
+- [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
+- [PER-16 — Mi-Go Operative](../npcs/Mi-Go-Operative.md)

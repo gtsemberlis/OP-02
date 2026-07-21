@@ -1,4 +1,17 @@
-# Elena Alvarez
+---
+id: PER-06
+title: Elena Alvarez
+type: personnel
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: npcs/Elena-Alvarez.md
+related_objects: []
+---
+
+# PER-06 — Elena Alvarez
+
+**LOCKED CANONICAL**
 
 > Status: LOCKED CANONICAL
 
@@ -23,7 +36,7 @@ Marital Status: Divorced
 
 No children.
 
-Public Record
+## Public Record
 
 Elena Alvarez was born in the Bronx, New York, to Puerto Rican parents.
 
@@ -46,7 +59,7 @@ No disciplinary history.
 
 Known for meticulous case management and exceptionally strong interview skills.
 
-Physical Description
+## Physical Description
 
 Height: 5'6"
 
@@ -66,7 +79,7 @@ Projects calm confidence without appearing intimidating.
 
 Maintains excellent physical conditioning through distance running.
 
-Biography
+## Biography
 
 Elena entered law enforcement because she believed every unanswered question represented someone still waiting for justice.
 
@@ -78,7 +91,7 @@ She became known for coordinating investigations involving multiple agencies, re
 
 By the time the disappearances in Oneida County begin attracting federal attention, Elena has developed a reputation for bringing structure to investigations that appear increasingly chaotic.
 
-Private Context
+## Private Context
 
 Elena keeps remarkably little of her work at home.
 
@@ -106,7 +119,7 @@ Recognizes patterns across investigations that others often view independently.
 
 Comfortable admitting uncertainty.
 
-Communication Style
+## Communication Style
 
 Warm without being informal.
 
@@ -124,7 +137,7 @@ Prefers collaboration over authority.
 
 Almost never raises her voice.
 
-Under Pressure
+## Under Pressure
 
 Becomes more methodical.
 
@@ -138,7 +151,7 @@ If evidence contradicts her conclusions, she changes her conclusions.
 
 Never the reverse.
 
-Investigative Utility
+## Investigative Utility
 
 Special Agent Alvarez provides access to:
 
@@ -217,3 +230,7 @@ Design Notes
 Making Elena a Friendly rather than a Program Agent keeps her firmly grounded in the ordinary world. She is still an FBI supervisor first and foremost. Delta Green values her not because she believes in the Unnatural, but because she demonstrates the qualities the Program depends on: intellectual honesty, discretion, professional competence, and the humility to recognize when a case has exceeded conventional explanation.
 
 Her relationship with the Program is built on trust, not membership, making her an ideal bridge between the federal investigation and the agents without overshadowing either. I think she'll become one of those NPCs that players instinctively trust—not because she's "in on the secret," but because she's earned it.
+
+## Canonical Relationships
+
+_None._

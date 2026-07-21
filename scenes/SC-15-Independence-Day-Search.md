@@ -1,16 +1,32 @@
+---
+id: SC-15
+title: Independence Day Search
+type: scene
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: scenes/SC-15-Independence-Day-Search.md
+related_objects:
+- HT-01
+- LOC-11
+- LOC-12
+- LOC-14
+- PER-04
+- PER-07
+- PER-08
+- PER-16
+primary_location: LOC-12
+---
+
 # SC-15 — Independence Day Search
 
 **LOCKED CANONICAL**
 
-SC-15 — Independence Day Search
-Canonical Information
-Scene ID: SC-15
-Title: Independence Day Search
-Purpose:
+## Purpose
 Escalate Operation Carrier Wave into a county-wide operational crisis, forcing investigators to balance rescue, containment, and confrontation with the Unnatural while the largest coordinated search effort of the operation unfolds around them.
 If investigators attempt to locate the Mi-Go Operating Chamber during this scene, resolve the search using HT-01 — Locating the Mi-Go Chamber.
 
-Scene Overview
+## Scene Overview
 By the evening of July 4, Park Ranger Daniel Kowalski has been missing for two days. If Samantha Carter has also returned to Hogsback State Forest, concern has become desperation.
 The investigation has outgrown the FBI.
 It has outgrown local law enforcement.
@@ -28,14 +44,14 @@ The largest coordinated human effort of the operation unfolds alongside an ordin
 Neither event was planned with the other in mind.
 The investigators now operate where those two worlds collide.
 
-Location
+## Location
 References
-LOC-08 — Search Command Post
+LOC-11 — Search Command Post
 The operational heart of the search effort, coordinating personnel, logistics, communications, and search assignments. It demonstrates modern search-and-rescue operating at maximum effectiveness.
-LOC-09 — Hogsback State Forest
+LOC-12 — Hogsback State Forest
 The search unfolds throughout Hogsback State Forest. Trails, service roads, communications dead zones, observation points, and increasingly crowded search sectors become the investigators' operational environment.
 
-NPCs Present
+## NPCs Present
 Participants vary throughout the operation and may include:
 Chief Patrick O'Connor
 Forest Rangers
@@ -53,7 +69,7 @@ Daniel Kowalski
 Samantha Carter
 The Mi-Go is active during this scene but is not seeking confrontation. It continues its work regardless of the human activity surrounding it.
 
-Artifacts Available
+## Artifacts Available
 No new canonical artifacts originate during this scene.
 Instead, investigators may have access to:
 Updated Incident Action Plans
@@ -66,7 +82,7 @@ The effectiveness of any attempt to locate the Mi-Go Operating Chamber depends u
 See:
 HT-01 — Locating the Mi-Go Chamber
 
-What Can The Investigators Learn?
+## What Can The Investigators Learn?
 This scene rewards synthesis rather than new discovery.
 Human Coordination Has Reached Its Limits
 Investigators witness one of the largest coordinated search efforts in recent county history.
@@ -100,7 +116,7 @@ The information gathered throughout the investigation now becomes operationally 
 Earlier interviews, recovered artifacts, and careful observation determine whether the investigators merely participate in the search—or recognize patterns invisible to everyone else.
 Locating the Mi-Go Operating Chamber is resolved using HT-01.
 
-What Can Happen In This Scene?
+## What Can Happen In This Scene?
 These are interactive outcomes rather than pieces of information.
 
 The Search Evolves
@@ -147,25 +163,25 @@ Neutralizing or containing the threat.
 Surviving the encounter.
 No decision accomplishes every objective.
 
-Scene Progression
-Initial Phase
+## Scene Progression
+### Initial Phase
 The search is disciplined and methodical.
 Investigators integrate into an organized rescue effort.
 Optimism still exists.
 
-Escalation
+### Escalation
 Darkness falls.
 Fireworks begin.
 Radio interference grows more frequent.
 Search resources spread throughout the forest.
 Operational confusion steadily increases.
 
-Final Phase
+### Final Phase
 The investigation reaches its climax.
 The search either succeeds or reaches its operational limit.
 Whatever occurs at the Mi-Go Operating Chamber will determine the final outcome of Operation Carrier Wave.
 
-Handler Notes
+## Handler Notes
 The Independence Day Search is not the climax because it introduces a stronger adversary.
 It is the climax because every human system in the operation converges on the same piece of ground.
 The FBI.
@@ -188,3 +204,14 @@ It is interrupted while performing routine work.
 One image should define the scene.
 A helicopter banks overhead as a brilliant burst of Independence Day fireworks floods the canopy with white light. For a fraction of a second, every tree becomes a black silhouette—and between them stands something that should not exist. Darkness returns. The dogs begin barking in different directions. Radios dissolve once again into that familiar, impossible buzzing.
 Everything the investigators have learned has led them here. The outcome is no longer determined by a single Search roll, but by the quality of the investigation that brought them to this moment. The search for the Mi-Go Operating Chamber should always be resolved using HT-01 — Locating the Mi-Go Chamber, ensuring that discovery feels earned through observation, synthesis, and disciplined inquiry rather than luck.
+
+## Canonical Relationships
+
+- [HT-01 — Locating the Mi-Go Chamber](../handlers-aid/HT-01-Progressive-Search.md)
+- [LOC-11 — Search Command Post](../locations/Search-Command-Post.md)
+- [LOC-12 — Hogsback State Forest](../locations/Hogsback-State-Forest.md)
+- [LOC-14 — Mi-Go Operating Chamber](../locations/Mi-Go-Operating-Chamber.md)
+- [PER-04 — Samantha Carter](../npcs/Samantha-Carter.md)
+- [PER-07 — Patrick O’Connor](../npcs/Patrick-OConnor.md)
+- [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
+- [PER-16 — Mi-Go Operative](../npcs/Mi-Go-Operative.md)

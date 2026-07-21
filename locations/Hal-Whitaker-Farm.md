@@ -1,9 +1,25 @@
-# Hal Whitaker Farm
+---
+id: LOC-02
+title: Hal Whitaker Farm
+type: location
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: locations/Hal-Whitaker-Farm.md
+related_objects:
+- PER-02
+- PER-04
+- PER-07
+- PER-08
+- PER-13
+---
+
+# LOC-02 — Hal Whitaker Farm
 
 **LOCKED CANONICAL**
 
 Hal Whitaker Farm
-Where is it?
+## Where is it?
 
 The Whitaker Farm lies several miles outside the nearest town, connected to the highway by a long gravel road bordered by aging split-rail fences and overgrown hedgerows.
 
@@ -20,7 +36,7 @@ A radio antenna tower rising beside the house
 
 The antenna is visible long before the house itself.
 
-What are the sights, sounds, and atmosphere?
+## What are the sights, sounds, and atmosphere?
 
 The farm feels isolated in a comforting rather than unsettling way.
 
@@ -183,3 +199,11 @@ Samantha's home establishes what can still be lost.
 Hal's farm establishes how the investigation should be conducted.
 
 Hal is the operation's model witness. He does not speculate, embellish, or seek attention. His radio logs, recordings, and notebooks demonstrate disciplined observation in the face of the inexplicable. They quietly reinforce one of the campaign's central ideas: patterns first, stories later. By grounding the investigators in careful evidence before introducing stranger testimony elsewhere, the farm becomes the intellectual foundation of the investigation as much as a source of clues.
+
+## Canonical Relationships
+
+- [PER-02 — Harold “Hal” Whitaker](../npcs/Harold-Whitaker.md)
+- [PER-04 — Samantha Carter](../npcs/Samantha-Carter.md)
+- [PER-07 — Patrick O’Connor](../npcs/Patrick-OConnor.md)
+- [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
+- [PER-13 — Rebecca Lawson](../npcs/Rebecca-Lawson.md)

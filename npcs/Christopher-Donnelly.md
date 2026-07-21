@@ -1,4 +1,17 @@
-# Christopher Donnelly
+---
+id: PER-01
+title: Christopher Donnelly
+type: personnel
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: npcs/Christopher-Donnelly.md
+related_objects:
+- LOC-08
+- PER-12
+---
+
+# PER-01 — Christopher Donnelly
 
 **LOCKED CANONICAL**
 
@@ -12,7 +25,7 @@ Residence: Marcy, New York (outside Utica)
 
 Marital Status: Married
 
-Family
+## Family
 
 Wife: Jennifer ("Jen") Donnelly (40)
 
@@ -31,8 +44,8 @@ Daughter: Erin Donnelly (13)
 Middle school student
 Plays violin
 Quiet but observant
-Public Record
-Background
+## Public Record
+## Background
 
 Michael Patrick Donnelly was born in Utica, New York.
 
@@ -66,7 +79,7 @@ Licensed Amateur Radio Operator for approximately nine years.
 
 Volunteer participant during county emergency communications exercises.
 
-Physical Description
+## Physical Description
 
 Height: 6'0"
 
@@ -88,7 +101,7 @@ Permanent grease staining beneath fingernails despite meticulous hygiene.
 
 Smells faintly of machine oil even off shift.
 
-Biography
+## Biography
 
 Friends and coworkers consistently describe Donnelly as dependable, patient, and quiet.
 
@@ -102,7 +115,7 @@ Has never sought leadership positions within either his workplace or amateur rad
 
 Widely respected for practical expertise.
 
-Private Context
+## Private Context
 
 Mike finds comfort in systems that behave predictably.
 
@@ -144,7 +157,7 @@ Excellent pattern recognition in physical systems.
 
 Average social intuition.
 
-Communication Style
+## Communication Style
 
 Economical.
 
@@ -160,7 +173,7 @@ Uses analogies drawn from machining, engines, or fabrication.
 
 Almost never interrupts.
 
-Under Pressure
+## Under Pressure
 
 Initially becomes quieter rather than louder.
 
@@ -176,7 +189,7 @@ Displays remarkable patience.
 
 Can become unexpectedly stubborn if he believes others are ignoring objective evidence.
 
-Investigative Utility
+## Investigative Utility
 
 Mike is one of the investigators' most reliable witnesses—not because he remembers more than the others, but because he is disciplined about distinguishing what he knows from what he assumes.
 
@@ -260,3 +273,8 @@ Appearing calmer during stressful situations.
 His wife initially considers these changes a blessing.
 
 Only later does she begin to wonder how someone can abandon a lifelong addiction overnight without struggle.
+
+## Canonical Relationships
+
+- [LOC-08 — Mohawk Valley Community College](../locations/Mohawk-Valley-Community-College.md)
+- [PER-12 — Jennifer Donnelly](Jennifer-Donnelly.md)

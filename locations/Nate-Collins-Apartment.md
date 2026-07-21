@@ -1,9 +1,27 @@
-# Nate Collins Apartment
+---
+id: LOC-06
+title: Nate Collins Apartment
+type: location
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: locations/Nate-Collins-Apartment.md
+related_objects:
+- LOC-08
+- LOC-12
+- PER-02
+- PER-03
+- PER-04
+- PER-05
+- PER-09
+---
+
+# LOC-06 — Nate Collins Apartment
 
 **LOCKED CANONICAL**
 
 Nate Collins Apartment
-Where is it?
+## Where is it?
 
 Nate rents a one-bedroom apartment in a recently renovated brick building near downtown Utica, within easy driving distance of Mohawk Valley Community College and approximately thirty minutes from Hogsback State Forest.
 
@@ -13,7 +31,7 @@ His apartment occupies the second floor overlooking a side street lined with cof
 
 Nothing about the exterior suggests anything unusual.
 
-What are the sights, sounds, and atmosphere?
+## What are the sights, sounds, and atmosphere?
 
 The apartment immediately feels different from the previous locations.
 
@@ -195,3 +213,13 @@ Nate's apartment represents the democratization of evidence.
 Unlike Hal Whitaker's carefully maintained amateur radio station or the FBI's professional investigation, Nate's documentation comes from consumer technology available to almost anyone: software-defined radios, GPS receivers, digital cameras, drones, and laptops. His evidence demonstrates that the modern world is saturated with sensors capable of recording phenomena their owners do not fully understand.
 
 The location also serves as the narrative hinge between the private investigation and the public one. Until the investigators meet Nate, the operation remains largely contained within local law enforcement and the Program. After they leave, Nate's entirely reasonable decision to share well-documented observations transforms an isolated case into a growing civilian curiosity. The apartment is therefore not just where evidence is stored—it is where the investigation escapes the control of every official agency involved.
+
+## Canonical Relationships
+
+- [LOC-08 — Mohawk Valley Community College](Mohawk-Valley-Community-College.md)
+- [LOC-12 — Hogsback State Forest](Hogsback-State-Forest.md)
+- [PER-02 — Harold “Hal” Whitaker](../npcs/Harold-Whitaker.md)
+- [PER-03 — David Allen Barlow](../npcs/David-Barlow.md)
+- [PER-04 — Samantha Carter](../npcs/Samantha-Carter.md)
+- [PER-05 — Nathaniel “Nate” Collins](../npcs/Nathaniel-Collins.md)
+- [PER-09 — Evan Brooks](../npcs/Evan-Brooks.md)

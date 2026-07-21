@@ -1,9 +1,31 @@
-# Artifact: Nate Collins' SaucerWatch Report
+---
+id: A-05
+title: Nate Collins SaucerWatch Report
+type: artifact
+status: canonical
+content_status: content_locked
+operation: OP-02
+canonical_path: artifacts/Nate-Collins-SaucerWatch-Report.md
+related_objects:
+- A-01
+- A-04
+- A-06
+- A-07
+- LOC-14
+- PER-02
+- PER-04
+- PER-05
+- PER-08
+- PER-09
+- PER-16
+---
+
+# A-05 — Nate Collins SaucerWatch Report
 
 **LOCKED CANONICAL**
 
 Artifact: Nate Collins' SaucerWatch Report
-Description
+## Description
 
 A detailed investigative report authored by Nathaniel Collins and distributed electronically to members of the SaucerWatch online community approximately one week after his return.
 
@@ -26,7 +48,7 @@ The writing is analytical, restrained, and often self-critical.
 
 Whenever Collins cannot support a conclusion with evidence, he explicitly says so.
 
-Who Possesses It?
+## Who Possesses It?
 
 Nathaniel Collins authored the original report.
 
@@ -36,7 +58,7 @@ Brooks maintains a copy within his investigation archive.
 
 Fragments of the report eventually circulate through the broader SaucerWatch community.
 
-Where Is It Found?
+## Where Is It Found?
 
 Investigators may obtain the report from:
 
@@ -47,7 +69,7 @@ Collins' personal computer.
 
 The version preserved by Brooks contains handwritten annotations comparing Collins' observations to earlier disappearance cases.
 
-Initial Interpretation
+## Initial Interpretation
 
 The report initially appears to be another well-written UFO account.
 
@@ -72,7 +94,7 @@ Physical fatigue inconsistent with the distance he remembers traveling.
 
 Rather than explaining these events, Collins asks whether anyone has documented similar experiences.
 
-Further Examination
+## Further Examination
 Computer Science
 
 The report demonstrates careful handling of digital evidence.
@@ -129,7 +151,7 @@ Something unusual is happening.
 
 Neither claims to understand what it is.
 
-Relationships
+## Relationships
 
 The report directly complements:
 
@@ -143,7 +165,7 @@ The SaucerWatch Discussion Thread.
 
 It serves as the bridge between the official investigation and civilian research.
 
-Investigation Impact
+## Investigation Impact
 
 Nate Collins' report demonstrates that meaningful investigation can occur outside formal institutions.
 
@@ -157,7 +179,7 @@ It is the quality of the evidence.
 
 The report may also encourage investigators to re-examine Collins as an unusually credible witness rather than merely another victim.
 
-Changes Over Time
+## Changes Over Time
 
 The report itself never changes.
 
@@ -167,7 +189,7 @@ Initially, Collins' observations appear isolated.
 
 Later discoveries—including Hal's recording, Daniel's transmission, and the Mi-Go operating chamber—confirm that many of Collins' cautious observations were accurate, even though his proposed explanations remained incomplete.
 
-Handler Notes
+## Handler Notes
 
 Nate Collins' report exists to reinforce an important theme of the operation:
 
@@ -182,3 +204,17 @@ His report is valuable not because it reaches the correct conclusion—it doesn'
 Throughout the report, Collins consistently distinguishes between facts, interpretations, and hypotheses. That discipline makes him one of the operation's most reliable civilian witnesses and explains why Brooks immediately recognizes the report as something different from the noise that usually fills SaucerWatch.
 
 The report also serves as a subtle mirror of the investigators themselves. Like the agents, Collins gathers evidence, acknowledges uncertainty, revises his beliefs when confronted with new information, and resists the temptation to force the unknown into a familiar narrative. In that sense, he succeeds not because he finds answers, but because he asks the right questions. That makes him an ideal civilian counterpart to the Program's own investigative philosophy.
+
+## Canonical Relationships
+
+- [A-01 — FBI Preliminary Investigation Report](FBI-Preliminary-Investigation-Report.md)
+- [A-04 — Samantha Carter Field Journal](Samantha-Carter-Field-Journal.md)
+- [A-06 — Brooks Investigation Report](Brooks-Investigation-Report.md)
+- [A-07 — SaucerWatch Discussion Thread](SaucerWatch-Discussion-Thread.md)
+- [LOC-14 — Mi-Go Operating Chamber](../locations/Mi-Go-Operating-Chamber.md)
+- [PER-02 — Harold “Hal” Whitaker](../npcs/Harold-Whitaker.md)
+- [PER-04 — Samantha Carter](../npcs/Samantha-Carter.md)
+- [PER-05 — Nathaniel “Nate” Collins](../npcs/Nathaniel-Collins.md)
+- [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
+- [PER-09 — Evan Brooks](../npcs/Evan-Brooks.md)
+- [PER-16 — Mi-Go Operative](../npcs/Mi-Go-Operative.md)
