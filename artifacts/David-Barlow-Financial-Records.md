@@ -9,6 +9,8 @@ canonical_path: artifacts/David-Barlow-Financial-Records.md
 related_objects:
 - PER-03
 - PER-16
+- HT-02.6
+- HT-02.7
 ---
 
 # A-03 — David Barlow Financial Records
@@ -178,3 +180,5 @@ Perhaps more importantly, the records provide an opportunity for investigators t
 
 - [PER-03 — David Allen Barlow](../npcs/David-Barlow.md)
 - [PER-16 — Mi-Go Operative](../npcs/Mi-Go-Operative.md)
+- [HT-02.6 — Interview Guide — David Barlow](../handlers-aid/ht-02-interviews/ht-02-6-david-barlow.md)
+- [HT-02.7 — Interview Guide — Melissa Barlow](../handlers-aid/ht-02-interviews/ht-02-7-melissa-barlow.md)

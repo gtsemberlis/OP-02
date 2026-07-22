@@ -12,6 +12,7 @@ related_objects:
 - PER-05
 - PER-06
 - PER-07
+- HT-02.5
 ---
 
 # PER-11 — Thomas Sullivan
@@ -234,3 +235,4 @@ Finally, Thomas provides a perspective none of the other NPCs can. When he speak
 - [PER-05 — Nathaniel “Nate” Collins](Nathaniel-Collins.md)
 - [PER-06 — Elena Alvarez](Elena-Alvarez.md)
 - [PER-07 — Patrick O’Connor](Patrick-OConnor.md)
+- [HT-02.5 — Interview Guide — Nathaniel “Nate” Collins](../handlers-aid/ht-02-interviews/ht-02-5-nathaniel-nate-collins.md)

@@ -20,6 +20,14 @@ related_objects:
 - PER-06
 - PER-08
 - PER-09
+- HT-02.1
+- HT-02.2
+- HT-02.3
+- HT-02.4
+- HT-02.5
+- HT-02.6
+- HT-02.8
+- HT-02.10
 ---
 
 # A-01 — FBI Preliminary Investigation Report
@@ -339,3 +347,11 @@ In that sense, the Preliminary Report is the operation's ground truth. Every sub
 - [PER-06 — Elena Alvarez](../npcs/Elena-Alvarez.md)
 - [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
 - [PER-09 — Evan Brooks](../npcs/Evan-Brooks.md)
+- [HT-02.1 — Interview Guide — Christopher Donnelly](../handlers-aid/ht-02-interviews/ht-02-1-christopher-donnelly.md)
+- [HT-02.2 — Interview Guide — Jennifer Donnelly](../handlers-aid/ht-02-interviews/ht-02-2-jennifer-donnelly.md)
+- [HT-02.3 — Interview Guide — Michael & Laura Carter](../handlers-aid/ht-02-interviews/ht-02-3-michael-laura-carter.md)
+- [HT-02.4 — Interview Guide — Samantha Carter](../handlers-aid/ht-02-interviews/ht-02-4-samantha-carter.md)
+- [HT-02.5 — Interview Guide — Nathaniel “Nate” Collins](../handlers-aid/ht-02-interviews/ht-02-5-nathaniel-nate-collins.md)
+- [HT-02.6 — Interview Guide — David Barlow](../handlers-aid/ht-02-interviews/ht-02-6-david-barlow.md)
+- [HT-02.8 — Interview Guide — Harold “Hal” Whitaker](../handlers-aid/ht-02-interviews/ht-02-8-harold-hal-whitaker.md)
+- [HT-02.10 — Interview Guide — Richard “Rick” Holloway](../handlers-aid/ht-02-interviews/ht-02-10-richard-rick-holloway.md)

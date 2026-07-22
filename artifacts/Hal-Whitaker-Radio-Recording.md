@@ -17,6 +17,12 @@ related_objects:
 - PER-08
 - PER-09
 - PER-16
+- HT-02.1
+- HT-02.4
+- HT-02.5
+- HT-02.8
+- HT-02.9
+- HT-02.10
 ---
 
 # A-02 — Hal Whitaker Radio Recording
@@ -165,3 +171,9 @@ This directly supports the operation's navigation philosophy: the Mi-Go chamber 
 - [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
 - [PER-09 — Evan Brooks](../npcs/Evan-Brooks.md)
 - [PER-16 — Mi-Go Operative](../npcs/Mi-Go-Operative.md)
+- [HT-02.1 — Interview Guide — Christopher Donnelly](../handlers-aid/ht-02-interviews/ht-02-1-christopher-donnelly.md)
+- [HT-02.4 — Interview Guide — Samantha Carter](../handlers-aid/ht-02-interviews/ht-02-4-samantha-carter.md)
+- [HT-02.5 — Interview Guide — Nathaniel “Nate” Collins](../handlers-aid/ht-02-interviews/ht-02-5-nathaniel-nate-collins.md)
+- [HT-02.8 — Interview Guide — Harold “Hal” Whitaker](../handlers-aid/ht-02-interviews/ht-02-8-harold-hal-whitaker.md)
+- [HT-02.9 — Interview Guide — Rebecca Lawson](../handlers-aid/ht-02-interviews/ht-02-9-rebecca-lawson.md)
+- [HT-02.10 — Interview Guide — Richard “Rick” Holloway](../handlers-aid/ht-02-interviews/ht-02-10-richard-rick-holloway.md)

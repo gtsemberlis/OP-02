@@ -12,6 +12,8 @@ related_objects:
 - PER-04
 - PER-05
 - PER-16
+- HT-02.1
+- HT-02.2
 ---
 
 # PER-12 — Jennifer Donnelly
@@ -180,3 +182,5 @@ That ordinary observation becomes profoundly disturbing once the investigators b
 - [PER-04 — Samantha Carter](Samantha-Carter.md)
 - [PER-05 — Nathaniel “Nate” Collins](Nathaniel-Collins.md)
 - [PER-16 — Mi-Go Operative](Mi-Go-Operative.md)
+- [HT-02.1 — Interview Guide — Christopher Donnelly](../handlers-aid/ht-02-interviews/ht-02-1-christopher-donnelly.md)
+- [HT-02.2 — Interview Guide — Jennifer Donnelly](../handlers-aid/ht-02-interviews/ht-02-2-jennifer-donnelly.md)

@@ -10,6 +10,10 @@ related_objects:
 - LOC-08
 - PER-02
 - PER-05
+- HT-02.3
+- HT-02.4
+- HT-02.5
+- HT-02.10
 ---
 
 # PER-04 — Samantha Carter
@@ -312,3 +316,7 @@ Her post-incident change is intentionally subtle. The horror is not that she bec
 - [LOC-08 — Mohawk Valley Community College](../locations/Mohawk-Valley-Community-College.md)
 - [PER-02 — Harold “Hal” Whitaker](Harold-Whitaker.md)
 - [PER-05 — Nathaniel “Nate” Collins](Nathaniel-Collins.md)
+- [HT-02.3 — Interview Guide — Michael & Laura Carter](../handlers-aid/ht-02-interviews/ht-02-3-michael-laura-carter.md)
+- [HT-02.4 — Interview Guide — Samantha Carter](../handlers-aid/ht-02-interviews/ht-02-4-samantha-carter.md)
+- [HT-02.5 — Interview Guide — Nathaniel “Nate” Collins](../handlers-aid/ht-02-interviews/ht-02-5-nathaniel-nate-collins.md)
+- [HT-02.10 — Interview Guide — Richard “Rick” Holloway](../handlers-aid/ht-02-interviews/ht-02-10-richard-rick-holloway.md)

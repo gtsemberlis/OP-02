@@ -9,6 +9,9 @@ canonical_path: npcs/Harold-Whitaker.md
 related_objects:
 - PER-08
 - PER-13
+- HT-02.8
+- HT-02.9
+- HT-02.10
 ---
 
 # PER-02 — Harold “Hal” Whitaker
@@ -294,3 +297,6 @@ That single statement neatly captures Harold's character. Unlike the others, he 
 
 - [PER-08 — Daniel Kowalski](Daniel-Kowalski.md)
 - [PER-13 — Rebecca Lawson](Rebecca-Lawson.md)
+- [HT-02.8 — Interview Guide — Harold “Hal” Whitaker](../handlers-aid/ht-02-interviews/ht-02-8-harold-hal-whitaker.md)
+- [HT-02.9 — Interview Guide — Rebecca Lawson](../handlers-aid/ht-02-interviews/ht-02-9-rebecca-lawson.md)
+- [HT-02.10 — Interview Guide — Richard “Rick” Holloway](../handlers-aid/ht-02-interviews/ht-02-10-richard-rick-holloway.md)

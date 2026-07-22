@@ -6,7 +6,10 @@ status: canonical
 content_status: content_locked
 operation: OP-02
 canonical_path: npcs/David-Barlow.md
-related_objects: []
+related_objects:
+- HT-02.6
+- HT-02.7
+- HT-02.10
 ---
 
 # PER-03 — David Allen Barlow
@@ -352,3 +355,6 @@ After a long silence:
 ## Canonical Relationships
 
 _None._
+- [HT-02.6 — Interview Guide — David Barlow](../handlers-aid/ht-02-interviews/ht-02-6-david-barlow.md)
+- [HT-02.7 — Interview Guide — Melissa Barlow](../handlers-aid/ht-02-interviews/ht-02-7-melissa-barlow.md)
+- [HT-02.10 — Interview Guide — Richard “Rick” Holloway](../handlers-aid/ht-02-interviews/ht-02-10-richard-rick-holloway.md)

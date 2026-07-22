@@ -18,6 +18,7 @@ related_objects:
 - PER-08
 - PER-09
 - PER-16
+- HT-02.5
 ---
 
 # A-05 — Nate Collins SaucerWatch Report
@@ -218,3 +219,4 @@ The report also serves as a subtle mirror of the investigators themselves. Like 
 - [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
 - [PER-09 — Evan Brooks](../npcs/Evan-Brooks.md)
 - [PER-16 — Mi-Go Operative](../npcs/Mi-Go-Operative.md)
+- [HT-02.5 — Interview Guide — Nathaniel “Nate” Collins](../handlers-aid/ht-02-interviews/ht-02-5-nathaniel-nate-collins.md)

@@ -18,6 +18,8 @@ related_objects:
 - PER-07
 - PER-08
 - PER-13
+- HT-02.8
+- HT-02.9
 primary_location: LOC-02
 ---
 
@@ -201,3 +203,5 @@ Unlike Christopher's residence, which teaches investigators how engineers solve 
 - [PER-07 — Patrick O’Connor](../npcs/Patrick-OConnor.md)
 - [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
 - [PER-13 — Rebecca Lawson](../npcs/Rebecca-Lawson.md)
+- [HT-02.8 — Interview Guide — Harold “Hal” Whitaker](../handlers-aid/ht-02-interviews/ht-02-8-harold-hal-whitaker.md)
+- [HT-02.9 — Interview Guide — Rebecca Lawson](../handlers-aid/ht-02-interviews/ht-02-9-rebecca-lawson.md)

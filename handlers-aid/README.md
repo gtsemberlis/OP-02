@@ -1,3 +1,9 @@
-# Handler Tools
+# Handler Aids
 
-Handler Tools are GM-facing play aids. They are not in-world documents and are never distributed to players. They may reorganize and annotate canonical Source Edition content, but must not introduce facts unsupported by canonical source objects.
+Canonical Handler-facing tools for OP-02.
+
+- [HT-01 — Live Interview Guide](HT-01-Live-Interview-Guide.md)
+- [HT-02 — Interview Guide](HT-02-Interview-Guide.md)
+- [HT-03 — Locating the Mi-Go Chamber](HT-03-Progressive-Search.md)
+
+HT-02 individual interview guides are stored in `ht-02-interviews/` and are canonical source objects.

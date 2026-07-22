@@ -13,6 +13,8 @@ related_objects:
 - PER-06
 - PER-07
 - PER-11
+- HT-02.8
+- HT-02.10
 ---
 
 # PER-10 — Richard “Rick” Holloway
@@ -265,3 +267,5 @@ For that reason, Rick should rarely provide critical clues. His purpose is more 
 - [PER-06 — Elena Alvarez](Elena-Alvarez.md)
 - [PER-07 — Patrick O’Connor](Patrick-OConnor.md)
 - [PER-11 — Thomas Sullivan](Dean-Sullivan.md)
+- [HT-02.8 — Interview Guide — Harold “Hal” Whitaker](../handlers-aid/ht-02-interviews/ht-02-8-harold-hal-whitaker.md)
+- [HT-02.10 — Interview Guide — Richard “Rick” Holloway](../handlers-aid/ht-02-interviews/ht-02-10-richard-rick-holloway.md)

@@ -9,6 +9,7 @@ canonical_path: npcs/Evan-Brooks.md
 related_objects:
 - PER-05
 - PER-16
+- HT-02.5
 ---
 
 # PER-09 — Evan Brooks
@@ -223,3 +224,4 @@ Investigators who rely on him uncritically risk following compelling but incorre
 
 - [PER-05 — Nathaniel “Nate” Collins](Nathaniel-Collins.md)
 - [PER-16 — Mi-Go Operative](Mi-Go-Operative.md)
+- [HT-02.5 — Interview Guide — Nathaniel “Nate” Collins](../handlers-aid/ht-02-interviews/ht-02-5-nathaniel-nate-collins.md)

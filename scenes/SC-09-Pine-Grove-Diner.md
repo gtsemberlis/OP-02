@@ -14,6 +14,7 @@ related_objects:
 - PER-05
 - PER-08
 - PER-10
+- HT-02.10
 primary_location: LOC-09
 ---
 
@@ -345,3 +346,4 @@ Investigators should leave the Pine Grove with fewer theories and a deeper appre
 - [PER-05 — Nathaniel “Nate” Collins](../npcs/Nathaniel-Collins.md)
 - [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
 - [PER-10 — Richard “Rick” Holloway](../npcs/Rick-Holloway.md)
+- [HT-02.10 — Interview Guide — Richard “Rick” Holloway](../handlers-aid/ht-02-interviews/ht-02-10-richard-rick-holloway.md)

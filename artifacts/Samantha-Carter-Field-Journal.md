@@ -19,6 +19,8 @@ related_objects:
 - PER-08
 - PER-09
 - PER-16
+- HT-02.3
+- HT-02.4
 ---
 
 # A-04 — Samantha Carter Field Journal
@@ -514,3 +516,5 @@ The July 2 entry is particularly important. It is not intended as a countdown ti
 - [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
 - [PER-09 — Evan Brooks](../npcs/Evan-Brooks.md)
 - [PER-16 — Mi-Go Operative](../npcs/Mi-Go-Operative.md)
+- [HT-02.3 — Interview Guide — Michael & Laura Carter](../handlers-aid/ht-02-interviews/ht-02-3-michael-laura-carter.md)
+- [HT-02.4 — Interview Guide — Samantha Carter](../handlers-aid/ht-02-interviews/ht-02-4-samantha-carter.md)

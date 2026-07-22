@@ -1,5 +1,10 @@
 # OP-01 Source Edition v1.0
 
+> **Release:** OP-02 Source Edition v1.0 RC-3A  
+> **Status:** Repository Revision Candidate — Interview Guide Revision  
+> **Canonical interview source:** `handlers-aid/HT-01-Live-Interview-Guide.md`, `handlers-aid/HT-02-Interview-Guide.md`, and `handlers-aid/ht-02-interviews/`
+
+
 This directory is the canonical Markdown repository for **Operation Airspace**.
 
 - Edit canonical content here; regenerate derived publications afterward.

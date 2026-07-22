@@ -15,6 +15,7 @@ related_objects:
 - PER-04
 - PER-05
 - PER-09
+- HT-02.5
 primary_location: LOC-06
 ---
 
@@ -217,3 +218,4 @@ That decision brings Evan Brooks—and eventually SaucerWatch itself—into the 
 - [PER-04 — Samantha Carter](../npcs/Samantha-Carter.md)
 - [PER-05 — Nathaniel “Nate” Collins](../npcs/Nathaniel-Collins.md)
 - [PER-09 — Evan Brooks](../npcs/Evan-Brooks.md)
+- [HT-02.5 — Interview Guide — Nathaniel “Nate” Collins](../handlers-aid/ht-02-interviews/ht-02-5-nathaniel-nate-collins.md)

@@ -1,0 +1,101 @@
+{
+  "release": "OP-02 Source Edition v1.0 RC-3A",
+  "canonical_objects": 69,
+  "handler_tools": 3,
+  "interview_guides": 10,
+  "duplicate_ids": [],
+  "unresolved_id_references": [],
+  "broken_markdown_links": [],
+  "interview_structure": {
+    "HT-02.1": {
+      "headings": [
+        "General Guidance",
+        "Interview",
+        "Handler Notes"
+      ],
+      "required_present": true
+    },
+    "HT-02.2": {
+      "headings": [
+        "Default Timing",
+        "General Guidance",
+        "Interview",
+        "Handler Notes"
+      ],
+      "required_present": true
+    },
+    "HT-02.3": {
+      "headings": [
+        "Default Timing",
+        "General Guidance",
+        "Interview",
+        "Handler Notes"
+      ],
+      "required_present": true
+    },
+    "HT-02.4": {
+      "headings": [
+        "General Guidance",
+        "Interview",
+        "Handler Notes"
+      ],
+      "required_present": true
+    },
+    "HT-02.5": {
+      "headings": [
+        "General Guidance",
+        "Interview",
+        "Handler Notes"
+      ],
+      "required_present": true
+    },
+    "HT-02.6": {
+      "headings": [
+        "Default Timing",
+        "General Guidance",
+        "Interview",
+        "Mid-Interview Shift",
+        "If Trust Is Fully Established",
+        "Handler Notes"
+      ],
+      "required_present": true
+    },
+    "HT-02.7": {
+      "headings": [
+        "Default Timing",
+        "General Guidance",
+        "Interview",
+        "Handler Notes"
+      ],
+      "required_present": true
+    },
+    "HT-02.8": {
+      "headings": [
+        "Default Timing",
+        "General Guidance",
+        "Interview",
+        "Handler Notes"
+      ],
+      "required_present": true
+    },
+    "HT-02.9": {
+      "headings": [
+        "Default Timing",
+        "General Guidance",
+        "Interview",
+        "Handler Notes"
+      ],
+      "required_present": true
+    },
+    "HT-02.10": {
+      "headings": [
+        "Default Timing",
+        "General Guidance",
+        "Interview",
+        "Handler Notes"
+      ],
+      "required_present": true
+    }
+  },
+  "passed": true
+}

@@ -13,6 +13,8 @@ related_objects:
 - PER-02
 - PER-03
 - PER-14
+- HT-02.6
+- HT-02.7
 primary_location: LOC-03
 ---
 
@@ -213,3 +215,5 @@ They determine which truths actually matter.
 - [PER-02 — Harold “Hal” Whitaker](../npcs/Harold-Whitaker.md)
 - [PER-03 — David Allen Barlow](../npcs/David-Barlow.md)
 - [PER-14 — Melissa Barlow](../npcs/Melissa-Barlow.md)
+- [HT-02.6 — Interview Guide — David Barlow](../handlers-aid/ht-02-interviews/ht-02-6-david-barlow.md)
+- [HT-02.7 — Interview Guide — Melissa Barlow](../handlers-aid/ht-02-interviews/ht-02-7-melissa-barlow.md)

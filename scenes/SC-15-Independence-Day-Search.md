@@ -7,7 +7,7 @@ content_status: content_locked
 operation: OP-02
 canonical_path: scenes/SC-15-Independence-Day-Search.md
 related_objects:
-- HT-01
+- HT-03
 - LOC-11
 - LOC-12
 - LOC-14
@@ -24,7 +24,7 @@ primary_location: LOC-12
 
 ## Purpose
 Escalate Operation Carrier Wave into a county-wide operational crisis, forcing investigators to balance rescue, containment, and confrontation with the Unnatural while the largest coordinated search effort of the operation unfolds around them.
-If investigators attempt to locate the Mi-Go Operating Chamber during this scene, resolve the search using HT-01 — Locating the Mi-Go Chamber.
+If investigators attempt to locate the Mi-Go Operating Chamber during this scene, resolve the search using HT-03 — Locating the Mi-Go Chamber.
 
 ## Scene Overview
 By the evening of July 4, Park Ranger Daniel Kowalski has been missing for two days. If Samantha Carter has also returned to Hogsback State Forest, concern has become desperation.
@@ -80,7 +80,7 @@ Volunteer reports
 Fresh search observations
 The effectiveness of any attempt to locate the Mi-Go Operating Chamber depends upon the investigators' prior synthesis of evidence throughout the operation.
 See:
-HT-01 — Locating the Mi-Go Chamber
+HT-03 — Locating the Mi-Go Chamber
 
 ## What Can The Investigators Learn?
 This scene rewards synthesis rather than new discovery.
@@ -114,7 +114,7 @@ No two groups are searching for quite the same thing.
 The Investigators' Questions Matter
 The information gathered throughout the investigation now becomes operationally significant.
 Earlier interviews, recovered artifacts, and careful observation determine whether the investigators merely participate in the search—or recognize patterns invisible to everyone else.
-Locating the Mi-Go Operating Chamber is resolved using HT-01.
+Locating the Mi-Go Operating Chamber is resolved using HT-03.
 
 ## What Can Happen In This Scene?
 These are interactive outcomes rather than pieces of information.
@@ -144,7 +144,7 @@ It is simply continuing work that predates the investigation.
 Its behavior feels purposeful, clinical, and profoundly unconcerned with human expectations.
 
 The Operating Chamber
-If investigators locate the Mi-Go Operating Chamber, resolve the circumstances using HT-01.
+If investigators locate the Mi-Go Operating Chamber, resolve the circumstances using HT-03.
 Possible outcomes include:
 locating the chamber after the Mi-Go has departed;
 discovering an active biological procedure;
@@ -203,11 +203,11 @@ It is not guarding a lair.
 It is interrupted while performing routine work.
 One image should define the scene.
 A helicopter banks overhead as a brilliant burst of Independence Day fireworks floods the canopy with white light. For a fraction of a second, every tree becomes a black silhouette—and between them stands something that should not exist. Darkness returns. The dogs begin barking in different directions. Radios dissolve once again into that familiar, impossible buzzing.
-Everything the investigators have learned has led them here. The outcome is no longer determined by a single Search roll, but by the quality of the investigation that brought them to this moment. The search for the Mi-Go Operating Chamber should always be resolved using HT-01 — Locating the Mi-Go Chamber, ensuring that discovery feels earned through observation, synthesis, and disciplined inquiry rather than luck.
+Everything the investigators have learned has led them here. The outcome is no longer determined by a single Search roll, but by the quality of the investigation that brought them to this moment. The search for the Mi-Go Operating Chamber should always be resolved using HT-03 — Locating the Mi-Go Chamber, ensuring that discovery feels earned through observation, synthesis, and disciplined inquiry rather than luck.
 
 ## Canonical Relationships
 
-- [HT-01 — Locating the Mi-Go Chamber](../handlers-aid/HT-01-Progressive-Search.md)
+- [HT-03 — Locating the Mi-Go Chamber](../handlers-aid/HT-03-Progressive-Search.md)
 - [LOC-11 — Search Command Post](../locations/Search-Command-Post.md)
 - [LOC-12 — Hogsback State Forest](../locations/Hogsback-State-Forest.md)
 - [LOC-14 — Mi-Go Operating Chamber](../locations/Mi-Go-Operating-Chamber.md)

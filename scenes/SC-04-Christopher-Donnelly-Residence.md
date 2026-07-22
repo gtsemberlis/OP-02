@@ -14,6 +14,8 @@ related_objects:
 - PER-04
 - PER-05
 - PER-12
+- HT-02.1
+- HT-02.2
 primary_location: LOC-04
 ---
 
@@ -207,3 +209,5 @@ Christopher behaves exactly as a competent engineer would when confronted with e
 - [PER-04 — Samantha Carter](../npcs/Samantha-Carter.md)
 - [PER-05 — Nathaniel “Nate” Collins](../npcs/Nathaniel-Collins.md)
 - [PER-12 — Jennifer Donnelly](../npcs/Jennifer-Donnelly.md)
+- [HT-02.1 — Interview Guide — Christopher Donnelly](../handlers-aid/ht-02-interviews/ht-02-1-christopher-donnelly.md)
+- [HT-02.2 — Interview Guide — Jennifer Donnelly](../handlers-aid/ht-02-interviews/ht-02-2-jennifer-donnelly.md)

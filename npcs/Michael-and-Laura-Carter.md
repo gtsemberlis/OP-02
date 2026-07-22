@@ -12,6 +12,8 @@ related_objects:
 - PER-04
 - PER-05
 - PER-16
+- HT-02.3
+- HT-02.4
 ---
 
 # PER-15 — Michael and Laura Carter
@@ -274,3 +276,5 @@ This distinction quietly foreshadows one of Episode 2's central revelations. The
 - [PER-04 — Samantha Carter](Samantha-Carter.md)
 - [PER-05 — Nathaniel “Nate” Collins](Nathaniel-Collins.md)
 - [PER-16 — Mi-Go Operative](Mi-Go-Operative.md)
+- [HT-02.3 — Interview Guide — Michael & Laura Carter](../handlers-aid/ht-02-interviews/ht-02-3-michael-laura-carter.md)
+- [HT-02.4 — Interview Guide — Samantha Carter](../handlers-aid/ht-02-interviews/ht-02-4-samantha-carter.md)

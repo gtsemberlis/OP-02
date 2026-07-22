@@ -13,6 +13,8 @@ related_objects:
 - PER-05
 - PER-12
 - PER-16
+- HT-02.8
+- HT-02.9
 ---
 
 # PER-13 — Rebecca Lawson
@@ -210,3 +212,5 @@ I think this version makes Rebecca one of the most emotionally affecting support
 - [PER-05 — Nathaniel “Nate” Collins](Nathaniel-Collins.md)
 - [PER-12 — Jennifer Donnelly](Jennifer-Donnelly.md)
 - [PER-16 — Mi-Go Operative](Mi-Go-Operative.md)
+- [HT-02.8 — Interview Guide — Harold “Hal” Whitaker](../handlers-aid/ht-02-interviews/ht-02-8-harold-hal-whitaker.md)
+- [HT-02.9 — Interview Guide — Rebecca Lawson](../handlers-aid/ht-02-interviews/ht-02-9-rebecca-lawson.md)

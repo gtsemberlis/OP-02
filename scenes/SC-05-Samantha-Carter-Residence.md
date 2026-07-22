@@ -14,6 +14,8 @@ related_objects:
 - PER-04
 - PER-05
 - PER-15
+- HT-02.3
+- HT-02.4
 primary_location: LOC-05
 ---
 
@@ -191,3 +193,5 @@ Perhaps most importantly, this scene quietly transforms Samantha from a victim i
 - [PER-04 — Samantha Carter](../npcs/Samantha-Carter.md)
 - [PER-05 — Nathaniel “Nate” Collins](../npcs/Nathaniel-Collins.md)
 - [PER-15 — Michael and Laura Carter](../npcs/Michael-and-Laura-Carter.md)
+- [HT-02.3 — Interview Guide — Michael & Laura Carter](../handlers-aid/ht-02-interviews/ht-02-3-michael-laura-carter.md)
+- [HT-02.4 — Interview Guide — Samantha Carter](../handlers-aid/ht-02-interviews/ht-02-4-samantha-carter.md)

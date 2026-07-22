@@ -1,3 +1,14 @@
+# OP-02 Source Edition v1.0 RC-3A
+
+## Interview Guide Revision
+
+- Replaced HT-01 with the canonical Live Interview Guide introduction.
+- Added normalized HT-02 master interview subsystem.
+- Replaced and normalized HT-02.1 through HT-02.10.
+- Preserved Progressive Search as HT-03 and migrated scene references.
+- Consolidated duplicate handler-tool directories into `handlers-aid/`.
+- Added bidirectional relationship metadata across scenes, personnel, artifacts, and interview guides.
+
 # Source Edition v1.1 — Handout Recovery Pass (2026-07-17)
 
 - Restored H-01 — FAA Initial Incident Summary from the recovered approved player version.

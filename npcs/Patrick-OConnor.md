@@ -9,6 +9,7 @@ canonical_path: npcs/Patrick-OConnor.md
 related_objects:
 - LOC-08
 - LOC-10
+- HT-02.9
 ---
 
 # PER-07 — Patrick O’Connor
@@ -222,3 +223,4 @@ His greatest strength—and his greatest limitation—is his unwavering belief t
 
 - [LOC-08 — Mohawk Valley Community College](../locations/Mohawk-Valley-Community-College.md)
 - [LOC-10 — New Hartford Police Department](../locations/New-Hartford-Police-Department.md)
+- [HT-02.9 — Interview Guide — Rebecca Lawson](../handlers-aid/ht-02-interviews/ht-02-9-rebecca-lawson.md)

@@ -14,6 +14,7 @@ related_objects:
 - PER-08
 - PER-09
 - PER-13
+- HT-02.9
 primary_location: LOC-10
 ---
 
@@ -342,3 +343,4 @@ The Unnatural does not triumph because institutions fail. It triumphs because it
 - [PER-08 — Daniel Kowalski](../npcs/Daniel-Kowalski.md)
 - [PER-09 — Evan Brooks](../npcs/Evan-Brooks.md)
 - [PER-13 — Rebecca Lawson](../npcs/Rebecca-Lawson.md)
+- [HT-02.9 — Interview Guide — Rebecca Lawson](../handlers-aid/ht-02-interviews/ht-02-9-rebecca-lawson.md)

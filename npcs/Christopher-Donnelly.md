@@ -9,6 +9,9 @@ canonical_path: npcs/Christopher-Donnelly.md
 related_objects:
 - LOC-08
 - PER-12
+- HT-02.1
+- HT-02.2
+- HT-02.10
 ---
 
 # PER-01 — Christopher Donnelly
@@ -278,3 +281,6 @@ Only later does she begin to wonder how someone can abandon a lifelong addiction
 
 - [LOC-08 — Mohawk Valley Community College](../locations/Mohawk-Valley-Community-College.md)
 - [PER-12 — Jennifer Donnelly](Jennifer-Donnelly.md)
+- [HT-02.1 — Interview Guide — Christopher Donnelly](../handlers-aid/ht-02-interviews/ht-02-1-christopher-donnelly.md)
+- [HT-02.2 — Interview Guide — Jennifer Donnelly](../handlers-aid/ht-02-interviews/ht-02-2-jennifer-donnelly.md)
+- [HT-02.10 — Interview Guide — Richard “Rick” Holloway](../handlers-aid/ht-02-interviews/ht-02-10-richard-rick-holloway.md)

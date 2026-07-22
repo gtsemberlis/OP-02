@@ -10,7 +10,7 @@ related_objects:
 - A-04
 - A-08
 - A-09
-- HT-01
+- HT-03
 - LOC-12
 - LOC-14
 - PER-04
@@ -26,7 +26,7 @@ primary_location: LOC-12
 ## Purpose
 Provide the operation's primary investigative sandbox within Hogsback State Forest.
 Investigators may conduct environmental surveys, participate in search operations, recover evidence, follow emerging leads, coordinate with outside agencies, and attempt to locate the Mi-Go Operating Chamber.
-Any attempt to locate the chamber is resolved using HT-01 — Locating the Mi-Go Chamber.
+Any attempt to locate the chamber is resolved using HT-03 — Locating the Mi-Go Chamber.
 
 ## Scene Overview
 Hogsback State Forest is not a single encounter.
@@ -127,7 +127,7 @@ Each interview.
 Each observation.
 Each search.
 Reduces uncertainty.
-Attempts to locate the Mi-Go Operating Chamber should always be resolved using HT-01 — Locating the Mi-Go Chamber.
+Attempts to locate the Mi-Go Operating Chamber should always be resolved using HT-03 — Locating the Mi-Go Chamber.
 
 ## What Can Happen In This Scene?
 This scene is intentionally open-ended.
@@ -164,7 +164,7 @@ Media documenting the search.
 These encounters create opportunities for collaboration—or complications.
 
 Locate The Mi-Go Operating Chamber
-Attempts to locate the chamber are resolved using HT-01.
+Attempts to locate the chamber are resolved using HT-03.
 Depending on the investigators' preparation, accumulated evidence, and operational choices, they may:
 fail to significantly narrow the search;
 discover evidence requiring further analysis;
@@ -195,14 +195,14 @@ The forest has become the center of the operation.
 Forest Operations is the campaign's primary investigative sandbox.
 It should never become a sequence of repeated Search rolls or random encounters. Instead, each visit should reflect the investigators' growing understanding of Hogsback and the consequences of previous decisions. New evidence appears because people continue searching, victims continue making choices, and the investigation itself reshapes the operational environment.
 Most importantly, the forest should reward synthesis rather than persistence. Investigators do not find the Mi-Go Operating Chamber because they searched longer than everyone else. They find it because they have learned to interpret Hogsback differently than everyone else.
-HT-01 — Locating the Mi-Go Chamber exists to support this philosophy. The Handler should think in terms of reducing uncertainty rather than rewarding fortunate die rolls. Every meaningful artifact, interview, and observation gives the investigators new ways of seeing the forest, until the operating chamber ceases to be hidden—not because it has changed, but because the investigators have.
+HT-03 — Locating the Mi-Go Chamber exists to support this philosophy. The Handler should think in terms of reducing uncertainty rather than rewarding fortunate die rolls. Every meaningful artifact, interview, and observation gives the investigators new ways of seeing the forest, until the operating chamber ceases to be hidden—not because it has changed, but because the investigators have.
 
 ## Canonical Relationships
 
 - [A-04 — Samantha Carter Field Journal](../artifacts/Samantha-Carter-Field-Journal.md)
 - [A-08 — Daniel Kowalski Ranger Radio](../artifacts/Daniel-Kowalski-Ranger-Radio.md)
 - [A-09 — Daniel Kowalski Final Radio Transmission](../artifacts/Daniel-Kowalski-Final-Radio-Transmission.md)
-- [HT-01 — Locating the Mi-Go Chamber](../handlers-aid/HT-01-Progressive-Search.md)
+- [HT-03 — Locating the Mi-Go Chamber](../handlers-aid/HT-03-Progressive-Search.md)
 - [LOC-12 — Hogsback State Forest](../locations/Hogsback-State-Forest.md)
 - [LOC-14 — Mi-Go Operating Chamber](../locations/Mi-Go-Operating-Chamber.md)
 - [PER-04 — Samantha Carter](../npcs/Samantha-Carter.md)
