@@ -81,3 +81,10 @@ All notable changes to the OP-01 Source Edition are recorded here.
 
 ## RC-3H
 - Added H-08 Owen Walker's Drawing and image asset.
+
+
+## v1.1 Certification
+
+### Certified
+
+- Carrier Wave designated the Reference Source Edition for HDE Specification v1.1.

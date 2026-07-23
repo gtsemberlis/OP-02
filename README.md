@@ -50,3 +50,13 @@ See [MANIFEST.md](MANIFEST.md) for the object inventory and [SCHEMA.md](SCHEMA.m
 ## Operational Reference Objects
 
 This repository contains Handler Aids (HT-*) and Operational Resolutions (OR-*).
+
+
+## Repository Status
+
+Reference Source Edition
+
+- Operation: Carrier Wave
+- HDE Specification: v1.1
+- Status: CERTIFIED REFERENCE IMPLEMENTATION (pending Commit 5 certification)
+- Toolchain Target: HDE Toolchain v0.1+
