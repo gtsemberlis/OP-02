@@ -1,40 +1,28 @@
 ---
 id: HT-02
-title: Interview Guide
-type: handler_tool
+type: handler-aid
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: handlers-aid/HT-02-Interview-Guide.md
-children:
-- HT-02.1
-- HT-02.2
-- HT-02.3
-- HT-02.4
-- HT-02.5
-- HT-02.6
-- HT-02.7
-- HT-02.8
-- HT-02.9
-- HT-02.10
-related_objects:
-- HT-01
-- HT-02.1
-- HT-02.2
-- HT-02.3
-- HT-02.4
-- HT-02.5
-- HT-02.6
-- HT-02.7
-- HT-02.8
-- HT-02.9
-- HT-02.10
-- SC-02
-- SC-03
-- SC-04
-- SC-05
-- SC-06
-- SC-09
+
+related:
+  handler_aids:
+    - HT-01
+    - HT-02.1
+    - HT-02.2
+    - HT-02.3
+    - HT-02.4
+    - HT-02.5
+    - HT-02.6
+    - HT-02.7
+    - HT-02.8
+    - HT-02.9
+    - HT-02.10
+  scenes:
+    - SC-02
+    - SC-03
+    - SC-04
+    - SC-05
+    - SC-06
+    - SC-09
 ---
 
 # HT-02 — Interview Guide

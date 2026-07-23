@@ -1,22 +1,21 @@
 ---
 id: SC-14
-title: Mi-Go Operating Chamber
 type: scene
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: scenes/SC-14-Mi-Go-Operating-Chamber.md
-related_objects:
-- A-10
-- A-11
-- LOC-12
-- LOC-14
-- PER-04
-- PER-05
-- PER-08
-- PER-09
-- PER-16
-primary_location: LOC-14
+
+related:
+  artifacts:
+    - A-10
+    - A-11
+  locations:
+    - LOC-12
+    - LOC-14
+  personnel:
+    - PER-04
+    - PER-05
+    - PER-08
+    - PER-09
+    - PER-16
 ---
 
 # SC-14 — Mi-Go Operating Chamber

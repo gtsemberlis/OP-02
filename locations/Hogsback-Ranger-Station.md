@@ -1,18 +1,18 @@
 ---
 id: LOC-13
-title: Hogsback Ranger Station
 type: location
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: locations/Hogsback-Ranger-Station.md
-related_objects:
-- A-08
-- LOC-08
-- LOC-12
-- LOC-14
-- PER-08
-- PER-16
+
+related:
+  artifacts:
+    - A-08
+  locations:
+    - LOC-08
+    - LOC-12
+    - LOC-14
+  personnel:
+    - PER-08
+    - PER-16
 ---
 
 # LOC-13 — Hogsback Ranger Station

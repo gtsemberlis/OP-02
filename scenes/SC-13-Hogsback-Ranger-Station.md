@@ -1,20 +1,19 @@
 ---
 id: SC-13
-title: Hogsback Ranger Station
 type: scene
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: scenes/SC-13-Hogsback-Ranger-Station.md
-related_objects:
-- A-08
-- A-09
-- LOC-11
-- LOC-12
-- LOC-13
-- PER-08
-- PER-09
-primary_location: LOC-13
+
+related:
+  artifacts:
+    - A-08
+    - A-09
+  locations:
+    - LOC-11
+    - LOC-12
+    - LOC-13
+  personnel:
+    - PER-08
+    - PER-09
 ---
 
 # SC-13 — Hogsback Ranger Station

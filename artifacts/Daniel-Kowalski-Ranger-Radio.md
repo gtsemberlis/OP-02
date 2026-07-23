@@ -1,21 +1,21 @@
 ---
 id: A-08
-title: Daniel Kowalski Ranger Radio
 type: artifact
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: artifacts/Daniel-Kowalski-Ranger-Radio.md
-related_objects:
-- A-02
-- LOC-12
-- LOC-13
-- PER-02
-- PER-04
-- PER-05
-- PER-08
-- PER-09
-- PER-16
+
+related:
+  artifacts:
+    - A-02
+  locations:
+    - LOC-12
+    - LOC-13
+  personnel:
+    - PER-02
+    - PER-04
+    - PER-05
+    - PER-08
+    - PER-09
+    - PER-16
 ---
 
 # A-08 — Daniel Kowalski Ranger Radio

@@ -1,16 +1,15 @@
 ---
 id: LOC-07
-title: Brooks’ Motel Room
 type: location
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: locations/Brooks-Motel-Room.md
-related_objects:
-- LOC-12
-- PER-05
-- PER-08
-- PER-09
+
+related:
+  locations:
+    - LOC-12
+  personnel:
+    - PER-05
+    - PER-08
+    - PER-09
 ---
 
 # LOC-07 — Brooks’ Motel Room

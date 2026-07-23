@@ -1,29 +1,20 @@
 ---
 id: HT-02.6
-title: Interview Guide — David Barlow
-type: interview_guide
+type: handler-aid
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: handlers-aid/ht-02-interviews/ht-02-6-david-barlow.md
-parent: HT-02
-default_timing: Act I (June 27–July 1)
-related_scenes:
-- SC-03
-related_personnel:
-- PER-03
-- PER-14
-related_artifacts:
-- A-01
-- A-03
-related_objects:
-- HT-01
-- HT-02
-- SC-03
-- PER-03
-- PER-14
-- A-01
-- A-03
+
+related:
+  handler_aids:
+    - HT-01
+    - HT-02
+  scenes:
+    - SC-03
+  personnel:
+    - PER-03
+    - PER-14
+  artifacts:
+    - A-01
+    - A-03
 ---
 
 # HT-02.6 — Interview Guide — David Barlow

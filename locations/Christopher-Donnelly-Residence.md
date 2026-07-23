@@ -1,18 +1,17 @@
 ---
 id: LOC-04
-title: Christopher Donnelly Residence
 type: location
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: locations/Christopher-Donnelly-Residence.md
-related_objects:
-- LOC-12
-- PER-01
-- PER-02
-- PER-03
-- PER-04
-- PER-05
+
+related:
+  locations:
+    - LOC-12
+  personnel:
+    - PER-01
+    - PER-02
+    - PER-03
+    - PER-04
+    - PER-05
 ---
 
 # LOC-04 — Christopher Donnelly Residence

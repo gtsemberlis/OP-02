@@ -1,18 +1,17 @@
 ---
 id: LOC-01
-title: FBI Field Office
 type: location
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: locations/FBI-Field-Office.md
-related_objects:
-- LOC-12
-- LOC-14
-- PER-02
-- PER-05
-- PER-06
-- PER-16
+
+related:
+  locations:
+    - LOC-12
+    - LOC-14
+  personnel:
+    - PER-02
+    - PER-05
+    - PER-06
+    - PER-16
 ---
 
 # LOC-01 — FBI Field Office

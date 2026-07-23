@@ -1,26 +1,26 @@
 ---
 id: SC-02
-title: Hal Whitaker Farm
 type: scene
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: scenes/SC-02-Hal-Whitaker-Farm.md
-related_objects:
-- A-02
-- LOC-02
-- LOC-12
-- LOC-14
-- PER-01
-- PER-02
-- PER-04
-- PER-05
-- PER-07
-- PER-08
-- PER-13
-- HT-02.8
-- HT-02.9
-primary_location: LOC-02
+
+related:
+  artifacts:
+    - A-02
+  locations:
+    - LOC-02
+    - LOC-12
+    - LOC-14
+  personnel:
+    - PER-01
+    - PER-02
+    - PER-04
+    - PER-05
+    - PER-07
+    - PER-08
+    - PER-13
+  handler_aids:
+    - HT-02.8
+    - HT-02.9
 ---
 
 # SC-02 — Hal Whitaker Farm

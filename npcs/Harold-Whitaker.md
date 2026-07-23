@@ -1,17 +1,16 @@
 ---
 id: PER-02
-title: Harold “Hal” Whitaker
 type: personnel
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: npcs/Harold-Whitaker.md
-related_objects:
-- PER-08
-- PER-13
-- HT-02.8
-- HT-02.9
-- HT-02.10
+
+related:
+  personnel:
+    - PER-08
+    - PER-13
+  handler_aids:
+    - HT-02.8
+    - HT-02.9
+    - HT-02.10
 ---
 
 # PER-02 — Harold “Hal” Whitaker

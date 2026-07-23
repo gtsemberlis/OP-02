@@ -1,19 +1,19 @@
 ---
 id: A-09
-title: Daniel Kowalski Final Radio Transmission
 type: artifact
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: artifacts/Daniel-Kowalski-Final-Radio-Transmission.md
-related_objects:
-- A-02
-- LOC-13
-- PER-02
-- PER-04
-- PER-05
-- PER-08
-- PER-09
+
+related:
+  artifacts:
+    - A-02
+  locations:
+    - LOC-13
+  personnel:
+    - PER-02
+    - PER-04
+    - PER-05
+    - PER-08
+    - PER-09
 ---
 
 # A-09 — Daniel Kowalski Final Radio Transmission

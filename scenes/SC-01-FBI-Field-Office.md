@@ -1,18 +1,17 @@
 ---
 id: SC-01
-title: FBI Field Office
 type: scene
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: scenes/SC-01-FBI-Field-Office.md
-related_objects:
-- A-01
-- LOC-01
-- PER-05
-- PER-06
-- PER-08
-primary_location: LOC-01
+
+related:
+  artifacts:
+    - A-01
+  locations:
+    - LOC-01
+  personnel:
+    - PER-05
+    - PER-06
+    - PER-08
 ---
 
 # SC-01 — FBI Field Office

@@ -1,22 +1,21 @@
 ---
 id: SC-04
-title: Christopher Donnelly Residence
 type: scene
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: scenes/SC-04-Christopher-Donnelly-Residence.md
-related_objects:
-- LOC-04
-- LOC-12
-- PER-01
-- PER-02
-- PER-04
-- PER-05
-- PER-12
-- HT-02.1
-- HT-02.2
-primary_location: LOC-04
+
+related:
+  locations:
+    - LOC-04
+    - LOC-12
+  personnel:
+    - PER-01
+    - PER-02
+    - PER-04
+    - PER-05
+    - PER-12
+  handler_aids:
+    - HT-02.1
+    - HT-02.2
 ---
 
 # SC-04 — Christopher Donnelly Residence

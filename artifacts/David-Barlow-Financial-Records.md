@@ -1,16 +1,15 @@
 ---
 id: A-03
-title: David Barlow Financial Records
 type: artifact
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: artifacts/David-Barlow-Financial-Records.md
-related_objects:
-- PER-03
-- PER-16
-- HT-02.6
-- HT-02.7
+
+related:
+  personnel:
+    - PER-03
+    - PER-16
+  handler_aids:
+    - HT-02.6
+    - HT-02.7
 ---
 
 # A-03 — David Barlow Financial Records

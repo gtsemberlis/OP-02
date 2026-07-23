@@ -1,17 +1,15 @@
 ---
 id: LOC-02
-title: Hal Whitaker Farm
 type: location
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: locations/Hal-Whitaker-Farm.md
-related_objects:
-- PER-02
-- PER-04
-- PER-07
-- PER-08
-- PER-13
+
+related:
+  personnel:
+    - PER-02
+    - PER-04
+    - PER-07
+    - PER-08
+    - PER-13
 ---
 
 # LOC-02 — Hal Whitaker Farm

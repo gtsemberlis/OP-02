@@ -1,27 +1,19 @@
 ---
 id: HT-02.2
-title: Interview Guide — Jennifer Donnelly
-type: interview_guide
+type: handler-aid
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: handlers-aid/ht-02-interviews/ht-02-2-jennifer-donnelly.md
-parent: HT-02
-default_timing: Act I (June 27–July 1)
-related_scenes:
-- SC-04
-related_personnel:
-- PER-12
-- PER-01
-related_artifacts:
-- A-01
-related_objects:
-- HT-01
-- HT-02
-- SC-04
-- PER-12
-- PER-01
-- A-01
+
+related:
+  handler_aids:
+    - HT-01
+    - HT-02
+  scenes:
+    - SC-04
+  personnel:
+    - PER-12
+    - PER-01
+  artifacts:
+    - A-01
 ---
 
 # HT-02.2 — Interview Guide — Jennifer Donnelly

@@ -1,31 +1,21 @@
 ---
 id: HT-02.9
-title: Interview Guide — Rebecca Lawson
-type: interview_guide
+type: handler-aid
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: handlers-aid/ht-02-interviews/ht-02-9-rebecca-lawson.md
-parent: HT-02
-default_timing: Act I (June 27–July 1)
-related_scenes:
-- SC-02
-- SC-10
-related_personnel:
-- PER-13
-- PER-02
-- PER-07
-related_artifacts:
-- A-02
-related_objects:
-- HT-01
-- HT-02
-- SC-02
-- SC-10
-- PER-13
-- PER-02
-- PER-07
-- A-02
+
+related:
+  handler_aids:
+    - HT-01
+    - HT-02
+  scenes:
+    - SC-02
+    - SC-10
+  personnel:
+    - PER-13
+    - PER-02
+    - PER-07
+  artifacts:
+    - A-02
 ---
 
 # HT-02.9 — Interview Guide — Rebecca Lawson

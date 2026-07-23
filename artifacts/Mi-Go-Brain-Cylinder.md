@@ -1,17 +1,16 @@
 ---
 id: A-11
-title: Mi-Go Brain Cylinder
 type: artifact
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: artifacts/Mi-Go-Brain-Cylinder.md
-related_objects:
-- LOC-14
-- PER-04
-- PER-08
-- PER-09
-- PER-16
+
+related:
+  locations:
+    - LOC-14
+  personnel:
+    - PER-04
+    - PER-08
+    - PER-09
+    - PER-16
 ---
 
 # A-11 — Mi-Go Brain Cylinder

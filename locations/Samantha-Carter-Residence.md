@@ -1,17 +1,16 @@
 ---
 id: LOC-05
-title: Samantha Carter Residence
 type: location
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: locations/Samantha-Carter-Residence.md
-related_objects:
-- LOC-08
-- LOC-12
-- LOC-14
-- PER-04
-- PER-16
+
+related:
+  locations:
+    - LOC-08
+    - LOC-12
+    - LOC-14
+  personnel:
+    - PER-04
+    - PER-16
 ---
 
 # LOC-05 — Samantha Carter Residence

@@ -1,20 +1,19 @@
 ---
 id: LOC-14
-title: Mi-Go Operating Chamber
 type: location
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: locations/Mi-Go-Operating-Chamber.md
-related_objects:
-- LOC-08
-- LOC-11
-- LOC-12
-- LOC-13
-- PER-04
-- PER-08
-- PER-09
-- PER-16
+
+related:
+  locations:
+    - LOC-08
+    - LOC-11
+    - LOC-12
+    - LOC-13
+  personnel:
+    - PER-04
+    - PER-08
+    - PER-09
+    - PER-16
 ---
 
 # LOC-14 — Mi-Go Operating Chamber

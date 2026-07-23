@@ -1,20 +1,19 @@
 ---
 id: PER-13
-title: Rebecca Lawson
 type: personnel
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: npcs/Rebecca-Lawson.md
-related_objects:
-- PER-01
-- PER-02
-- PER-04
-- PER-05
-- PER-12
-- PER-16
-- HT-02.8
-- HT-02.9
+
+related:
+  personnel:
+    - PER-01
+    - PER-02
+    - PER-04
+    - PER-05
+    - PER-12
+    - PER-16
+  handler_aids:
+    - HT-02.8
+    - HT-02.9
 ---
 
 # PER-13 — Rebecca Lawson

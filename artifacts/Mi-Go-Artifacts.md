@@ -1,14 +1,13 @@
 ---
 id: A-10
-title: Mi-Go Artifacts
 type: artifact
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: artifacts/Mi-Go-Artifacts.md
-related_objects:
-- LOC-14
-- PER-16
+
+related:
+  locations:
+    - LOC-14
+  personnel:
+    - PER-16
 ---
 
 # A-10 — Mi-Go Artifacts

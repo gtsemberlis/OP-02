@@ -1,24 +1,23 @@
 ---
 id: SC-07
-title: Brooks’ Motel Room
 type: scene
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: scenes/SC-07-Brooks-Motel-Room.md
-related_objects:
-- A-05
-- A-06
-- LOC-07
-- LOC-12
-- PER-01
-- PER-02
-- PER-03
-- PER-04
-- PER-05
-- PER-08
-- PER-09
-primary_location: LOC-07
+
+related:
+  artifacts:
+    - A-05
+    - A-06
+  locations:
+    - LOC-07
+    - LOC-12
+  personnel:
+    - PER-01
+    - PER-02
+    - PER-03
+    - PER-04
+    - PER-05
+    - PER-08
+    - PER-09
 ---
 
 # SC-07 — Brooks’ Motel Room

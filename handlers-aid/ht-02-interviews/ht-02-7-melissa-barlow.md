@@ -1,27 +1,19 @@
 ---
 id: HT-02.7
-title: Interview Guide — Melissa Barlow
-type: interview_guide
+type: handler-aid
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: handlers-aid/ht-02-interviews/ht-02-7-melissa-barlow.md
-parent: HT-02
-default_timing: Act I (June 27–July 1)
-related_scenes:
-- SC-03
-related_personnel:
-- PER-14
-- PER-03
-related_artifacts:
-- A-03
-related_objects:
-- HT-01
-- HT-02
-- SC-03
-- PER-14
-- PER-03
-- A-03
+
+related:
+  handler_aids:
+    - HT-01
+    - HT-02
+  scenes:
+    - SC-03
+  personnel:
+    - PER-14
+    - PER-03
+  artifacts:
+    - A-03
 ---
 
 # HT-02.7 — Interview Guide — Melissa Barlow

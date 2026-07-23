@@ -1,24 +1,25 @@
 ---
 id: A-05
-title: Nate Collins SaucerWatch Report
 type: artifact
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: artifacts/Nate-Collins-SaucerWatch-Report.md
-related_objects:
-- A-01
-- A-04
-- A-06
-- A-07
-- LOC-14
-- PER-02
-- PER-04
-- PER-05
-- PER-08
-- PER-09
-- PER-16
-- HT-02.5
+
+related:
+  artifacts:
+    - A-01
+    - A-04
+    - A-06
+    - A-07
+  locations:
+    - LOC-14
+  personnel:
+    - PER-02
+    - PER-04
+    - PER-05
+    - PER-08
+    - PER-09
+    - PER-16
+  handler_aids:
+    - HT-02.5
 ---
 
 # A-05 — Nate Collins SaucerWatch Report

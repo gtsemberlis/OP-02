@@ -32,3 +32,8 @@ canonical object-type vocabulary.
 
 
 - Added H-07_Collector_Field_Notes.md (Collector Field Notes)
+
+
+## Operational Reference Objects
+
+This repository contains Handler Aids (HT-*) and Operational Resolutions (OR-*).

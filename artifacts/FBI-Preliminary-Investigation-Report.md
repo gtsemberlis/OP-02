@@ -1,33 +1,34 @@
 ---
 id: A-01
-title: FBI Preliminary Investigation Report
 type: artifact
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: artifacts/FBI-Preliminary-Investigation-Report.md
-related_objects:
-- A-02
-- A-03
-- A-04
-- A-06
-- LOC-10
-- PER-01
-- PER-02
-- PER-03
-- PER-04
-- PER-05
-- PER-06
-- PER-08
-- PER-09
-- HT-02.1
-- HT-02.2
-- HT-02.3
-- HT-02.4
-- HT-02.5
-- HT-02.6
-- HT-02.8
-- HT-02.10
+
+related:
+  artifacts:
+    - A-02
+    - A-03
+    - A-04
+    - A-06
+  locations:
+    - LOC-10
+  personnel:
+    - PER-01
+    - PER-02
+    - PER-03
+    - PER-04
+    - PER-05
+    - PER-06
+    - PER-08
+    - PER-09
+  handler_aids:
+    - HT-02.1
+    - HT-02.2
+    - HT-02.3
+    - HT-02.4
+    - HT-02.5
+    - HT-02.6
+    - HT-02.8
+    - HT-02.10
 ---
 
 # A-01 — FBI Preliminary Investigation Report

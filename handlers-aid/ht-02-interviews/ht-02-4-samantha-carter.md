@@ -1,33 +1,22 @@
 ---
 id: HT-02.4
-title: Interview Guide — Samantha Carter
-type: interview_guide
+type: handler-aid
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: handlers-aid/ht-02-interviews/ht-02-4-samantha-carter.md
-parent: HT-02
-default_timing: Act I (June 27–July 1)
-related_scenes:
-- SC-05
-related_personnel:
-- PER-04
-- PER-15
-- PER-05
-related_artifacts:
-- A-01
-- A-02
-- A-04
-related_objects:
-- HT-01
-- HT-02
-- SC-05
-- PER-04
-- PER-15
-- PER-05
-- A-01
-- A-02
-- A-04
+
+related:
+  handler_aids:
+    - HT-01
+    - HT-02
+  scenes:
+    - SC-05
+  personnel:
+    - PER-04
+    - PER-15
+    - PER-05
+  artifacts:
+    - A-01
+    - A-02
+    - A-04
 ---
 
 # HT-02.4 — Interview Guide — Samantha Carter

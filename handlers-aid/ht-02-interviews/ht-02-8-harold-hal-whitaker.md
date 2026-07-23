@@ -1,31 +1,21 @@
 ---
 id: HT-02.8
-title: Interview Guide — Harold “Hal” Whitaker
-type: interview_guide
+type: handler-aid
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: handlers-aid/ht-02-interviews/ht-02-8-harold-hal-whitaker.md
-parent: HT-02
-default_timing: Act I (June 27–July 1)
-related_scenes:
-- SC-02
-related_personnel:
-- PER-02
-- PER-13
-- PER-10
-related_artifacts:
-- A-01
-- A-02
-related_objects:
-- HT-01
-- HT-02
-- SC-02
-- PER-02
-- PER-13
-- PER-10
-- A-01
-- A-02
+
+related:
+  handler_aids:
+    - HT-01
+    - HT-02
+  scenes:
+    - SC-02
+  personnel:
+    - PER-02
+    - PER-13
+    - PER-10
+  artifacts:
+    - A-01
+    - A-02
 ---
 
 # HT-02.8 — Interview Guide — Harold “Hal” Whitaker

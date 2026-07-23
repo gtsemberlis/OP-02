@@ -1,26 +1,27 @@
 ---
 id: A-04
-title: Samantha Carter Field Journal
 type: artifact
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: artifacts/Samantha-Carter-Field-Journal.md
-related_objects:
-- A-02
-- LOC-05
-- LOC-08
-- LOC-12
-- PER-01
-- PER-02
-- PER-03
-- PER-04
-- PER-05
-- PER-08
-- PER-09
-- PER-16
-- HT-02.3
-- HT-02.4
+
+related:
+  artifacts:
+    - A-02
+  locations:
+    - LOC-05
+    - LOC-08
+    - LOC-12
+  personnel:
+    - PER-01
+    - PER-02
+    - PER-03
+    - PER-04
+    - PER-05
+    - PER-08
+    - PER-09
+    - PER-16
+  handler_aids:
+    - HT-02.3
+    - HT-02.4
 ---
 
 # A-04 — Samantha Carter Field Journal

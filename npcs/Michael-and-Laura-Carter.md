@@ -1,19 +1,18 @@
 ---
 id: PER-15
-title: Michael and Laura Carter
 type: personnel
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: npcs/Michael-and-Laura-Carter.md
-related_objects:
-- PER-01
-- PER-02
-- PER-04
-- PER-05
-- PER-16
-- HT-02.3
-- HT-02.4
+
+related:
+  personnel:
+    - PER-01
+    - PER-02
+    - PER-04
+    - PER-05
+    - PER-16
+  handler_aids:
+    - HT-02.3
+    - HT-02.4
 ---
 
 # PER-15 — Michael and Laura Carter

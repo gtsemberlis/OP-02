@@ -1,22 +1,20 @@
 ---
 id: SC-11
-title: Search Command Post
 type: scene
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: scenes/SC-11-Search-Command-Post.md
-related_objects:
-- LOC-10
-- LOC-11
-- LOC-12
-- LOC-13
-- PER-05
-- PER-06
-- PER-07
-- PER-08
-- PER-09
-primary_location: LOC-11
+
+related:
+  locations:
+    - LOC-10
+    - LOC-11
+    - LOC-12
+    - LOC-13
+  personnel:
+    - PER-05
+    - PER-06
+    - PER-07
+    - PER-08
+    - PER-09
 ---
 
 # SC-11 — Search Command Post

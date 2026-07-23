@@ -1,21 +1,21 @@
 ---
 id: SC-03
-title: David Barlow Residence
 type: scene
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: scenes/SC-03-David-Barlow-Residence.md
-related_objects:
-- A-03
-- LOC-03
-- PER-01
-- PER-02
-- PER-03
-- PER-14
-- HT-02.6
-- HT-02.7
-primary_location: LOC-03
+
+related:
+  artifacts:
+    - A-03
+  locations:
+    - LOC-03
+  personnel:
+    - PER-01
+    - PER-02
+    - PER-03
+    - PER-14
+  handler_aids:
+    - HT-02.6
+    - HT-02.7
 ---
 
 # SC-03 — David Barlow Residence

@@ -1,20 +1,19 @@
 ---
 id: PER-10
-title: Richard “Rick” Holloway
 type: personnel
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: npcs/Rick-Holloway.md
-related_objects:
-- PER-02
-- PER-04
-- PER-05
-- PER-06
-- PER-07
-- PER-11
-- HT-02.8
-- HT-02.10
+
+related:
+  personnel:
+    - PER-02
+    - PER-04
+    - PER-05
+    - PER-06
+    - PER-07
+    - PER-11
+  handler_aids:
+    - HT-02.8
+    - HT-02.10
 ---
 
 # PER-10 — Richard “Rick” Holloway

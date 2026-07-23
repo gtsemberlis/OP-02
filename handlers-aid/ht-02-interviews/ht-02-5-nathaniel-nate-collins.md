@@ -1,35 +1,23 @@
 ---
 id: HT-02.5
-title: Interview Guide — Nathaniel “Nate” Collins
-type: interview_guide
+type: handler-aid
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: handlers-aid/ht-02-interviews/ht-02-5-nathaniel-nate-collins.md
-parent: HT-02
-default_timing: Act I (June 27–July 1)
-related_scenes:
-- SC-06
-related_personnel:
-- PER-05
-- PER-09
-- PER-11
-- PER-04
-related_artifacts:
-- A-01
-- A-02
-- A-05
-related_objects:
-- HT-01
-- HT-02
-- SC-06
-- PER-05
-- PER-09
-- PER-11
-- PER-04
-- A-01
-- A-02
-- A-05
+
+related:
+  handler_aids:
+    - HT-01
+    - HT-02
+  scenes:
+    - SC-06
+  personnel:
+    - PER-05
+    - PER-09
+    - PER-11
+    - PER-04
+  artifacts:
+    - A-01
+    - A-02
+    - A-05
 ---
 
 # HT-02.5 — Interview Guide — Nathaniel “Nate” Collins

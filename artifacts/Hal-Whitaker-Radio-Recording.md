@@ -1,28 +1,29 @@
 ---
 id: A-02
-title: Hal Whitaker Radio Recording
 type: artifact
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: artifacts/Hal-Whitaker-Radio-Recording.md
-related_objects:
-- A-04
-- A-06
-- LOC-12
-- LOC-14
-- PER-02
-- PER-04
-- PER-05
-- PER-08
-- PER-09
-- PER-16
-- HT-02.1
-- HT-02.4
-- HT-02.5
-- HT-02.8
-- HT-02.9
-- HT-02.10
+
+related:
+  artifacts:
+    - A-04
+    - A-06
+  locations:
+    - LOC-12
+    - LOC-14
+  personnel:
+    - PER-02
+    - PER-04
+    - PER-05
+    - PER-08
+    - PER-09
+    - PER-16
+  handler_aids:
+    - HT-02.1
+    - HT-02.4
+    - HT-02.5
+    - HT-02.8
+    - HT-02.9
+    - HT-02.10
 ---
 
 # A-02 — Hal Whitaker Radio Recording

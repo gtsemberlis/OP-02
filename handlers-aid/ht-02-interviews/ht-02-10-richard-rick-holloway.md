@@ -1,37 +1,24 @@
 ---
 id: HT-02.10
-title: Interview Guide — Richard “Rick” Holloway
-type: interview_guide
+type: handler-aid
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: handlers-aid/ht-02-interviews/ht-02-10-richard-rick-holloway.md
-parent: HT-02
-default_timing: Act I (June 27–July 1)
-related_scenes:
-- SC-09
-related_personnel:
-- PER-10
-- PER-01
-- PER-02
-- PER-03
-- PER-04
-- PER-05
-related_artifacts:
-- A-01
-- A-02
-related_objects:
-- HT-01
-- HT-02
-- SC-09
-- PER-10
-- PER-01
-- PER-02
-- PER-03
-- PER-04
-- PER-05
-- A-01
-- A-02
+
+related:
+  handler_aids:
+    - HT-01
+    - HT-02
+  scenes:
+    - SC-09
+  personnel:
+    - PER-10
+    - PER-01
+    - PER-02
+    - PER-03
+    - PER-04
+    - PER-05
+  artifacts:
+    - A-01
+    - A-02
 ---
 
 # HT-02.10 — Interview Guide — Richard “Rick” Holloway

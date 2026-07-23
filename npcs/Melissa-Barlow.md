@@ -1,16 +1,15 @@
 ---
 id: PER-14
-title: Melissa Barlow
 type: personnel
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: npcs/Melissa-Barlow.md
-related_objects:
-- PER-03
-- PER-16
-- HT-02.6
-- HT-02.7
+
+related:
+  personnel:
+    - PER-03
+    - PER-16
+  handler_aids:
+    - HT-02.6
+    - HT-02.7
 ---
 
 # PER-14 — Melissa Barlow

@@ -1,15 +1,14 @@
 ---
 id: PER-08
-title: Daniel Kowalski
 type: personnel
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: npcs/Daniel-Kowalski.md
-related_objects:
-- LOC-08
-- LOC-12
-- PER-07
+
+related:
+  locations:
+    - LOC-08
+    - LOC-12
+  personnel:
+    - PER-07
 ---
 
 # PER-08 — Daniel Kowalski

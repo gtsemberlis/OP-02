@@ -1,21 +1,20 @@
 ---
 id: SC-09
-title: Pine Grove Diner
 type: scene
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: scenes/SC-09-Pine-Grove-Diner.md
-related_objects:
-- LOC-09
-- LOC-12
-- PER-02
-- PER-04
-- PER-05
-- PER-08
-- PER-10
-- HT-02.10
-primary_location: LOC-09
+
+related:
+  locations:
+    - LOC-09
+    - LOC-12
+  personnel:
+    - PER-02
+    - PER-04
+    - PER-05
+    - PER-08
+    - PER-10
+  handler_aids:
+    - HT-02.10
 ---
 
 # SC-09 — Pine Grove Diner

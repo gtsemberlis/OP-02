@@ -1,19 +1,18 @@
 ---
 id: PER-12
-title: Jennifer Donnelly
 type: personnel
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: npcs/Jennifer-Donnelly.md
-related_objects:
-- PER-01
-- PER-02
-- PER-04
-- PER-05
-- PER-16
-- HT-02.1
-- HT-02.2
+
+related:
+  personnel:
+    - PER-01
+    - PER-02
+    - PER-04
+    - PER-05
+    - PER-16
+  handler_aids:
+    - HT-02.1
+    - HT-02.2
 ---
 
 # PER-12 — Jennifer Donnelly

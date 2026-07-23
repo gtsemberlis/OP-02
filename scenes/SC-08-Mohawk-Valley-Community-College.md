@@ -1,19 +1,18 @@
 ---
 id: SC-08
-title: Mohawk Valley Community College
 type: scene
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: scenes/SC-08-Mohawk-Valley-Community-College.md
-related_objects:
-- A-04
-- LOC-08
-- LOC-12
-- PER-04
-- PER-05
-- PER-11
-primary_location: LOC-08
+
+related:
+  artifacts:
+    - A-04
+  locations:
+    - LOC-08
+    - LOC-12
+  personnel:
+    - PER-04
+    - PER-05
+    - PER-11
 ---
 
 # SC-08 — Mohawk Valley Community College

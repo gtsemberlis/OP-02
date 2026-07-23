@@ -1,20 +1,19 @@
 ---
 id: LOC-11
-title: Search Command Post
 type: location
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: locations/Search-Command-Post.md
-related_objects:
-- LOC-10
-- LOC-12
-- LOC-13
-- LOC-14
-- PER-05
-- PER-07
-- PER-08
-- PER-16
+
+related:
+  locations:
+    - LOC-10
+    - LOC-12
+    - LOC-13
+    - LOC-14
+  personnel:
+    - PER-05
+    - PER-07
+    - PER-08
+    - PER-16
 ---
 
 # LOC-11 — Search Command Post

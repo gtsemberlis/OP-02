@@ -1,19 +1,19 @@
 ---
 id: PER-04
-title: Samantha Carter
 type: personnel
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: npcs/Samantha-Carter.md
-related_objects:
-- LOC-08
-- PER-02
-- PER-05
-- HT-02.3
-- HT-02.4
-- HT-02.5
-- HT-02.10
+
+related:
+  locations:
+    - LOC-08
+  personnel:
+    - PER-02
+    - PER-05
+  handler_aids:
+    - HT-02.3
+    - HT-02.4
+    - HT-02.5
+    - HT-02.10
 ---
 
 # PER-04 — Samantha Carter

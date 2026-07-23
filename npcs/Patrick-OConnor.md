@@ -1,15 +1,14 @@
 ---
 id: PER-07
-title: Patrick O’Connor
 type: personnel
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: npcs/Patrick-OConnor.md
-related_objects:
-- LOC-08
-- LOC-10
-- HT-02.9
+
+related:
+  locations:
+    - LOC-08
+    - LOC-10
+  handler_aids:
+    - HT-02.9
 ---
 
 # PER-07 — Patrick O’Connor

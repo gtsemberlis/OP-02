@@ -1,16 +1,15 @@
 ---
 id: LOC-03
-title: David Barlow Residence
 type: location
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: locations/David-Barlow-Residence.md
-related_objects:
-- LOC-12
-- PER-02
-- PER-03
-- PER-04
+
+related:
+  locations:
+    - LOC-12
+  personnel:
+    - PER-02
+    - PER-03
+    - PER-04
 ---
 
 # LOC-03 — David Barlow Residence

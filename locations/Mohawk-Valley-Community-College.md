@@ -1,18 +1,17 @@
 ---
 id: LOC-08
-title: Mohawk Valley Community College
 type: location
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: locations/Mohawk-Valley-Community-College.md
-related_objects:
-- LOC-01
-- LOC-12
-- PER-04
-- PER-05
-- PER-06
-- PER-07
+
+related:
+  locations:
+    - LOC-01
+    - LOC-12
+  personnel:
+    - PER-04
+    - PER-05
+    - PER-06
+    - PER-07
 ---
 
 # LOC-08 — Mohawk Valley Community College

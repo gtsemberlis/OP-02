@@ -1,18 +1,18 @@
 ---
 id: PER-11
-title: Thomas Sullivan
 type: personnel
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: npcs/Dean-Sullivan.md
-related_objects:
-- LOC-08
-- PER-04
-- PER-05
-- PER-06
-- PER-07
-- HT-02.5
+
+related:
+  locations:
+    - LOC-08
+  personnel:
+    - PER-04
+    - PER-05
+    - PER-06
+    - PER-07
+  handler_aids:
+    - HT-02.5
 ---
 
 # PER-11 — Thomas Sullivan

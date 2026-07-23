@@ -1,21 +1,20 @@
 ---
 id: SC-10
-title: New Hartford Police Department
 type: scene
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: scenes/SC-10-New-Hartford-Police-Department.md
-related_objects:
-- LOC-01
-- LOC-10
-- LOC-12
-- PER-07
-- PER-08
-- PER-09
-- PER-13
-- HT-02.9
-primary_location: LOC-10
+
+related:
+  locations:
+    - LOC-01
+    - LOC-10
+    - LOC-12
+  personnel:
+    - PER-07
+    - PER-08
+    - PER-09
+    - PER-13
+  handler_aids:
+    - HT-02.9
 ---
 
 # SC-10 — New Hartford Police Department

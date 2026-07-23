@@ -1,22 +1,22 @@
 ---
 id: SC-12
-title: Forest Operations
 type: scene
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: scenes/SC-12-Forest-Operations.md
-related_objects:
-- A-04
-- A-08
-- A-09
-- HT-03
-- LOC-12
-- LOC-14
-- PER-04
-- PER-08
-- PER-16
-primary_location: LOC-12
+
+related:
+  artifacts:
+    - A-04
+    - A-08
+    - A-09
+  handler_aids:
+    - HT-03
+  locations:
+    - LOC-12
+    - LOC-14
+  personnel:
+    - PER-04
+    - PER-08
+    - PER-16
 ---
 
 # SC-12 — Forest Operations

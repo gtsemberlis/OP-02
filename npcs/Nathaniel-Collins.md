@@ -1,16 +1,15 @@
 ---
 id: PER-05
-title: Nathaniel “Nate” Collins
 type: personnel
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: npcs/Nathaniel-Collins.md
-related_objects:
-- LOC-08
-- HT-02.4
-- HT-02.5
-- HT-02.10
+
+related:
+  locations:
+    - LOC-08
+  handler_aids:
+    - HT-02.4
+    - HT-02.5
+    - HT-02.10
 ---
 
 # PER-05 — Nathaniel “Nate” Collins

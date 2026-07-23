@@ -1,3 +1,11 @@
+---
+id: The-Park
+type: location
+status: canonical
+
+related: {}
+---
+
 # The Park
 
 **LOCKED CANONICAL**

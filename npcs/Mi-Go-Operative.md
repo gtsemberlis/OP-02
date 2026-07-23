@@ -1,12 +1,9 @@
 ---
 id: PER-16
-title: Mi-Go Operative
 type: personnel
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: npcs/Mi-Go-Operative.md
-related_objects: []
+
+related: {}
 ---
 
 # PER-16 — Mi-Go Operative

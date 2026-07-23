@@ -1,21 +1,20 @@
 ---
 id: SC-15
-title: Independence Day Search
 type: scene
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: scenes/SC-15-Independence-Day-Search.md
-related_objects:
-- HT-03
-- LOC-11
-- LOC-12
-- LOC-14
-- PER-04
-- PER-07
-- PER-08
-- PER-16
-primary_location: LOC-12
+
+related:
+  handler_aids:
+    - HT-03
+  locations:
+    - LOC-11
+    - LOC-12
+    - LOC-14
+  personnel:
+    - PER-04
+    - PER-07
+    - PER-08
+    - PER-16
 ---
 
 # SC-15 — Independence Day Search

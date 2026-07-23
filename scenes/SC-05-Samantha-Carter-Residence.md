@@ -1,22 +1,22 @@
 ---
 id: SC-05
-title: Samantha Carter Residence
 type: scene
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: scenes/SC-05-Samantha-Carter-Residence.md
-related_objects:
-- A-04
-- LOC-05
-- LOC-12
-- PER-02
-- PER-04
-- PER-05
-- PER-15
-- HT-02.3
-- HT-02.4
-primary_location: LOC-05
+
+related:
+  artifacts:
+    - A-04
+  locations:
+    - LOC-05
+    - LOC-12
+  personnel:
+    - PER-02
+    - PER-04
+    - PER-05
+    - PER-15
+  handler_aids:
+    - HT-02.3
+    - HT-02.4
 ---
 
 # SC-05 — Samantha Carter Residence

@@ -1,19 +1,18 @@
 ---
 id: A-06
-title: Brooks Investigation Report
 type: artifact
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: artifacts/Brooks-Investigation-Report.md
-related_objects:
-- LOC-07
-- PER-01
-- PER-02
-- PER-04
-- PER-05
-- PER-08
-- PER-09
+
+related:
+  locations:
+    - LOC-07
+  personnel:
+    - PER-01
+    - PER-02
+    - PER-04
+    - PER-05
+    - PER-08
+    - PER-09
 ---
 
 # A-06 — Brooks Investigation Report

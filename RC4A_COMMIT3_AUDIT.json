@@ -1,0 +1,13 @@
+{
+  "canonical_objects": 71,
+  "unique_ids": 71,
+  "relationship_edges": 499,
+  "unresolved_relationships": 0,
+  "narrative_body_changes_excluding_or01": [],
+  "removed_stale_file": "handlers-aid/HT-01-Progressive-Search.md",
+  "readmes_removed_from_canonical_namespace": [
+    "handlers-aid/README.md",
+    "handouts/README.md"
+  ],
+  "errors": []
+}

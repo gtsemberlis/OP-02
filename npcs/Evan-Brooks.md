@@ -1,15 +1,14 @@
 ---
 id: PER-09
-title: Evan Brooks
 type: personnel
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: npcs/Evan-Brooks.md
-related_objects:
-- PER-05
-- PER-16
-- HT-02.5
+
+related:
+  personnel:
+    - PER-05
+    - PER-16
+  handler_aids:
+    - HT-02.5
 ---
 
 # PER-09 — Evan Brooks

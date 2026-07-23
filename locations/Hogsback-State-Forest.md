@@ -1,19 +1,18 @@
 ---
 id: LOC-12
-title: Hogsback State Forest
 type: location
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: locations/Hogsback-State-Forest.md
-related_objects:
-- LOC-14
-- PER-01
-- PER-02
-- PER-04
-- PER-05
-- PER-08
-- PER-16
+
+related:
+  locations:
+    - LOC-14
+  personnel:
+    - PER-01
+    - PER-02
+    - PER-04
+    - PER-05
+    - PER-08
+    - PER-16
 ---
 
 # LOC-12 — Hogsback State Forest

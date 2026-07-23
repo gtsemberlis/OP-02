@@ -1,22 +1,22 @@
 ---
 id: SC-06
-title: Nate Collins Apartment
 type: scene
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: scenes/SC-06-Nate-Collins-Apartment.md
-related_objects:
-- A-05
-- LOC-06
-- PER-01
-- PER-02
-- PER-03
-- PER-04
-- PER-05
-- PER-09
-- HT-02.5
-primary_location: LOC-06
+
+related:
+  artifacts:
+    - A-05
+  locations:
+    - LOC-06
+  personnel:
+    - PER-01
+    - PER-02
+    - PER-03
+    - PER-04
+    - PER-05
+    - PER-09
+  handler_aids:
+    - HT-02.5
 ---
 
 # SC-06 — Nate Collins Apartment

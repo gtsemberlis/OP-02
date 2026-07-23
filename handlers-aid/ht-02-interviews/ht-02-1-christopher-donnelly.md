@@ -1,29 +1,20 @@
 ---
 id: HT-02.1
-title: Interview Guide — Christopher Donnelly
-type: interview_guide
+type: handler-aid
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: handlers-aid/ht-02-interviews/ht-02-1-christopher-donnelly.md
-parent: HT-02
-default_timing: Act I (June 27–July 1)
-related_scenes:
-- SC-04
-related_personnel:
-- PER-01
-- PER-12
-related_artifacts:
-- A-01
-- A-02
-related_objects:
-- HT-01
-- HT-02
-- SC-04
-- PER-01
-- PER-12
-- A-01
-- A-02
+
+related:
+  handler_aids:
+    - HT-01
+    - HT-02
+  scenes:
+    - SC-04
+  personnel:
+    - PER-01
+    - PER-12
+  artifacts:
+    - A-01
+    - A-02
 ---
 
 # HT-02.1 — Interview Guide — Christopher Donnelly

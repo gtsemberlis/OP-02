@@ -1,15 +1,13 @@
 ---
 id: PER-03
-title: David Allen Barlow
 type: personnel
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: npcs/David-Barlow.md
-related_objects:
-- HT-02.6
-- HT-02.7
-- HT-02.10
+
+related:
+  handler_aids:
+    - HT-02.6
+    - HT-02.7
+    - HT-02.10
 ---
 
 # PER-03 — David Allen Barlow

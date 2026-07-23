@@ -1,19 +1,18 @@
 ---
 id: LOC-06
-title: Nate Collins Apartment
 type: location
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: locations/Nate-Collins-Apartment.md
-related_objects:
-- LOC-08
-- LOC-12
-- PER-02
-- PER-03
-- PER-04
-- PER-05
-- PER-09
+
+related:
+  locations:
+    - LOC-08
+    - LOC-12
+  personnel:
+    - PER-02
+    - PER-03
+    - PER-04
+    - PER-05
+    - PER-09
 ---
 
 # LOC-06 — Nate Collins Apartment

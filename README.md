@@ -45,3 +45,8 @@ See [MANIFEST.md](MANIFEST.md) for the object inventory and [SCHEMA.md](SCHEMA.m
 
 
 - Added H-07_Collector_Field_Notes.md (Collector Field Notes)
+
+
+## Operational Reference Objects
+
+This repository contains Handler Aids (HT-*) and Operational Resolutions (OR-*).

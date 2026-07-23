@@ -1,18 +1,17 @@
 ---
 id: A-07
-title: SaucerWatch Discussion Thread
 type: artifact
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: artifacts/SaucerWatch-Discussion-Thread.md
-related_objects:
-- LOC-12
-- PER-02
-- PER-04
-- PER-05
-- PER-08
-- PER-09
+
+related:
+  locations:
+    - LOC-12
+  personnel:
+    - PER-02
+    - PER-04
+    - PER-05
+    - PER-08
+    - PER-09
 ---
 
 # A-07 — SaucerWatch Discussion Thread

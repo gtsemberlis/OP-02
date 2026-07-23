@@ -1,21 +1,21 @@
 ---
 id: HT-03
-title: Locating the Mi-Go Chamber
-type: handler_tool
+type: handler-aid
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: handlers-aid/HT-03-Progressive-Search.md
-related_objects:
-- SC-12
-- SC-15
-- LOC-12
-- LOC-14
-- A-02
-- A-04
-- A-05
-- A-08
-- A-09
+
+related:
+  scenes:
+    - SC-12
+    - SC-15
+  locations:
+    - LOC-12
+    - LOC-14
+  artifacts:
+    - A-02
+    - A-04
+    - A-05
+    - A-08
+    - A-09
 ---
 
 # HT-03 — Locating the Mi-Go Chamber

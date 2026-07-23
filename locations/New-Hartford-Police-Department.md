@@ -1,20 +1,19 @@
 ---
 id: LOC-10
-title: New Hartford Police Department
 type: location
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: locations/New-Hartford-Police-Department.md
-related_objects:
-- LOC-12
-- PER-02
-- PER-05
-- PER-06
-- PER-07
-- PER-08
-- PER-09
-- PER-13
+
+related:
+  locations:
+    - LOC-12
+  personnel:
+    - PER-02
+    - PER-05
+    - PER-06
+    - PER-07
+    - PER-08
+    - PER-09
+    - PER-13
 ---
 
 # LOC-10 — New Hartford Police Department

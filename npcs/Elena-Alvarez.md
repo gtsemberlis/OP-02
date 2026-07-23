@@ -1,12 +1,9 @@
 ---
 id: PER-06
-title: Elena Alvarez
 type: personnel
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: npcs/Elena-Alvarez.md
-related_objects: []
+
+related: {}
 ---
 
 # PER-06 — Elena Alvarez

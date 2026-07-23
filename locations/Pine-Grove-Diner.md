@@ -1,15 +1,14 @@
 ---
 id: LOC-09
-title: Pine Grove Diner
 type: location
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: locations/Pine-Grove-Diner.md
-related_objects:
-- LOC-12
-- PER-04
-- PER-08
+
+related:
+  locations:
+    - LOC-12
+  personnel:
+    - PER-04
+    - PER-08
 ---
 
 # LOC-09 — Pine Grove Diner

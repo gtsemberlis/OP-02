@@ -1,17 +1,17 @@
 ---
 id: PER-01
-title: Christopher Donnelly
 type: personnel
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: npcs/Christopher-Donnelly.md
-related_objects:
-- LOC-08
-- PER-12
-- HT-02.1
-- HT-02.2
-- HT-02.10
+
+related:
+  locations:
+    - LOC-08
+  personnel:
+    - PER-12
+  handler_aids:
+    - HT-02.1
+    - HT-02.2
+    - HT-02.10
 ---
 
 # PER-01 — Christopher Donnelly

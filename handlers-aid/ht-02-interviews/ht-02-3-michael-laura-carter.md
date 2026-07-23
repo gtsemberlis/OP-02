@@ -1,29 +1,20 @@
 ---
 id: HT-02.3
-title: Interview Guide — Michael & Laura Carter
-type: interview_guide
+type: handler-aid
 status: canonical
-content_status: content_locked
-operation: OP-02
-canonical_path: handlers-aid/ht-02-interviews/ht-02-3-michael-laura-carter.md
-parent: HT-02
-default_timing: Act I (June 27–July 1)
-related_scenes:
-- SC-05
-related_personnel:
-- PER-15
-- PER-04
-related_artifacts:
-- A-01
-- A-04
-related_objects:
-- HT-01
-- HT-02
-- SC-05
-- PER-15
-- PER-04
-- A-01
-- A-04
+
+related:
+  handler_aids:
+    - HT-01
+    - HT-02
+  scenes:
+    - SC-05
+  personnel:
+    - PER-15
+    - PER-04
+  artifacts:
+    - A-01
+    - A-04
 ---
 
 # HT-02.3 — Interview Guide — Michael & Laura Carter
