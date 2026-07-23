@@ -26,9 +26,9 @@ canonical object-type vocabulary.
 - `handouts/`: complete player-facing documents, `H-##`.
 
 
-## Handler Tools
+## Handler Aids
 
-`handler_tools/` contains GM-facing play aids using the `HT-##` namespace. These tools are not in-world documents and must never be included in player-facing evidence packets.
+`handlers-aid/` contains canonical Handler-facing play aids using the `HT-##` namespace. These aids are not in-world documents and must never be included in player-facing evidence packets.
 
 
 - Added H-07_Collector_Field_Notes.md (Collector Field Notes)

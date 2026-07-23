@@ -39,9 +39,9 @@ See [MANIFEST.md](MANIFEST.md) for the object inventory and [SCHEMA.md](SCHEMA.m
 - H-01 is the restored FAA Initial Incident Summary player document.
 
 
-## Handler Tools
+## Handler Aids
 
-`handler_tools/` contains GM-facing play aids using the `HT-##` namespace. These tools are not in-world documents and must never be included in player-facing evidence packets.
+`handlers-aid/` contains canonical Handler-facing play aids using the `HT-##` namespace. These aids are not in-world documents and must never be included in player-facing evidence packets.
 
 
 - Added H-07_Collector_Field_Notes.md (Collector Field Notes)
